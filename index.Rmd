@@ -7,4 +7,4 @@ Sys.setlocale("LC_ALL", "cs_CZ.UTF-8")
 ```
 
 
-Naposledy aktualizováno `format(Sys.time(), "%d. %B %Y")`
+Naposledy aktualizováno `r format(Sys.time(), "%d. %B %Y")`

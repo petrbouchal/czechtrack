@@ -13,6 +13,9 @@ jobs:
       - name: Setup R
         uses: r-lib/actions/setup-r@master
 
+      - name: Install locale
+        run: locale-gen cs_CZ.UTF-8
+
       - name: Install pandoc
         uses: r-lib/actions/setup-pandoc@v1
         with:
