@@ -5,7 +5,7 @@ name: Render and Deploy RMarkdown Website
     - cron:  '0 1 * * *'
 jobs:
   build:
-    runs-on: ubuntu-18.04
+    runs-on: macos-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
@@ -13,8 +13,8 @@ jobs:
       - name: Setup R
         uses: r-lib/actions/setup-r@master
 
-      - name: Install locale
-        run: locale-gen cs_CZ.UTF-8
+      # - name: Install locale
+      #   run: locale-gen cs_CZ.UTF-8
 
       - name: Install pandoc
         uses: r-lib/actions/setup-pandoc@v1
@@ -43,4 +43,3 @@ jobs:
         env:
           BUILD_DIR: 'docs'
           GH_PAT: ${{ secrets.GH_PAT }}
-    container: rocker/verse:latest
