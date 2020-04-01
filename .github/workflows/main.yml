@@ -5,7 +5,7 @@ name: Render and Deploy RMarkdown Website
     - cron:  '*/5 * * * *'
 jobs:
   build:
-    runs-on: macos-latest
+    runs-on: ubuntu-18.04
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
