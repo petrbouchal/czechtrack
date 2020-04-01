@@ -2,3 +2,9 @@
 title: "Česká rozpočtová data"
 ---
 
+```{r setup, echo = F}
+Sys.setlocale("LC_ALL", "cs_CZ.UTF-8")
+```
+
+
+Naposledy aktualizováno `format(Sys.time(), "%d. %B %Y")`
