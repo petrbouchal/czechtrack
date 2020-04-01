@@ -2,7 +2,7 @@ name: Render and Deploy RMarkdown Website
 'on': push
 jobs:
   build:
-    runs-on: ubuntu-18.04
+    runs-on: macos-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
