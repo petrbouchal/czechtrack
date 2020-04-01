@@ -37,6 +37,10 @@ jobs:
         run: |-
           Rscript -e "rmarkdown::render_site(encoding = 'UTF-8')"
      
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
         if: github.ref == 'refs/heads/master'
         uses: maxheld83/ghpages@v0.2.0
