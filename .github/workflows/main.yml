@@ -1,8 +1,8 @@
 name: Render and Deploy RMarkdown Website
 'on': 
-  push
+  push:
   schedule:
-  - cron:  '*/5 * * * *'
+    - cron:  '*/5 * * * *'
 jobs:
   build:
     runs-on: macos-latest
