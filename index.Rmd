@@ -17,7 +17,31 @@ library(showtext)
 
 ```
 
+```{r metathis}
+library(metathis)
+
+meta() %>%
+  meta_description(
+    "Aktualizovaný přehled vývoje rozpočtu a výběru daní"
+  ) %>% 
+  meta_name("github-repo" = "petrbouchal/czechtrack") %>% 
+  meta_viewport() %>% 
+  meta_social(
+    title = "Czech Track",
+    url = "https://petrbouchal.github.io/czechtrack/",
+    image = "https://petrbouchal.github.io/czechtrack/twitter_card_large.png",
+    image_alt = "Náhled grafu výběru daní v meziročním srovnání",
+    og_type = "website",
+    og_author = c("Petr Bouchal"),
+    twitter_card_type = "summary_large_image",
+    twitter_creator = "@petrbouchal"
+  )
+```
+
+
 Naposledy aktualizováno `r format(lubridate::now(tzone = "CET"), "%d. %B %Y %H:%M %Z")`.
+
+Kontakt: [Petr Bouchal](https://petrbouchal.github.io) | [twitter.com/petrbouchal](https://twitter.com/petrbouchal/) | [github.com/petrbouchal](https://github.com/petrbouchal/)
 
 ```{r}
 sysfonts::font_add_google(family = "rbtc", name = "Roboto Condensed")
@@ -136,7 +160,7 @@ ggplot(all %>%
                expand = expansion(c(0.05, 0))) +
   labs(x = "den v roce", title = "Výběr daní podle dat Finanční správy",
        subtitle = str_glue("mld. Kč, poslední údaj z {latest}. Rok 2020 zvýrazněn"),
-       caption = "Zdroj: https://www.financnisprava.cz/cs/dane/kraje-a-obce/danove-prijmy-kraju-a-obci/prubeh-celostatniho-inkasa-sdilenych-dani-3735")
+       caption = "Zdroj: https://www.financnisprava.cz/cs/dane/kraje-a-obce/danove-prijmy-kraju-a-obci/prubeh-celostatniho-inkasa-sdilenych-dani-3735\n @petrbouchal | petrbouchal.github.io/czechtrack")
 ```
 
 ### Meziroční srovnání
@@ -202,7 +226,8 @@ all_diffs %>%
   gghighlight::gghighlight(rok == 2020, unhighlighted_params = list(alpha = .3)) +
   facet_wrap(~ nazev) + theme_schola("scatter", multiplot = T) +
   labs(title = "Meziroční změna výnosu vybraných daní podle období",
-       subtitle = "rok 2020 zvýrazněn; extrémní hodnoty vynechány.")
+       subtitle = "rok 2020 zvýrazněn; extrémní hodnoty vynechány.",
+       caption = "Zdroj: https://www.financnisprava.cz/cs/dane/kraje-a-obce/danove-prijmy-kraju-a-obci/prubeh-celostatniho-inkasa-sdilenych-dani-3735\n @petrbouchal | petrbouchal.github.io/czechtrack")
 ```
 
 ### Data {.tabset .tabset-pills}
