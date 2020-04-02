@@ -653,18 +653,6 @@
       "Repository": "CRAN",
       "Hash": "b06bfb3504cc8a4579fd5567646f745b"
     },
-    "reschola": {
-      "Package": "reschola",
-      "Version": "0.2.9.9000",
-      "Source": "GitHub",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteUsername": "scholaempirica",
-      "RemoteRepo": "reschola",
-      "RemoteRef": "master",
-      "RemoteSha": "07b9af9e87d838e7c0910086c8a27a6ba5c880ec",
-      "Hash": "213c918aff5cb2431fa18e2eabab4f27"
-    },
     "reshape2": {
       "Package": "reshape2",
       "Version": "1.4.3",

@@ -13,8 +13,52 @@ knitr::opts_chunk$set(include = F, warning = F, message = F)
 library(tidyverse)
 library(rvest)
 library(lubridate)
-library(reschola)
 ```
+
+```{r}
+theme_schola <- function(gridlines = c("y", "x", "both", "scatter"),
+                         base_size = 11,
+                         family = "Roboto Condensed", title_family = "Roboto",
+                         margin_side = 6,
+                         margin_bottom = 6,
+                         plot.title.position = "plot",
+                         axis.title = ggplot2::element_blank(),
+                         multiplot = FALSE,
+                         ...) {
+  tonecol <- "#f6f0e8"
+  grd <- match.arg(gridlines)
+  grid_col <- if(grd == "scatter" | multiplot) "white" else "grey92"
+  bg_col <- if(grd == "scatter" | multiplot) tonecol else "white"
+  element_gridline <- ggplot2::element_line(colour = grid_col, size = 0.3)
+  thm <- ggplot2::theme_minimal(base_size = base_size, base_family = family) +
+    ggplot2::theme(plot.title.position = plot.title.position,
+                   plot.title = ggplot2::element_text(face = "bold",
+                                                      size = base_size * 1.2,
+                                                      family = title_family),
+                   panel.grid.minor = ggplot2::element_blank(),
+                   panel.grid.major.x = if(grd != "y")
+                     element_gridline else ggplot2::element_blank(),
+                   panel.grid.major.y = if(grd != "x")
+                     element_gridline else ggplot2::element_blank(),
+                   # axis.line = ggplot2::element_line(),
+                   panel.background = ggplot2::element_rect(fill = bg_col,
+                                                            colour = NA),
+                   axis.title = axis.title,
+                   strip.text.x = ggplot2::element_text(hjust = 0),
+                   plot.margin = ggplot2::unit(c(10, margin_side,
+                                                 margin_bottom, margin_side),
+                                               units = "pt"))
+  if(multiplot) thm <- thm +
+    ggplot2::theme(strip.background = ggplot2::element_rect(fill = tonecol,
+                                                            colour = NA))
+
+  thm <- thm +
+    ggplot2::theme(...)
+
+  return(thm)
+}
+```
+
 
 ```{r get data}
 dan_vynosy0 <- read_html("https://www.financnisprava.cz/cs/dane/kraje-a-obce/danove-prijmy-kraju-a-obci/prubeh-celostatniho-inkasa-sdilenych-dani-3735") %>% 
@@ -59,6 +103,10 @@ all <- map_dfr(dan_vynosy0, munge_year) %>%
 latest <- max(all$datum_parsed, na.rm = T) %>% format("%d. %B %Y")
 ```
 
+## Výběr daní {.tab}
+
+### Časové řady
+
 ```{r include=T}
 ggplot(all %>% 
          # filter(nazev == "DPH") %>%
@@ -76,6 +124,8 @@ ggplot(all %>%
        subtitle = str_glue("mld. Kč, poslední údaj z {latest}. Rok 2020 zvýrazněn"),
        caption = "Zdroj: https://www.financnisprava.cz/cs/dane/kraje-a-obce/danove-prijmy-kraju-a-obci/prubeh-celostatniho-inkasa-sdilenych-dani-3735")
 ```
+
+### Meziroční srovnání
 
 ```{r}
 all %>% 
