@@ -1,10 +1,171 @@
 ---
 title: "Česká rozpočtová data"
+output:
+  html_document:
+    toc: false
 ---
 
-```{r setup, echo = F}
+```{r setup, echo = F, message=F, include=F, eval = T}
 Sys.setlocale("LC_ALL", "cs_CZ.UTF-8")
+
+knitr::opts_chunk$set(include = F, warning = F, message = F)
+
+library(tidyverse)
+library(rvest)
+library(lubridate)
+library(reschola)
+```
+
+```{r get data}
+dan_vynosy0 <- read_html("https://www.financnisprava.cz/cs/dane/kraje-a-obce/danove-prijmy-kraju-a-obci/prubeh-celostatniho-inkasa-sdilenych-dani-3735") %>% 
+  html_table(fill = T, dec = ",")
+
+dan_vynosy <- dan_vynosy0[[2]][,1:8] %>%
+  # filter(str_detect(.[,1], "2018")) %>% # is this tbl for 2018? If, not, change index above
+  set_names(dan_vynosy0[[2]][2,1:8]) %>% 
+  slice(3:n()) %>% 
+  pivot_longer(-DATUM) %>%
+  mutate(value = str_remove_all(value, " ") %>% 
+           str_replace(",", ".") %>% 
+           as.numeric(value),
+         name = str_replace_all(name, " \n ", " "))
+
+dan_vynosy_all <- bind_rows(dan_vynosy0)
+
+munge_year <- function(df) {
+  dff <- df[,1:min(ncol(df), 8)]
+  dfff <- set_names(dff, dff[2,])
+  dfff %>% 
+    slice(3:n()) %>% 
+    pivot_longer(-DATUM) %>%
+    mutate(value = str_remove_all(value, " ") %>% 
+             str_replace(",", ".") %>% 
+             as.numeric(value),
+           name = str_replace_all(name, " \n ", " "))
+}
+
+all <- map_dfr(dan_vynosy0, munge_year) %>% 
+  mutate(datum = str_remove(DATUM, "inkaso k "),
+         datum_parsed = lubridate::dmy(datum),
+         rok = lubridate::year(datum_parsed),
+         mesic = lubridate::month(datum_parsed),
+         den = lubridate::day(datum_parsed),
+         denvroce = lubridate::yday(datum_parsed),
+         nazev = str_squish(name),
+         grp = paste(rok, nazev)) %>% 
+  filter(nazev != "NA") %>% 
+  mutate(date_aligned = make_date("2000", mesic, den))
+
+latest <- max(all$datum_parsed, na.rm = T) %>% format("%d. %B %Y")
+```
+
+```{r include=T}
+ggplot(all %>% 
+         # filter(nazev == "DPH") %>%
+         filter(!str_detect(nazev, "hazard|technick|LOTER")) %>%
+         filter(TRUE), 
+       aes(date_aligned, value/1e9, colour = rok, group = grp)) +
+  geom_line(aes(group = rok)) +
+  gghighlight::gghighlight(calculate_per_facet = T, rok == 2020, use_group_by = T) +
+  facet_wrap(~ nazev) + 
+  theme_schola("scatter", multiplot = T, plot.caption.position = "plot") + 
+  scale_color_viridis_c(labels = scales::label_number(accuracy = 1, big.mark = "")) +
+  scale_x_date(labels = scales::label_date(format = "%m"), date_breaks = "months", 
+               expand = expansion(c(0.05, 0))) +
+  labs(x = "den v roce", title = "Výběr daní podle dat Finanční správy",
+       subtitle = str_glue("mld. Kč, poslední údaj z {latest}. Rok 2020 zvýrazněn"),
+       caption = "Zdroj: https://www.financnisprava.cz/cs/dane/kraje-a-obce/danove-prijmy-kraju-a-obci/prubeh-celostatniho-inkasa-sdilenych-dani-3735")
+```
+
+```{r}
+all %>% 
+  group_by(rok, mesic, nazev) %>% 
+  mutate(is_middle = between(den, 10, 20)) %>% 
+  summarise(has_middle = any(is_middle)) %>% 
+  filter(!has_middle)
+```
+
+```{r}
+all %>% 
+  group_by(rok, mesic, nazev) %>% 
+  mutate(is_end = between(den, 25, 31)) %>% 
+  summarise(has_end = any(is_end)) %>% 
+  group_by(rok, has_end) %>% 
+  count()
 ```
 
 
-Naposledy aktualizováno `r format(Sys.time(), "%d. %B %Y")`
+
+```{r}
+all_diffs <- all %>% 
+  filter(nazev %in% c("DPH", "DPFO závislá činnost", "DPPO")) %>% 
+  mutate(is_end = between(den, 25, 31),
+         is_middle = between(den, 10, 20)) %>% 
+  filter(is_middle | is_end) %>% 
+  mutate(month_part = ifelse(is_middle, "middle", "end")) %>% 
+  group_by(mesic, month_part, nazev) %>%
+  arrange(nazev, mesic, rok) %>% 
+  mutate(narust = value/lag(value) - 1)
+
+hist(all_diffs$narust)
+```
+
+```{r, include=T}
+library(scales)
+# https://gist.github.com/mikmart/bfbf62839fbdd162b4b88e6d43e0c858
+
+c_trans <- function(a, b, breaks = b$breaks, format = b$format) {
+  a <- scales::as.trans(a)
+  b <- scales::as.trans(b)
+
+  name <- paste(a$name, b$name, sep = "-")
+
+  trans <- function(x) a$trans(b$trans(x))
+  inv <- function(x) b$inverse(a$inverse(x))
+
+  scales::trans_new(name, trans, inv, breaks, format = format)
+}
+
+rev_date <- c_trans("reverse", "date")
+
+all_diffs %>% 
+  ggplot(aes(date_aligned, narust)) +
+  geom_hline(yintercept = 0) +
+  geom_point(alpha = .6, colour = "red", size = 2) +
+  coord_flip() +
+  scale_x_continuous(trans = rev_date, labels = label_date("%b"), n.breaks = 12) +
+  scale_y_continuous(limits = c(-1, 1), labels = label_percent(suffix = " %")) +
+  gghighlight::gghighlight(rok == 2020, unhighlighted_params = list(alpha = .3)) +
+  facet_wrap(~ nazev) + theme_schola("scatter", multiplot = T) +
+  labs(title = "Meziroční změna výnosu vybraných daní podle období",
+       subtitle = "rok 2000 zvýrazněn; extrémní hodnoty vynechány.")
+```
+
+
+
+### Nejnovější dostupné datové exporty Monitoru státní pokladny
+
+```{r, include=T}
+library(jsonlite)
+library(httr)
+library(dplyr)
+library(tidyr)
+
+
+td <- GET("https://monitor.statnipokladna.cz/api/transakcni-data?aktivni=true",
+          accept_json()) %>%
+  content(as = "text") %>%
+  fromJSON()
+
+xx <- td %>%
+  unnest(dataExtracts, .name_repair = "universal")
+
+xx %>%
+  group_by(titleCS) %>%
+  filter(!deleted, year == max(year)) %>%
+  filter(month == max(month)) %>%
+  select(titleCS, year, month, filenamePeriod)
+```
+
+
+Naposledy aktualizováno `r format(lubridate::now(tzone = "CET"), "%d. %B %Y %H:%M %Z")`.
