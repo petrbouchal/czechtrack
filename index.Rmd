@@ -257,7 +257,9 @@ write_csv(all_diffs, "data-web/dane_inkaso_mezirocni.csv")
 all_diffs
 ```
 
+## Příjmy a výdaje státního rozpočtu
 
+> V přípravě; data za 2020 zatím nejsou k dispozici.
 
 ## Zdroje {.tabset}
 
