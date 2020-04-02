@@ -66,6 +66,13 @@
       "Repository": "CRAN",
       "Hash": "5ef9c463e30f8aea49c293e4b8d9d7be"
     },
+    "Rttf2pt1": {
+      "Package": "Rttf2pt1",
+      "Version": "1.3.8",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "8c4137a9ab70de4787d57758f8190617"
+    },
     "askpass": {
       "Package": "askpass",
       "Version": "1.1",
@@ -192,6 +199,20 @@
       "Repository": "CRAN",
       "Hash": "ec8ca05cffcc70569eaaad8469d2a3a7"
     },
+    "extrafont": {
+      "Package": "extrafont",
+      "Version": "0.17",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "7f2f50e8f998a4bea4b04650fc4f2ca8"
+    },
+    "extrafontdb": {
+      "Package": "extrafontdb",
+      "Version": "1.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "a861555ddec7451c653b40e713166c6f"
+    },
     "fansi": {
       "Package": "fansi",
       "Version": "0.4.1",
@@ -225,6 +246,13 @@
       "RemoteSha": "e1adc2a10f22b7838556807ecf824475d855b0dc",
       "Hash": "2a396bf58ae9912a1c570642dfde0731"
     },
+    "gdtools": {
+      "Package": "gdtools",
+      "Version": "0.2.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "ce9248b6e65e2282afb9e53abc6a83cc"
+    },
     "generics": {
       "Package": "generics",
       "Version": "0.0.2",
@@ -252,6 +280,25 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "c013a50b19695daf04853679e1bc105a"
+    },
+    "gh": {
+      "Package": "gh",
+      "Version": "1.1.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "89ea5998938d1ad55f035c8a86f96b74"
+    },
+    "git2r": {
+      "Package": "git2r",
+      "Version": "0.26.1.9000",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "ropensci",
+      "RemoteRepo": "git2r",
+      "RemoteRef": "master",
+      "RemoteSha": "0b30ed160f563f67c31e817f1e5399c5ff59ad18",
+      "Hash": "9371bd7d8651462699f73a6f48c8ed43"
     },
     "glue": {
       "Package": "glue",
@@ -293,6 +340,13 @@
       "Repository": "CRAN",
       "Hash": "726671f634529d470545f9fd1a9d1869"
     },
+    "hrbrthemes": {
+      "Package": "hrbrthemes",
+      "Version": "0.8.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "0d1257948f016840ad90320ed19c8c7d"
+    },
     "htmltools": {
       "Package": "htmltools",
       "Version": "0.4.0",
@@ -306,6 +360,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "7146fea4685b4252ebf478978c75f597"
+    },
+    "ini": {
+      "Package": "ini",
+      "Version": "0.3.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "6154ec2223172bce8162d4153cda21f7"
     },
     "isoband": {
       "Package": "isoband",
@@ -524,12 +585,26 @@
       "Repository": "CRAN",
       "Hash": "c66b930d20bb6d858cd18e1cebcfae5c"
     },
+    "rematch2": {
+      "Package": "rematch2",
+      "Version": "2.1.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "a8e6ebbd476d2b8f6557ed3fab3b6139"
+    },
     "renv": {
       "Package": "renv",
       "Version": "0.9.3",
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "c1a367437d8a8a44bec4b9d4974cb20c"
+    },
+    "repr": {
+      "Package": "repr",
+      "Version": "1.1.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "466aee1b69232becb73769daa894c171"
     },
     "reprex": {
       "Package": "reprex",
@@ -614,6 +689,20 @@
       "Repository": "CRAN",
       "Hash": "8e0df803ddce30dddcec4c4c09af8676"
     },
+    "skimr": {
+      "Package": "skimr",
+      "Version": "2.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "e662c5c3727463bfcd076133f8bcafa6"
+    },
+    "statnipokladna": {
+      "Package": "statnipokladna",
+      "Version": "0.5.6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "7b46ca8fe2911dce75032d5429ebbd98"
+    },
     "stringi": {
       "Package": "stringi",
       "Version": "1.4.6",
@@ -641,6 +730,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "dcae252f838195aaae0c5ac1b27a7545"
+    },
+    "systemfonts": {
+      "Package": "systemfonts",
+      "Version": "0.1.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "95ee5991b25547f27d6ead41767362f4"
     },
     "testthat": {
       "Package": "testthat",
@@ -683,6 +779,18 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "d2cef450cbbf081b4a2ef1067fae9f32"
+    },
+    "usethis": {
+      "Package": "usethis",
+      "Version": "1.5.1.9000",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "r-lib",
+      "RemoteRepo": "usethis",
+      "RemoteRef": "master",
+      "RemoteSha": "d1d28c9a65fbea19099e9a5d448de59e06b8c1a0",
+      "Hash": "9743d6f29d728a516d2793b07a4fb17c"
     },
     "utf8": {
       "Package": "utf8",
