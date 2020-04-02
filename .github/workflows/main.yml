@@ -15,6 +15,10 @@ jobs:
 
       # - name: Install locale
       #   run: locale-gen cs_CZ.UTF-8
+      
+      - name: Install XQuartz on MacOS
+        if: runner.os == 'macOS'
+        run: brew cask install xquartz
 
       - name: Install pandoc
         uses: r-lib/actions/setup-pandoc@v1
