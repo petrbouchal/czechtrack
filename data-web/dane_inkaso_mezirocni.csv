@@ -1,0 +1,736 @@
+DATUM,name,value,datum,datum_parsed,rok,mesic,den,denvroce,nazev,grp,date_aligned,is_end,is_middle,month_part,narust
+inkaso k 20.1.2009,DPFO závislá činnost,10107029960.57,20.1.2009,2009-01-20,2009,1,20,20,DPFO závislá činnost,2009 DPFO závislá činnost,2000-01-20,FALSE,TRUE,middle,NA
+inkaso k 18.1.2010,DPFO závislá činnost,9459762288.63,18.1.2010,2010-01-18,2010,1,18,18,DPFO závislá činnost,2010 DPFO závislá činnost,2000-01-18,FALSE,TRUE,middle,-0.06404133305878679
+inkaso k 19.1.2011,DPFO závislá činnost,10521937469.37,19.1.2011,2011-01-19,2011,1,19,19,DPFO závislá činnost,2011 DPFO závislá činnost,2000-01-19,FALSE,TRUE,middle,0.11228349596233134
+inkaso k 16.1.2012,DPFO závislá činnost,8132952443.74,16.1.2012,2012-01-16,2012,1,16,16,DPFO závislá činnost,2012 DPFO závislá činnost,2000-01-16,FALSE,TRUE,middle,-0.22704801587963064
+inkaso k 31.1.2012,DPFO závislá činnost,12832707886.02,31.1.2012,2012-01-31,2012,1,31,31,DPFO závislá činnost,2012 DPFO závislá činnost,2000-01-31,TRUE,FALSE,end,NA
+inkaso k 17.1.2013,DPFO závislá činnost,9959679593.27,17.1.2013,2013-01-17,2013,1,17,17,DPFO závislá činnost,2013 DPFO závislá činnost,2000-01-17,FALSE,TRUE,middle,0.22460811890472177
+inkaso k 31.1.2013,DPFO závislá činnost,13472981343.21,31.1.2013,2013-01-31,2013,1,31,31,DPFO závislá činnost,2013 DPFO závislá činnost,2000-01-31,TRUE,FALSE,end,0.049893869857936535
+inkaso k 15.1.2014,DPFO závislá činnost,7621911311.51,15.1.2014,2014-01-15,2014,1,15,15,DPFO závislá činnost,2014 DPFO závislá činnost,2000-01-15,FALSE,TRUE,middle,-0.23472324183397297
+inkaso k 31.1.2014,DPFO závislá činnost,12624002373.27,31.1.2014,2014-01-31,2014,1,31,31,DPFO závislá činnost,2014 DPFO závislá činnost,2000-01-31,TRUE,FALSE,end,-0.06301344508042828
+inkaso k 15. 1. 2015,DPFO závislá činnost,7994828986.96,15. 1. 2015,2015-01-15,2015,1,15,15,DPFO závislá činnost,2015 DPFO závislá činnost,2000-01-15,FALSE,TRUE,middle,0.0489270551976706
+inkaso k 30. 1. 2015,DPFO závislá činnost,13044820969.32,30. 1. 2015,2015-01-30,2015,1,30,30,DPFO závislá činnost,2015 DPFO závislá činnost,2000-01-30,TRUE,FALSE,end,0.03333480013763612
+inkaso k 15. 1. 2016,DPFO závislá činnost,8310388019.33,15. 1. 2016,2016-01-15,2016,1,15,15,DPFO závislá činnost,2016 DPFO závislá činnost,2000-01-15,FALSE,TRUE,middle,0.03947039178507672
+inkaso k 29. 1. 2016,DPFO závislá činnost,13670665919.28,29. 1. 2016,2016-01-29,2016,1,29,29,DPFO závislá činnost,2016 DPFO závislá činnost,2000-01-29,TRUE,FALSE,end,0.047976507414852154
+inkaso k 13. 1. 2017,DPFO závislá činnost,8218463883.92,13. 1. 2017,2017-01-13,2017,1,13,13,DPFO závislá činnost,2017 DPFO závislá činnost,2000-01-13,FALSE,TRUE,middle,-0.011061352995333507
+inkaso k 31. 1. 2017,DPFO závislá činnost,14806941973.98,31. 1. 2017,2017-01-31,2017,1,31,31,DPFO závislá činnost,2017 DPFO závislá činnost,2000-01-31,TRUE,FALSE,end,0.08311782772026399
+inkaso k 15. 1. 2018,DPFO                    závislá činnost,10015042808.47,15. 1. 2018,2018-01-15,2018,1,15,15,DPFO závislá činnost,2018 DPFO závislá činnost,2000-01-15,FALSE,TRUE,middle,0.21860276444909998
+inkaso k 31. 1. 2018,DPFO                    závislá činnost,16864509543.17,31. 1. 2018,2018-01-31,2018,1,31,31,DPFO závislá činnost,2018 DPFO závislá činnost,2000-01-31,TRUE,FALSE,end,0.13895965641019803
+inkaso k 15. 1. 2019,DPFO                    závislá činnost,11229221806.1,15. 1. 2019,2019-01-15,2019,1,15,15,DPFO závislá činnost,2019 DPFO závislá činnost,2000-01-15,FALSE,TRUE,middle,0.12123552748103439
+inkaso k 31. 1. 2019,DPFO                    závislá činnost,18514979431.72,31. 1. 2019,2019-01-31,2019,1,31,31,DPFO závislá činnost,2019 DPFO závislá činnost,2000-01-31,TRUE,FALSE,end,0.09786646236732266
+inkaso k 15. 1. 2020,DPFO                    závislá činnost,12688964223.48,15. 1. 2020,2020-01-15,2020,1,15,15,DPFO závislá činnost,2020 DPFO závislá činnost,2000-01-15,FALSE,TRUE,middle,0.12999497583946829
+inkaso k 31. 1. 2020,DPFO                    závislá činnost,20641477490.83,31. 1. 2020,2020-01-31,2020,1,31,31,DPFO závislá činnost,2020 DPFO závislá činnost,2000-01-31,TRUE,FALSE,end,0.11485284479802704
+inkaso k 13.2.2009,DPFO závislá činnost,17791916346.06,13.2.2009,2009-02-13,2009,2,13,44,DPFO závislá činnost,2009 DPFO závislá činnost,2000-02-13,FALSE,TRUE,middle,NA
+inkaso k 15.2.2010,DPFO závislá činnost,18191275309.54,15.2.2010,2010-02-15,2010,2,15,46,DPFO závislá činnost,2010 DPFO závislá činnost,2000-02-15,FALSE,TRUE,middle,0.022446090444239175
+inkaso k 15.2.2011,DPFO závislá činnost,18370080309.78,15.2.2011,2011-02-15,2011,2,15,46,DPFO závislá činnost,2011 DPFO závislá činnost,2000-02-15,FALSE,TRUE,middle,0.00982916245274068
+inkaso k 15.2.2012,DPFO závislá činnost,18949594103.99,15.2.2012,2012-02-15,2012,2,15,46,DPFO závislá činnost,2012 DPFO závislá činnost,2000-02-15,FALSE,TRUE,middle,0.03154661190574526
+inkaso k 29.2.2012,DPFO závislá činnost,22474088484.7,29.2.2012,2012-02-29,2012,2,29,60,DPFO závislá činnost,2012 DPFO závislá činnost,2000-02-29,TRUE,FALSE,end,NA
+inkaso k 15.2.2013,DPFO závislá činnost,19790996470.88,15.2.2013,2013-02-15,2013,2,15,46,DPFO závislá činnost,2013 DPFO závislá činnost,2000-02-15,FALSE,TRUE,middle,0.044402131374034814
+inkaso k 28.2.2013,DPFO závislá činnost,23569448061.7,28.2.2013,2013-02-28,2013,2,28,59,DPFO závislá činnost,2013 DPFO závislá činnost,2000-02-28,TRUE,FALSE,end,0.048738776557977204
+inkaso k 14.2.2014,DPFO závislá činnost,18921949179.22,14.2.2014,2014-02-14,2014,2,14,45,DPFO závislá činnost,2014 DPFO závislá činnost,2000-02-14,FALSE,TRUE,middle,-0.043911244839980434
+inkaso k 28.2.2014,DPFO závislá činnost,23304030435.97,28.2.2014,2014-02-28,2014,2,28,59,DPFO závislá činnost,2014 DPFO závislá činnost,2000-02-28,TRUE,FALSE,end,-0.01126108787253699
+inkaso k 13. 2. 2015,DPFO závislá činnost,19165964447.14,13. 2. 2015,2015-02-13,2015,2,13,44,DPFO závislá činnost,2015 DPFO závislá činnost,2000-02-13,FALSE,TRUE,middle,0.012895884330350826
+inkaso k 27. 2. 2015,DPFO závislá činnost,23867643379.39,27. 2. 2015,2015-02-27,2015,2,27,58,DPFO závislá činnost,2015 DPFO závislá činnost,2000-02-27,TRUE,FALSE,end,0.024185213153088636
+inkaso k 15. 2. 2016,DPFO závislá činnost,20465499815.2,15. 2. 2016,2016-02-15,2016,2,15,46,DPFO závislá činnost,2016 DPFO závislá činnost,2000-02-15,FALSE,TRUE,middle,0.06780432947395565
+inkaso k 29. 2. 2016,DPFO závislá činnost,25248416471.61,29. 2. 2016,2016-02-29,2016,2,29,60,DPFO závislá činnost,2016 DPFO závislá činnost,2000-02-29,TRUE,FALSE,end,0.05785125369404143
+inkaso k 15. 2. 2017,DPFO závislá činnost,22590499126.79,15. 2. 2017,2017-02-15,2017,2,15,46,DPFO závislá činnost,2017 DPFO závislá činnost,2000-02-15,FALSE,TRUE,middle,0.10383324769873115
+inkaso k 28. 2. 2017,DPFO závislá činnost,27642203625.24,28. 2. 2017,2017-02-28,2017,2,28,59,DPFO závislá činnost,2017 DPFO závislá činnost,2000-02-28,TRUE,FALSE,end,0.09480939750505302
+inkaso k 15. 2. 2018,DPFO                    závislá činnost,26263168477.38,15. 2. 2018,2018-02-15,2018,2,15,46,DPFO závislá činnost,2018 DPFO závislá činnost,2000-02-15,FALSE,TRUE,middle,0.16257583907185968
+inkaso k 28. 2. 2018,DPFO                    závislá činnost,32009163712.63,28. 2. 2018,2018-02-28,2018,2,28,59,DPFO závislá činnost,2018 DPFO závislá činnost,2000-02-28,TRUE,FALSE,end,0.15798161921513887
+inkaso k 15. 2. 2019,DPFO                    závislá činnost,29264169435.04,15. 2. 2019,2019-02-15,2019,2,15,46,DPFO závislá činnost,2019 DPFO závislá činnost,2000-02-15,FALSE,TRUE,middle,0.11426652348686361
+inkaso k 28. 2. 2019,DPFO                    závislá činnost,35520465275.58,28. 2. 2019,2019-02-28,2019,2,28,59,DPFO závislá činnost,2019 DPFO závislá činnost,2000-02-28,TRUE,FALSE,end,0.10969676041753407
+inkaso k 14. 2. 2020,DPFO                    závislá činnost,31639652914.84,14. 2. 2020,2020-02-14,2020,2,14,45,DPFO závislá činnost,2020 DPFO závislá činnost,2000-02-14,FALSE,TRUE,middle,0.0811737877978409
+inkaso k 28. 2. 2020,DPFO                    závislá činnost,39204214432.38,28. 2. 2020,2020-02-28,2020,2,28,59,DPFO závislá činnost,2020 DPFO závislá činnost,2000-02-28,TRUE,FALSE,end,0.1037077957234005
+inkaso k 13.3.2009,DPFO závislá činnost,25680447986.54,13.3.2009,2009-03-13,2009,3,13,72,DPFO závislá činnost,2009 DPFO závislá činnost,2000-03-13,FALSE,TRUE,middle,NA
+inkaso k 15.3.2010,DPFO závislá činnost,25487949472,15.3.2010,2010-03-15,2010,3,15,74,DPFO závislá činnost,2010 DPFO závislá činnost,2000-03-15,FALSE,TRUE,middle,-0.007495917308019573
+inkaso k 15.3.2011,DPFO závislá činnost,26324268305.76,15.3.2011,2011-03-15,2011,3,15,74,DPFO závislá činnost,2011 DPFO závislá činnost,2000-03-15,FALSE,TRUE,middle,0.032812323120725795
+inkaso k 31.3.2011,DPFO závislá činnost,28877667202.43,31.3.2011,2011-03-31,2011,3,31,90,DPFO závislá činnost,2011 DPFO závislá činnost,2000-03-31,TRUE,FALSE,end,NA
+inkaso k 15.3.2012,DPFO závislá činnost,27244120860.68,15.3.2012,2012-03-15,2012,3,15,75,DPFO závislá činnost,2012 DPFO závislá činnost,2000-03-15,FALSE,TRUE,middle,0.034943138560805886
+inkaso k 30.3.2012,DPFO závislá činnost,29997813658.28,30.3.2012,2012-03-30,2012,3,30,90,DPFO závislá činnost,2012 DPFO závislá činnost,2000-03-30,TRUE,FALSE,end,0.03878936785294562
+inkaso k 15.3.2013,DPFO závislá činnost,28489331625.72,15.3.2013,2013-03-15,2013,3,15,74,DPFO závislá činnost,2013 DPFO závislá činnost,2000-03-15,FALSE,TRUE,middle,0.0457056688086106
+inkaso k 29.3.2013,DPFO závislá činnost,31346896220.72,29.3.2013,2013-03-29,2013,3,29,88,DPFO závislá činnost,2013 DPFO závislá činnost,2000-03-29,TRUE,FALSE,end,0.0449726962707373
+inkaso k 14.3.2014,DPFO závislá činnost,28198171628.86,14.3.2014,2014-03-14,2014,3,14,73,DPFO závislá činnost,2014 DPFO závislá činnost,2000-03-14,FALSE,TRUE,middle,-0.010219965869509684
+inkaso k 31.3.2014,DPFO závislá činnost,31587011509.27,31.3.2014,2014-03-31,2014,3,31,90,DPFO závislá činnost,2014 DPFO závislá činnost,2000-03-31,TRUE,FALSE,end,0.007659938223526064
+inkaso k 13. 3. 2015,DPFO závislá činnost,28602394727.36,13. 3. 2015,2015-03-13,2015,3,13,72,DPFO závislá činnost,2015 DPFO závislá činnost,2000-03-13,FALSE,TRUE,middle,0.014335081856381438
+inkaso k 31. 3. 2015,DPFO závislá činnost,32145501488.19,31. 3. 2015,2015-03-31,2015,3,31,90,DPFO závislá činnost,2015 DPFO závislá činnost,2000-03-31,TRUE,FALSE,end,0.01768100089988245
+inkaso k 15. 3. 2016,DPFO závislá činnost,30988697369.01,15. 3. 2016,2016-03-15,2016,3,15,75,DPFO závislá činnost,2016 DPFO závislá činnost,2000-03-15,FALSE,TRUE,middle,0.08343016955036098
+inkaso k 31. 3. 2016,DPFO závislá činnost,34801851692.84,31. 3. 2016,2016-03-31,2016,3,31,91,DPFO závislá činnost,2016 DPFO závislá činnost,2000-03-31,TRUE,FALSE,end,0.08263520809049818
+inkaso k 15. 3. 2017,DPFO závislá činnost,34211103804.21,15. 3. 2017,2017-03-15,2017,3,15,74,DPFO závislá činnost,2017 DPFO závislá činnost,2000-03-15,FALSE,TRUE,middle,0.10398650826873879
+inkaso k 31. 3. 2017,DPFO závislá činnost,38378406060.75,31. 3. 2017,2017-03-31,2017,3,31,90,DPFO závislá činnost,2017 DPFO závislá činnost,2000-03-31,TRUE,FALSE,end,0.10276908250390115
+inkaso k 15. 3. 2018,DPFO                    závislá činnost,39707412262.33,15. 3. 2018,2018-03-15,2018,3,15,74,DPFO závislá činnost,2018 DPFO závislá činnost,2000-03-15,FALSE,TRUE,middle,0.16065861217385313
+inkaso k 29. 3. 2018,DPFO                    závislá činnost,44288560275.32,29. 3. 2018,2018-03-29,2018,3,29,88,DPFO závislá činnost,2018 DPFO závislá činnost,2000-03-29,TRUE,FALSE,end,0.15399686493531517
+inkaso k 15. 3. 2019,DPFO                    závislá činnost,44496358727.46,15. 3. 2019,2019-03-15,2019,3,15,74,DPFO závislá činnost,2019 DPFO závislá činnost,2000-03-15,FALSE,TRUE,middle,0.12060585649579636
+inkaso k 29. 3. 2019,DPFO                    závislá činnost,49823448649.2,29. 3. 2019,2019-03-29,2019,3,29,88,DPFO závislá činnost,2019 DPFO závislá činnost,2000-03-29,TRUE,FALSE,end,0.12497331905738962
+inkaso k 16. 3. 2020,DPFO                    závislá činnost,49086187521.09,16. 3. 2020,2020-03-16,2020,3,16,76,DPFO závislá činnost,2020 DPFO závislá činnost,2000-03-16,FALSE,TRUE,middle,0.1031506605235426
+inkaso k 15.4.2009,DPFO závislá činnost,32274242689.17,15.4.2009,2009-04-15,2009,4,15,105,DPFO závislá činnost,2009 DPFO závislá činnost,2000-04-15,FALSE,TRUE,middle,NA
+inkaso k 15.4.2011,DPFO závislá činnost,33074765951.95,15.4.2011,2011-04-15,2011,4,15,105,DPFO závislá činnost,2011 DPFO závislá činnost,2000-04-15,FALSE,TRUE,middle,0.02480378147025042
+inkaso k 29.4.2011,DPFO závislá činnost,34920505753.15,29.4.2011,2011-04-29,2011,4,29,119,DPFO závislá činnost,2011 DPFO závislá činnost,2000-04-29,TRUE,FALSE,end,NA
+inkaso k 16.4.2012,DPFO závislá činnost,34072406189.5,16.4.2012,2012-04-16,2012,4,16,107,DPFO závislá činnost,2012 DPFO závislá činnost,2000-04-16,FALSE,TRUE,middle,0.030163183588338693
+inkaso k 30.4.2012,DPFO závislá činnost,36208923571.76,30.4.2012,2012-04-30,2012,4,30,121,DPFO závislá činnost,2012 DPFO závislá činnost,2000-04-30,TRUE,FALSE,end,0.03689573764245324
+inkaso k 15.4.2013,DPFO závislá činnost,35289880892.84,15.4.2013,2013-04-15,2013,4,15,105,DPFO závislá činnost,2013 DPFO závislá činnost,2000-04-15,FALSE,TRUE,middle,0.035731984896187896
+inkaso k 30.4.2013,DPFO závislá činnost,37828755223.28,30.4.2013,2013-04-30,2013,4,30,120,DPFO závislá činnost,2013 DPFO závislá činnost,2000-04-30,TRUE,FALSE,end,0.04473570301833929
+inkaso k 15.4.2014,DPFO závislá činnost,36660087804.52,15.4.2014,2014-04-15,2014,4,15,105,DPFO závislá činnost,2014 DPFO závislá činnost,2000-04-15,FALSE,TRUE,middle,0.03882719003333346
+inkaso k 30.4.2014,DPFO závislá činnost,39497190507.45,30.4.2014,2014-04-30,2014,4,30,120,DPFO závislá činnost,2014 DPFO závislá činnost,2000-04-30,TRUE,FALSE,end,0.044104948056636895
+inkaso k 15. 4. 2015,DPFO závislá činnost,36770398190.1,15. 4. 2015,2015-04-15,2015,4,15,105,DPFO závislá činnost,2015 DPFO závislá činnost,2000-04-15,FALSE,TRUE,middle,0.003009004947511329
+inkaso k 30. 4. 2015,DPFO závislá činnost,39348220144.19,30. 4. 2015,2015-04-30,2015,4,30,120,DPFO závislá činnost,2015 DPFO závislá činnost,2000-04-30,TRUE,FALSE,end,-0.003771669866794558
+inkaso k 15. 4. 2016,DPFO závislá činnost,40350773013.18,15. 4. 2016,2016-04-15,2016,4,15,106,DPFO závislá činnost,2016 DPFO závislá činnost,2000-04-15,FALSE,TRUE,middle,0.09737111914235341
+inkaso k 29. 4. 2016,DPFO závislá činnost,43737606053.28,29. 4. 2016,2016-04-29,2016,4,29,120,DPFO závislá činnost,2016 DPFO závislá činnost,2000-04-29,TRUE,FALSE,end,0.11155233687839661
+inkaso k 13. 4. 2017,DPFO závislá činnost,44452173563.14,13. 4. 2017,2017-04-13,2017,4,13,103,DPFO závislá činnost,2017 DPFO závislá činnost,2000-04-13,FALSE,TRUE,middle,0.1016436673622172
+inkaso k 28. 4. 2017,DPFO závislá činnost,48692656302.59,28. 4. 2017,2017-04-28,2017,4,28,118,DPFO závislá činnost,2017 DPFO závislá činnost,2000-04-28,TRUE,FALSE,end,0.11329038546997494
+inkaso k 13. 4. 2018,DPFO                    závislá činnost,51040990106.39,13. 4. 2018,2018-04-13,2018,4,13,103,DPFO závislá činnost,2018 DPFO závislá činnost,2000-04-13,FALSE,TRUE,middle,0.14822259554735218
+inkaso k 30. 4. 2018,DPFO                    závislá činnost,56099005571.78,30. 4. 2018,2018-04-30,2018,4,30,120,DPFO závislá činnost,2018 DPFO závislá činnost,2000-04-30,TRUE,FALSE,end,0.15210403029082742
+inkaso k 15. 4. 2019,DPFO                    závislá činnost,58373875856.02,15. 4. 2019,2019-04-15,2019,4,15,105,DPFO závislá činnost,2019 DPFO závislá činnost,2000-04-15,FALSE,TRUE,middle,0.14366660471016157
+inkaso k 30. 4. 2019,DPFO                    závislá činnost,63709382139.4,30. 4. 2019,2019-04-30,2019,4,30,120,DPFO závislá činnost,2019 DPFO závislá činnost,2000-04-30,TRUE,FALSE,end,0.13565974102486278
+inkaso k 15.5.2009,DPFO závislá činnost,39720338028.68,15.5.2009,2009-05-15,2009,5,15,135,DPFO závislá činnost,2009 DPFO závislá činnost,2000-05-15,FALSE,TRUE,middle,NA
+inkaso k 14.5.2010,DPFO závislá činnost,38888835939.02,14.5.2010,2010-05-14,2010,5,14,134,DPFO závislá činnost,2010 DPFO závislá činnost,2000-05-14,FALSE,TRUE,middle,-0.020933912723995918
+inkaso k 13.5.2011,DPFO závislá činnost,40765001225.45,13.5.2011,2011-05-13,2011,5,13,133,DPFO závislá činnost,2011 DPFO závislá činnost,2000-05-13,FALSE,TRUE,middle,0.04824431591040512
+inkaso k 31.5.2011,DPFO závislá činnost,44453219142.54,31.5.2011,2011-05-31,2011,5,31,151,DPFO závislá činnost,2011 DPFO závislá činnost,2000-05-31,TRUE,FALSE,end,NA
+inkaso k 15.5.2012,DPFO závislá činnost,42034303705.12,15.5.2012,2012-05-15,2012,5,15,136,DPFO závislá činnost,2012 DPFO závislá činnost,2000-05-15,FALSE,TRUE,middle,0.031137064675900605
+inkaso k 31.5.2012,DPFO závislá činnost,45563879851.87,31.5.2012,2012-05-31,2012,5,31,152,DPFO závislá činnost,2012 DPFO závislá činnost,2000-05-31,TRUE,FALSE,end,0.024984933166901868
+inkaso k 15.5.2013,DPFO závislá činnost,44133962378.97,15.5.2013,2013-05-15,2013,5,15,135,DPFO závislá činnost,2013 DPFO závislá činnost,2000-05-15,FALSE,TRUE,middle,0.049951075402118406
+inkaso k 31.5.2013,DPFO závislá činnost,48046340289.28,31.5.2013,2013-05-31,2013,5,31,151,DPFO závislá činnost,2013 DPFO závislá činnost,2000-05-31,TRUE,FALSE,end,0.054483078383152916
+inkaso k 15.5.2014,DPFO závislá činnost,46365889438.17,15.5.2014,2014-05-15,2014,5,15,135,DPFO závislá činnost,2014 DPFO závislá činnost,2000-05-15,FALSE,TRUE,middle,0.05057164457691021
+inkaso k 30.5.2014,DPFO závislá činnost,50382078940.53,30.5.2014,2014-05-30,2014,5,30,150,DPFO závislá činnost,2014 DPFO závislá činnost,2000-05-30,TRUE,FALSE,end,0.04861428856364203
+inkaso k 15. 5. 2015,DPFO závislá činnost,46332338892.01,15. 5. 2015,2015-05-15,2015,5,15,135,DPFO závislá činnost,2015 DPFO závislá činnost,2000-05-15,FALSE,TRUE,middle,-7.236040668374688e-4
+inkaso k 29. 5. 2015,DPFO závislá činnost,50519782729.32,29. 5. 2015,2015-05-29,2015,5,29,149,DPFO závislá činnost,2015 DPFO závislá činnost,2000-05-29,TRUE,FALSE,end,0.002733189889852383
+inkaso k 13. 5. 2016,DPFO závislá činnost,50859729285.73,13. 5. 2016,2016-05-13,2016,5,13,134,DPFO závislá činnost,2016 DPFO závislá činnost,2000-05-13,FALSE,TRUE,middle,0.09771555898078677
+inkaso k 31. 5. 2016,DPFO závislá činnost,56333858961.82,31. 5. 2016,2016-05-31,2016,5,31,152,DPFO závislá činnost,2016 DPFO závislá činnost,2000-05-31,TRUE,FALSE,end,0.1150851392938732
+inkaso k 15. 5. 2017,DPFO závislá činnost,57107984381.88,15. 5. 2017,2017-05-15,2017,5,15,135,DPFO závislá činnost,2017 DPFO závislá činnost,2000-05-15,FALSE,TRUE,middle,0.12285270063171772
+inkaso k 31. 5. 2017,DPFO závislá činnost,63068894329.24,31. 5. 2017,2017-05-31,2017,5,31,151,DPFO závislá činnost,2017 DPFO závislá činnost,2000-05-31,TRUE,FALSE,end,0.11955572530517822
+inkaso k 15. 5. 2018,DPFO                    závislá činnost,66041315209.57,15. 5. 2018,2018-05-15,2018,5,15,135,DPFO závislá činnost,2018 DPFO závislá činnost,2000-05-15,FALSE,TRUE,middle,0.15642875377903365
+inkaso k 31. 5. 2018,DPFO                    závislá činnost,72746343248.47,31. 5. 2018,2018-05-31,2018,5,31,151,DPFO závislá činnost,2018 DPFO závislá činnost,2000-05-31,TRUE,FALSE,end,0.15344250160325612
+inkaso k 15. 5. 2019,DPFO                    závislá činnost,75339760886.6,15. 5. 2019,2019-05-15,2019,5,15,135,DPFO závislá činnost,2019 DPFO závislá činnost,2000-05-15,FALSE,TRUE,middle,0.14079740307295663
+inkaso k 31. 5. 2019,DPFO                    závislá činnost,82711882712.46,31. 5. 2019,2019-05-31,2019,5,31,151,DPFO závislá činnost,2019 DPFO závislá činnost,2000-05-31,TRUE,FALSE,end,0.1369902460932233
+inkaso k 15.6.2009,DPFO závislá činnost,48669267384.79,15.6.2009,2009-06-15,2009,6,15,166,DPFO závislá činnost,2009 DPFO závislá činnost,2000-06-15,FALSE,TRUE,middle,NA
+inkaso k 30.6.2009,DPFO závislá činnost,51408491405.4,30.6.2009,2009-06-30,2009,6,30,181,DPFO závislá činnost,2009 DPFO závislá činnost,2000-06-30,TRUE,FALSE,end,NA
+inkaso k 15.6.2010,DPFO závislá činnost,48279126038.19,15.6.2010,2010-06-15,2010,6,15,166,DPFO závislá činnost,2010 DPFO závislá činnost,2000-06-15,FALSE,TRUE,middle,-0.008016174632657913
+inkaso k 14.6.2011,DPFO závislá činnost,50466568470.39,14.6.2011,2011-06-14,2011,6,14,165,DPFO závislá činnost,2011 DPFO závislá činnost,2000-06-14,FALSE,TRUE,middle,0.04530824419791024
+inkaso k 30.6.2011,DPFO závislá činnost,54774373502.44,30.6.2011,2011-06-30,2011,6,30,181,DPFO závislá činnost,2011 DPFO závislá činnost,2000-06-30,TRUE,FALSE,end,0.0654732711469228
+inkaso k 15.6.2012,DPFO závislá činnost,52207068807.02,15.6.2012,2012-06-15,2012,6,15,167,DPFO závislá činnost,2012 DPFO závislá činnost,2000-06-15,FALSE,TRUE,middle,0.03448818474058113
+inkaso k 29.6.2012,DPFO závislá činnost,55981737700.57,29.6.2012,2012-06-29,2012,6,29,181,DPFO závislá činnost,2012 DPFO závislá činnost,2000-06-29,TRUE,FALSE,end,0.022042501281666294
+inkaso k 14.6.2013,DPFO závislá činnost,54567826620.81,14.6.2013,2013-06-14,2013,6,14,165,DPFO závislá činnost,2013 DPFO závislá činnost,2000-06-14,FALSE,TRUE,middle,0.04521912200273848
+inkaso k 28.6.2013,DPFO závislá činnost,59051880232.23,28.6.2013,2013-06-28,2013,6,28,179,DPFO závislá činnost,2013 DPFO závislá činnost,2000-06-28,TRUE,FALSE,end,0.054841858394630405
+inkaso k 13.6.2014,DPFO závislá činnost,56932099320.02,13.6.2014,2014-06-13,2014,6,13,164,DPFO závislá činnost,2014 DPFO závislá činnost,2000-06-13,FALSE,TRUE,middle,0.043327228618417424
+inkaso k 30.6.2014,DPFO závislá činnost,61853064103.5,30.6.2014,2014-06-30,2014,6,30,181,DPFO závislá činnost,2014 DPFO závislá činnost,2000-06-30,TRUE,FALSE,end,0.04743598104334601
+inkaso k 15. 6. 2015,DPFO závislá činnost,57740302470.66,15. 6. 2015,2015-06-15,2015,6,15,166,DPFO závislá činnost,2015 DPFO závislá činnost,2000-06-15,FALSE,TRUE,middle,0.01419591338266013
+inkaso k 30. 6. 2015,DPFO závislá činnost,62497246200.82,30. 6. 2015,2015-06-30,2015,6,30,181,DPFO závislá činnost,2015 DPFO závislá činnost,2000-06-30,TRUE,FALSE,end,0.010414716015395342
+inkaso k 15. 6. 2016,DPFO závislá činnost,64010917746.64,15. 6. 2016,2016-06-15,2016,6,15,167,DPFO závislá činnost,2016 DPFO závislá činnost,2000-06-15,FALSE,TRUE,middle,0.10860031914738122
+inkaso k 30. 6. 2016,DPFO závislá činnost,69186547750.47,30. 6. 2016,2016-06-30,2016,6,30,182,DPFO závislá činnost,2016 DPFO závislá činnost,2000-06-30,TRUE,FALSE,end,0.10703354077642913
+inkaso k 15. 6. 2017,DPFO závislá činnost,72124582018.47,15. 6. 2017,2017-06-15,2017,6,15,166,DPFO závislá činnost,2017 DPFO závislá činnost,2000-06-15,FALSE,TRUE,middle,0.12675438124390737
+inkaso k 30. 6. 2017,DPFO závislá činnost,77880528736.94,30. 6. 2017,2017-06-30,2017,6,30,181,DPFO závislá činnost,2017 DPFO závislá činnost,2000-06-30,TRUE,FALSE,end,0.1256599912720886
+inkaso k 15. 6. 2018,DPFO                    závislá činnost,83367199210.9,15. 6. 2018,2018-06-15,2018,6,15,166,DPFO závislá činnost,2018 DPFO závislá činnost,2000-06-15,FALSE,TRUE,middle,0.15587774483810435
+inkaso k 29. 6. 2018,DPFO                    závislá činnost,89855531021.23,29. 6. 2018,2018-06-29,2018,6,29,180,DPFO závislá činnost,2018 DPFO závislá činnost,2000-06-29,TRUE,FALSE,end,0.15376118368094827
+inkaso k 14. 6. 2019,DPFO                    závislá činnost,94076203645.61,14. 6. 2019,2019-06-14,2019,6,14,165,DPFO závislá činnost,2019 DPFO závislá činnost,2000-06-14,FALSE,TRUE,middle,0.12845584997546422
+inkaso k 28. 6. 2019,DPFO                    závislá činnost,101781521696.36,28. 6. 2019,2019-06-28,2019,6,28,179,DPFO závislá činnost,2019 DPFO závislá činnost,2000-06-28,TRUE,FALSE,end,0.13272405760211115
+inkaso k 16.7.2009,DPFO závislá činnost,58982557740.06,16.7.2009,2009-07-16,2009,7,16,197,DPFO závislá činnost,2009 DPFO závislá činnost,2000-07-16,FALSE,TRUE,middle,NA
+inkaso k 15.7.2010,DPFO závislá činnost,58053560325.69,15.7.2010,2010-07-15,2010,7,15,196,DPFO závislá činnost,2010 DPFO závislá činnost,2000-07-15,FALSE,TRUE,middle,-0.015750375195055955
+inkaso k 15.7.2011,DPFO závislá činnost,61898459062.32,15.7.2011,2011-07-15,2011,7,15,196,DPFO závislá činnost,2011 DPFO závislá činnost,2000-07-15,FALSE,TRUE,middle,0.06623019699497301
+inkaso k 29.7.2011,DPFO závislá činnost,65281014232.73,29.7.2011,2011-07-29,2011,7,29,210,DPFO závislá činnost,2011 DPFO závislá činnost,2000-07-29,TRUE,FALSE,end,NA
+inkaso k 13.7.2012,DPFO závislá činnost,62008991045.56,13.7.2012,2012-07-13,2012,7,13,195,DPFO závislá činnost,2012 DPFO závislá činnost,2000-07-13,FALSE,TRUE,middle,0.001785698463490304
+inkaso k 31.7.2012,DPFO závislá činnost,66247389720.34,31.7.2012,2012-07-31,2012,7,31,213,DPFO závislá činnost,2012 DPFO závislá činnost,2000-07-31,TRUE,FALSE,end,0.014803316078466855
+inkaso k 15.7.2013,DPFO závislá činnost,65760226049.81,15.7.2013,2013-07-15,2013,7,15,196,DPFO závislá činnost,2013 DPFO závislá činnost,2000-07-15,FALSE,TRUE,middle,0.060495017593397815
+inkaso k 31.7.2013,DPFO závislá činnost,69942875954.25,31.7.2013,2013-07-31,2013,7,31,212,DPFO závislá činnost,2013 DPFO závislá činnost,2000-07-31,TRUE,FALSE,end,0.05578312216542125
+inkaso k 15.7.2014,DPFO závislá činnost,69078163845.41,15.7.2014,2014-07-15,2014,7,15,196,DPFO závislá činnost,2014 DPFO závislá činnost,2000-07-15,FALSE,TRUE,middle,0.05045508500969631
+inkaso k 31.7.2014,DPFO závislá činnost,73248656864.92,31.7.2014,2014-07-31,2014,7,31,212,DPFO závislá činnost,2014 DPFO závislá činnost,2000-07-31,TRUE,FALSE,end,0.047264011746275925
+inkaso k 15. 7. 2015,DPFO závislá činnost,70154477894.7,15. 7. 2015,2015-07-15,2015,7,15,196,DPFO závislá činnost,2015 DPFO závislá činnost,2000-07-15,FALSE,TRUE,middle,0.015581103917276629
+inkaso k 31. 7. 2015,DPFO závislá činnost,74507581777,31. 7. 2015,2015-07-31,2015,7,31,212,DPFO závislá činnost,2015 DPFO závislá činnost,2000-07-31,TRUE,FALSE,end,0.017187003365831233
+inkaso k 15. 7. 2016,DPFO závislá činnost,77366271958.21,15. 7. 2016,2016-07-15,2016,7,15,197,DPFO závislá činnost,2016 DPFO závislá činnost,2000-07-15,FALSE,TRUE,middle,0.10279877036979346
+inkaso k 29. 7. 2016,DPFO závislá činnost,82230713051.22,29. 7. 2016,2016-07-29,2016,7,29,211,DPFO závislá činnost,2016 DPFO závislá činnost,2000-07-29,TRUE,FALSE,end,0.10365564268795091
+inkaso k 14. 7. 2017,DPFO závislá činnost,86715479696.81,14. 7. 2017,2017-07-14,2017,7,14,195,DPFO závislá činnost,2017 DPFO závislá činnost,2000-07-14,FALSE,TRUE,middle,0.12084345674107233
+inkaso k 31. 7. 2017,DPFO závislá činnost,92690933875.69,31. 7. 2017,2017-07-31,2017,7,31,212,DPFO závislá činnost,2017 DPFO závislá činnost,2000-07-31,TRUE,FALSE,end,0.12720576578187415
+inkaso k 13. 7. 2018,DPFO                    závislá činnost,99432182683.74,13. 7. 2018,2018-07-13,2018,7,13,194,DPFO závislá činnost,2018 DPFO závislá činnost,2000-07-13,FALSE,TRUE,middle,0.14664859182457834
+inkaso k 31. 7. 2018,DPFO                    závislá činnost,106698493679.68,31. 7. 2018,2018-07-31,2018,7,31,212,DPFO závislá činnost,2018 DPFO závislá činnost,2000-07-31,TRUE,FALSE,end,0.15112114225514062
+inkaso k 15. 7. 2019,DPFO                    závislá činnost,113409180968.63,15. 7. 2019,2019-07-15,2019,7,15,196,DPFO závislá činnost,2019 DPFO závislá činnost,2000-07-15,FALSE,TRUE,middle,0.1405681531637104
+inkaso k 31. 7. 2019,DPFO                    závislá činnost,120502061059.31,31. 7. 2019,2019-07-31,2019,7,31,212,DPFO závislá činnost,2019 DPFO závislá činnost,2000-07-31,TRUE,FALSE,end,0.12936984303705135
+inkaso k 14.8.2009,DPFO závislá činnost,67692486421.72,14.8.2009,2009-08-14,2009,8,14,226,DPFO závislá činnost,2009 DPFO závislá činnost,2000-08-14,FALSE,TRUE,middle,NA
+inkaso k 13.8.2010,DPFO závislá činnost,67271140336.72,13.8.2010,2010-08-13,2010,8,13,225,DPFO závislá činnost,2010 DPFO závislá činnost,2000-08-13,FALSE,TRUE,middle,-0.006224414366685194
+inkaso k 15.8.2011,DPFO závislá činnost,71756831752.78,15.8.2011,2011-08-15,2011,8,15,227,DPFO závislá činnost,2011 DPFO závislá činnost,2000-08-15,FALSE,TRUE,middle,0.06668076969718739
+inkaso k 31.8.2011,DPFO závislá činnost,75554965933.98,31.8.2011,2011-08-31,2011,8,31,243,DPFO závislá činnost,2011 DPFO závislá činnost,2000-08-31,TRUE,FALSE,end,NA
+inkaso k 15.8.2012,DPFO závislá činnost,72843593550.98,15.8.2012,2012-08-15,2012,8,15,228,DPFO závislá činnost,2012 DPFO závislá činnost,2000-08-15,FALSE,TRUE,middle,0.015145063844849815
+inkaso k 31.8.2012,DPFO závislá činnost,76529541318.09,31.8.2012,2012-08-31,2012,8,31,244,DPFO závislá činnost,2012 DPFO závislá činnost,2000-08-31,TRUE,FALSE,end,0.012898892509085158
+inkaso k 15.8.2013,DPFO závislá činnost,76963128441.86,15.8.2013,2013-08-15,2013,8,15,227,DPFO závislá činnost,2013 DPFO závislá činnost,2000-08-15,FALSE,TRUE,middle,0.05655315299617847
+inkaso k 30.8.2013,DPFO závislá činnost,80974488466.44,30.8.2013,2013-08-30,2013,8,30,242,DPFO závislá činnost,2013 DPFO závislá činnost,2000-08-30,TRUE,FALSE,end,0.058081455498013135
+inkaso k 15.8.2014,DPFO závislá činnost,80547834115.57,15.8.2014,2014-08-15,2014,8,15,227,DPFO závislá činnost,2014 DPFO závislá činnost,2000-08-15,FALSE,TRUE,middle,0.046576922563874135
+inkaso k 29.8.2014,DPFO závislá činnost,84691526931.2,29.8.2014,2014-08-29,2014,8,29,241,DPFO závislá činnost,2014 DPFO závislá činnost,2000-08-29,TRUE,FALSE,end,0.04590382150176264
+inkaso k 14. 8. 2015,DPFO závislá činnost,81445472662.21,14. 8. 2015,2015-08-14,2015,8,14,226,DPFO závislá činnost,2015 DPFO závislá činnost,2000-08-14,FALSE,TRUE,middle,0.011144167394396609
+inkaso k 31. 8. 2015,DPFO závislá činnost,86565751600.07,31. 8. 2015,2015-08-31,2015,8,31,243,DPFO závislá činnost,2015 DPFO závislá činnost,2000-08-31,TRUE,FALSE,end,0.022130013907915025
+inkaso k 15. 8. 2016,DPFO závislá činnost,89762898035.14,15. 8. 2016,2016-08-15,2016,8,15,228,DPFO závislá činnost,2016 DPFO závislá činnost,2000-08-15,FALSE,TRUE,middle,0.1021226238986419
+inkaso k 31. 8. 2016,DPFO závislá činnost,94979586216.55,31. 8. 2016,2016-08-31,2016,8,31,244,DPFO závislá činnost,2016 DPFO závislá činnost,2000-08-31,TRUE,FALSE,end,0.09719588244727029
+inkaso k 15. 8. 2017,DPFO závislá činnost,101579627680.29,15. 8. 2017,2017-08-15,2017,8,15,227,DPFO závislá činnost,2017 DPFO závislá činnost,2000-08-15,FALSE,TRUE,middle,0.13164380722783742
+inkaso k 31. 8. 2017,DPFO závislá činnost,107163368404.45,31. 8. 2017,2017-08-31,2017,8,31,243,DPFO závislá činnost,2017 DPFO závislá činnost,2000-08-31,TRUE,FALSE,end,0.12827790342359902
+inkaso k 15. 8. 2018,DPFO                    závislá činnost,117117877096.23,15. 8. 2018,2018-08-15,2018,8,15,227,DPFO závislá činnost,2018 DPFO závislá činnost,2000-08-15,FALSE,TRUE,middle,0.1529661977581256
+inkaso k 31. 8. 2018,DPFO                    závislá činnost,123535693119.55,31. 8. 2018,2018-08-31,2018,8,31,243,DPFO závislá činnost,2018 DPFO závislá činnost,2000-08-31,TRUE,FALSE,end,0.1527791162116936
+inkaso k 15. 8. 2019,DPFO                    závislá činnost,132419122798.03,15. 8. 2019,2019-08-15,2019,8,15,227,DPFO závislá činnost,2019 DPFO závislá činnost,2000-08-15,FALSE,TRUE,middle,0.13064825013202497
+inkaso k 30. 8. 2019,DPFO                    závislá činnost,139301384063.61,30. 8. 2019,2019-08-30,2019,8,30,242,DPFO závislá činnost,2019 DPFO závislá činnost,2000-08-30,TRUE,FALSE,end,0.12762053254360217
+inkaso k 15.9.2009,DPFO závislá činnost,77121869467.53,15.9.2009,2009-09-15,2009,9,15,258,DPFO závislá činnost,2009 DPFO závislá činnost,2000-09-15,FALSE,TRUE,middle,NA
+inkaso k 15.9.2010,DPFO závislá činnost,77181629556.11,15.9.2010,2010-09-15,2010,9,15,258,DPFO závislá činnost,2010 DPFO závislá činnost,2000-09-15,FALSE,TRUE,middle,7.748786303107824e-4
+inkaso k 15.9.2011,DPFO závislá činnost,82250978576.57,15.9.2011,2011-09-15,2011,9,15,258,DPFO závislá činnost,2011 DPFO závislá činnost,2000-09-15,FALSE,TRUE,middle,0.06568077209065226
+inkaso k 30.9.2011,DPFO závislá činnost,85654722188.69,30.9.2011,2011-09-30,2011,9,30,273,DPFO závislá činnost,2011 DPFO závislá činnost,2000-09-30,TRUE,FALSE,end,NA
+inkaso k 14.9.2012,DPFO závislá činnost,82552094669.56,14.9.2012,2012-09-14,2012,9,14,258,DPFO závislá činnost,2012 DPFO závislá činnost,2000-09-14,FALSE,TRUE,middle,0.00366094237662673
+inkaso k 27.9.2012,DPFO závislá činnost,86450494093.55,27.9.2012,2012-09-27,2012,9,27,271,DPFO závislá činnost,2012 DPFO závislá činnost,2000-09-27,TRUE,FALSE,end,0.009290461570898412
+inkaso k 13.9.2013,DPFO závislá činnost,86924056709.9,13.9.2013,2013-09-13,2013,9,13,256,DPFO závislá činnost,2013 DPFO závislá činnost,2000-09-13,FALSE,TRUE,middle,0.05296003763248058
+inkaso k 30.9.2013,DPFO závislá činnost,91307556412.95,30.9.2013,2013-09-30,2013,9,30,273,DPFO závislá činnost,2013 DPFO závislá činnost,2000-09-30,TRUE,FALSE,end,0.056183164368546645
+inkaso k 15.9.2014,DPFO závislá činnost,90991221011.23,15.9.2014,2014-09-15,2014,9,15,258,DPFO závislá činnost,2014 DPFO závislá činnost,2000-09-15,FALSE,TRUE,middle,0.04678985835766669
+inkaso k 30.9.2014,DPFO závislá činnost,95112833322.65,30.9.2014,2014-09-30,2014,9,30,273,DPFO závislá činnost,2014 DPFO závislá činnost,2000-09-30,TRUE,FALSE,end,0.041675377802141034
+inkaso k 15. 9. 2015,DPFO závislá činnost,93204404217.83,15. 9. 2015,2015-09-15,2015,9,15,258,DPFO závislá činnost,2015 DPFO závislá činnost,2000-09-15,FALSE,TRUE,middle,0.02432304108026928
+inkaso k 30. 9. 2015,DPFO závislá činnost,97568901096.28,30. 9. 2015,2015-09-30,2015,9,30,273,DPFO závislá činnost,2015 DPFO závislá činnost,2000-09-30,TRUE,FALSE,end,0.02582267489917278
+inkaso k 15. 9. 2016,DPFO závislá činnost,102674260059.69,15. 9. 2016,2016-09-15,2016,9,15,259,DPFO závislá činnost,2016 DPFO závislá činnost,2000-09-15,FALSE,TRUE,middle,0.10160309398821754
+inkaso k 30. 9. 2016,DPFO závislá činnost,107500603400.09,30. 9. 2016,2016-09-30,2016,9,30,274,DPFO závislá činnost,2016 DPFO závislá činnost,2000-09-30,TRUE,FALSE,end,0.10179167944107004
+inkaso k 15. 9. 2017,DPFO závislá činnost,116191837344.48,15. 9. 2017,2017-09-15,2017,9,15,258,DPFO závislá činnost,2017 DPFO závislá činnost,2000-09-15,FALSE,TRUE,middle,0.131654976397507
+inkaso k 29. 9. 2017,DPFO závislá činnost,121328646820.48,29. 9. 2017,2017-09-29,2017,9,29,272,DPFO závislá činnost,2017 DPFO závislá činnost,2000-09-29,TRUE,FALSE,end,0.12863224003427698
+inkaso k 14. 9. 2018,DPFO                    závislá činnost,133183438308.99,14. 9. 2018,2018-09-14,2018,9,14,257,DPFO závislá činnost,2018 DPFO závislá činnost,2000-09-14,FALSE,TRUE,middle,0.1462374754788851
+inkaso k 27. 9. 2018,DPFO                    závislá činnost,139645588649.55,27. 9. 2018,2018-09-27,2018,9,27,270,DPFO závislá činnost,2018 DPFO závislá činnost,2000-09-27,TRUE,FALSE,end,0.15096963750178527
+inkaso k 13. 9. 2019,DPFO                    závislá činnost,149602521156.82,13. 9. 2019,2019-09-13,2019,9,13,256,DPFO závislá činnost,2019 DPFO závislá činnost,2000-09-13,FALSE,TRUE,middle,0.12328171622763784
+inkaso k 30. 9. 2019,DPFO                    závislá činnost,157047246639.4,30. 9. 2019,2019-09-30,2019,9,30,273,DPFO závislá činnost,2019 DPFO závislá činnost,2000-09-30,TRUE,FALSE,end,0.12461301612269793
+inkaso k 15.10.2009,DPFO závislá činnost,86495135522.07,15.10.2009,2009-10-15,2009,10,15,288,DPFO závislá činnost,2009 DPFO závislá činnost,2000-10-15,FALSE,TRUE,middle,NA
+inkaso k 15.10.2010,DPFO závislá činnost,86602038159.51,15.10.2010,2010-10-15,2010,10,15,288,DPFO závislá činnost,2010 DPFO závislá činnost,2000-10-15,FALSE,TRUE,middle,0.001235938146055826
+inkaso k 14.10.2011,DPFO závislá činnost,92006864468.28,14.10.2011,2011-10-14,2011,10,14,287,DPFO závislá činnost,2011 DPFO závislá činnost,2000-10-14,FALSE,TRUE,middle,0.0624099204087436
+inkaso k 31.10.2011,DPFO závislá činnost,95851288529.33,31.10.2011,2011-10-31,2011,10,31,304,DPFO závislá činnost,2011 DPFO závislá činnost,2000-10-31,TRUE,FALSE,end,NA
+inkaso k 15.10.2012,DPFO závislá činnost,92478111682.07,15.10.2012,2012-10-15,2012,10,15,289,DPFO závislá činnost,2012 DPFO závislá činnost,2000-10-15,FALSE,TRUE,middle,0.005121870161681974
+inkaso k 31.10.2012,DPFO závislá činnost,96210970503.23,31.10.2012,2012-10-31,2012,10,31,305,DPFO závislá činnost,2012 DPFO závislá činnost,2000-10-31,TRUE,FALSE,end,0.0037525001428637683
+inkaso k 15.10.2013,DPFO závislá činnost,97775842708.69,15.10.2013,2013-10-15,2013,10,15,288,DPFO závislá činnost,2013 DPFO závislá činnost,2000-10-15,FALSE,TRUE,middle,0.057286323544678774
+inkaso k 31.10.2013,DPFO závislá činnost,101720902842.38,31.10.2013,2013-10-31,2013,10,31,304,DPFO závislá činnost,2013 DPFO závislá činnost,2000-10-31,TRUE,FALSE,end,0.057269273039554536
+inkaso k 15.10.2014,DPFO závislá činnost,101930236846.74,15.10.2014,2014-10-15,2014,10,15,288,DPFO závislá činnost,2014 DPFO závislá činnost,2000-10-15,FALSE,TRUE,middle,0.04248896274335845
+inkaso k 31.10.2014,DPFO závislá činnost,106010893455.13,31.10.2014,2014-10-31,2014,10,31,304,DPFO závislá činnost,2014 DPFO závislá činnost,2000-10-31,TRUE,FALSE,end,0.04217413032007289
+inkaso k 15. 10. 2015,DPFO závislá činnost,104644200068.91,15. 10. 2015,2015-10-15,2015,10,15,288,DPFO závislá činnost,2015 DPFO závislá činnost,2000-10-15,FALSE,TRUE,middle,0.026625693279322515
+inkaso k 31. 10. 2015,DPFO závislá činnost,109077362770.37,31. 10. 2015,2015-10-31,2015,10,31,304,DPFO závislá činnost,2015 DPFO závislá činnost,2000-10-31,TRUE,FALSE,end,0.028925983125855925
+inkaso k 14. 10. 2016,DPFO závislá činnost,114860078964.33,14. 10. 2016,2016-10-14,2016,10,14,288,DPFO závislá činnost,2016 DPFO závislá činnost,2000-10-14,FALSE,TRUE,middle,0.09762489357931603
+inkaso k 31. 10. 2016,DPFO závislá činnost,120128276979.39,31. 10. 2016,2016-10-31,2016,10,31,305,DPFO závislá činnost,2016 DPFO závislá činnost,2000-10-31,TRUE,FALSE,end,0.10131262737149616
+inkaso k 15. 10. 2017,DPFO závislá činnost,129493566300.92,15. 10. 2017,2017-10-15,2017,10,15,288,DPFO závislá činnost,2017 DPFO závislá činnost,2000-10-15,FALSE,TRUE,middle,0.12740272746229309
+inkaso k 31. 10. 2017,DPFO závislá činnost,135613869100.81,31. 10. 2017,2017-10-31,2017,10,31,304,DPFO závislá činnost,2017 DPFO závislá činnost,2000-10-31,TRUE,FALSE,end,0.12890880074869315
+inkaso k 15. 10. 2018,DPFO                    závislá činnost,149472868140.68,15. 10. 2018,2018-10-15,2018,10,15,288,DPFO závislá činnost,2018 DPFO závislá činnost,2000-10-15,FALSE,TRUE,middle,0.1542879882799093
+inkaso k 31. 10. 2018,DPFO                    závislá činnost,155820932965.94,31. 10. 2018,2018-10-31,2018,10,31,304,DPFO závislá činnost,2018 DPFO závislá činnost,2000-10-31,TRUE,FALSE,end,0.14900440492637856
+inkaso k 15. 10. 2019,DPFO                    závislá činnost,168066653690.18,15. 10. 2019,2019-10-15,2019,10,15,288,DPFO závislá činnost,2019 DPFO závislá činnost,2000-10-15,FALSE,TRUE,middle,0.1243957233228441
+inkaso k 31. 10. 2019,DPFO                    závislá činnost,174939608309.18,31. 10. 2019,2019-10-31,2019,10,31,304,DPFO závislá činnost,2019 DPFO závislá činnost,2000-10-31,TRUE,FALSE,end,0.12269645020941455
+inkaso k 13.11.2009,DPFO závislá činnost,95759442971.1,13.11.2009,2009-11-13,2009,11,13,317,DPFO závislá činnost,2009 DPFO závislá činnost,2000-11-13,FALSE,TRUE,middle,NA
+inkaso k 15.11.2010,DPFO závislá činnost,96047401172.33,15.11.2010,2010-11-15,2010,11,15,319,DPFO závislá činnost,2010 DPFO závislá činnost,2000-11-15,FALSE,TRUE,middle,0.0030070997939795063
+inkaso k 15.11.2011,DPFO závislá činnost,102705361081.94,15.11.2011,2011-11-15,2011,11,15,319,DPFO závislá činnost,2011 DPFO závislá činnost,2000-11-15,FALSE,TRUE,middle,0.06931952169808486
+inkaso k 30.11.2011,DPFO závislá činnost,106305929544.07,30.11.2011,2011-11-30,2011,11,30,334,DPFO závislá činnost,2011 DPFO závislá činnost,2000-11-30,TRUE,FALSE,end,NA
+inkaso k 15.11.2012,DPFO závislá činnost,102848910432.68,15.11.2012,2012-11-15,2012,11,15,320,DPFO závislá činnost,2012 DPFO závislá činnost,2000-11-15,FALSE,TRUE,middle,0.001397681184582611
+inkaso k 30.11.2012,DPFO závislá činnost,106759861170.05,30.11.2012,2012-11-30,2012,11,30,335,DPFO závislá činnost,2012 DPFO závislá činnost,2000-11-30,TRUE,FALSE,end,0.004270049920327423
+inkaso k 15.11.2013,DPFO závislá činnost,108772082183,15.11.2013,2013-11-15,2013,11,15,319,DPFO závislá činnost,2013 DPFO závislá činnost,2000-11-15,FALSE,TRUE,middle,0.057591001454478485
+inkaso k 29.11.2013,DPFO závislá činnost,112902278233.73,29.11.2013,2013-11-29,2013,11,29,333,DPFO závislá činnost,2013 DPFO závislá činnost,2000-11-29,TRUE,FALSE,end,0.057534891825085754
+inkaso k 14.11.2014,DPFO závislá činnost,112679519417.72,14.11.2014,2014-11-14,2014,11,14,318,DPFO závislá činnost,2014 DPFO závislá činnost,2000-11-14,FALSE,TRUE,middle,0.03592316296884035
+inkaso k 28.11.2014,DPFO závislá činnost,117133643175.17,28.11.2014,2014-11-28,2014,11,28,332,DPFO závislá činnost,2014 DPFO závislá činnost,2000-11-28,TRUE,FALSE,end,0.03747811831290271
+inkaso k 13. 11. 2015,DPFO závislá činnost,115760958301.71,13. 11. 2015,2015-11-13,2015,11,13,317,DPFO závislá činnost,2015 DPFO závislá činnost,2000-11-13,FALSE,TRUE,middle,0.027346929592117375
+inkaso k 30. 11. 2015,DPFO závislá činnost,121118731075.6,30. 11. 2015,2015-11-30,2015,11,30,334,DPFO závislá činnost,2015 DPFO závislá činnost,2000-11-30,TRUE,FALSE,end,0.0340217190587202
+inkaso k 15. 11. 2016,DPFO závislá činnost,128090189193.29,15. 11. 2016,2016-11-15,2016,11,15,320,DPFO závislá činnost,2016 DPFO závislá činnost,2000-11-15,FALSE,TRUE,middle,0.10650595047292266
+inkaso k 30. 11. 2016,DPFO závislá činnost,133088758527.36,30. 11. 2016,2016-11-30,2016,11,30,335,DPFO závislá činnost,2016 DPFO závislá činnost,2000-11-30,TRUE,FALSE,end,0.09882887102151461
+inkaso k 15. 11. 2017,DPFO závislá činnost,145290705138.69,15. 11. 2017,2017-11-15,2017,11,15,319,DPFO závislá činnost,2017 DPFO závislá činnost,2000-11-15,FALSE,TRUE,middle,0.13428441361300658
+inkaso k 30. 11. 2017,DPFO závislá činnost,150517024689.48,30. 11. 2017,2017-11-30,2017,11,30,334,DPFO závislá činnost,2017 DPFO závislá činnost,2000-11-30,TRUE,FALSE,end,0.13095220328873358
+inkaso k 15. 11. 2018,DPFO                    závislá činnost,166438925086.39,15. 11. 2018,2018-11-15,2018,11,15,319,DPFO závislá činnost,2018 DPFO závislá činnost,2000-11-15,FALSE,TRUE,middle,0.14555796895274598
+inkaso k 30. 11. 2018,DPFO                    závislá činnost,172935737699.56,30. 11. 2018,2018-11-30,2018,11,30,334,DPFO závislá činnost,2018 DPFO závislá činnost,2000-11-30,TRUE,FALSE,end,0.14894469948718614
+inkaso k 15. 11. 2019,DPFO                    závislá činnost,186886982897.6,15. 11. 2019,2019-11-15,2019,11,15,319,DPFO závislá činnost,2019 DPFO závislá činnost,2000-11-15,FALSE,TRUE,middle,0.12285622369044047
+inkaso k 29. 11. 2019,DPFO                    závislá činnost,193677088074.29,29. 11. 2019,2019-11-29,2019,11,29,333,DPFO závislá činnost,2019 DPFO závislá činnost,2000-11-29,TRUE,FALSE,end,0.11993675020928185
+inkaso k 11.12.2009,DPFO závislá činnost,105643744312.8,11.12.2009,2009-12-11,2009,12,11,345,DPFO závislá činnost,2009 DPFO závislá činnost,2000-12-11,FALSE,TRUE,middle,NA
+inkaso k 31.12.2009,DPFO závislá činnost,111042464348.56,31.12.2009,2009-12-31,2009,12,31,365,DPFO závislá činnost,2009 DPFO závislá činnost,2000-12-31,TRUE,FALSE,end,NA
+inkaso k 13.12.2010,DPFO závislá činnost,105955239509.16,13.12.2010,2010-12-13,2010,12,13,347,DPFO závislá činnost,2010 DPFO závislá činnost,2000-12-13,FALSE,TRUE,middle,0.002948543696422723
+inkaso k 31.12.2010,DPFO závislá činnost,111842323189.79,31.12.2010,2010-12-31,2010,12,31,365,DPFO závislá činnost,2010 DPFO závislá činnost,2000-12-31,TRUE,FALSE,end,0.007203179845858276
+inkaso k 12.12.2011,DPFO závislá činnost,112028386702.03,12.12.2011,2011-12-12,2011,12,12,346,DPFO závislá činnost,2011 DPFO závislá činnost,2000-12-12,FALSE,TRUE,middle,0.05731804506321714
+inkaso k 30.12.2011,DPFO závislá činnost,119373178845.85,30.12.2011,2011-12-30,2011,12,30,364,DPFO závislá činnost,2011 DPFO závislá činnost,2000-12-30,TRUE,FALSE,end,0.06733457819255584
+inkaso k 12.12.2012,DPFO závislá činnost,112742904138.17,12.12.2012,2012-12-12,2012,12,12,347,DPFO závislá činnost,2012 DPFO závislá činnost,2000-12-12,FALSE,TRUE,middle,0.006378003443363367
+inkaso k 31.12.2012,DPFO závislá činnost,119787164613.04,31.12.2012,2012-12-31,2012,12,31,366,DPFO závislá činnost,2012 DPFO závislá činnost,2000-12-31,TRUE,FALSE,end,0.003467996506355764
+inkaso k 13.12.2013,DPFO závislá činnost,120742670897.88,13.12.2013,2013-12-13,2013,12,13,347,DPFO závislá činnost,2013 DPFO závislá činnost,2000-12-13,FALSE,TRUE,middle,0.07095583372507441
+inkaso k 31.12.2013,DPFO závislá činnost,126134463308.35,31.12.2013,2013-12-31,2013,12,31,365,DPFO závislá činnost,2013 DPFO závislá činnost,2000-12-31,TRUE,FALSE,end,0.05298813704969385
+inkaso k 15.12.2014,DPFO závislá činnost,125661888653.01,15.12.2014,2014-12-15,2014,12,15,349,DPFO závislá činnost,2014 DPFO závislá činnost,2000-12-15,FALSE,TRUE,middle,0.0407413362529514
+inkaso k 31.12.2014,DPFO závislá činnost,130866713127.62,31.12.2014,2014-12-31,2014,12,31,365,DPFO závislá činnost,2014 DPFO závislá činnost,2000-12-31,TRUE,FALSE,end,0.03751750073016491
+inkaso k 15. 12. 2015,DPFO závislá činnost,130325520052.09,15. 12. 2015,2015-12-15,2015,12,15,349,DPFO závislá činnost,2015 DPFO závislá činnost,2000-12-15,FALSE,TRUE,middle,0.03711253625956301
+inkaso k 31. 12. 2015,DPFO závislá činnost,136124944344.41,31. 12. 2015,2015-12-31,2015,12,31,365,DPFO závislá činnost,2015 DPFO závislá činnost,2000-12-31,TRUE,FALSE,end,0.04018005106968814
+inkaso k 15. 12. 2016,DPFO závislá činnost,143440786376.6,15. 12. 2016,2016-12-15,2016,12,15,350,DPFO závislá činnost,2016 DPFO závislá činnost,2000-12-15,FALSE,TRUE,middle,0.10063467476874788
+inkaso k 30. 12. 2016,DPFO závislá činnost,149391653640.23,30. 12. 2016,2016-12-30,2016,12,30,365,DPFO závislá činnost,2016 DPFO závislá činnost,2000-12-30,TRUE,FALSE,end,0.09745979592288312
+inkaso k 15. 12. 2017,DPFO závislá činnost,162721748979.6,15. 12. 2017,2017-12-15,2017,12,15,349,DPFO závislá činnost,2017 DPFO závislá činnost,2000-12-15,FALSE,TRUE,middle,0.13441757459679793
+inkaso k 31. 12. 2017,DPFO závislá činnost,169240794750.02,31. 12. 2017,2017-12-31,2017,12,31,365,DPFO závislá činnost,2017 DPFO závislá činnost,2000-12-31,TRUE,FALSE,end,0.13286646627254917
+inkaso k 14. 12. 2018,DPFO                    závislá činnost,185740260901.01,14. 12. 2018,2018-12-14,2018,12,14,348,DPFO závislá činnost,2018 DPFO závislá činnost,2000-12-14,FALSE,TRUE,middle,0.141459344345517
+inkaso k 31. 12. 2018,DPFO                    závislá činnost,193675575639.94,31. 12. 2018,2018-12-31,2018,12,31,365,DPFO závislá činnost,2018 DPFO závislá činnost,2000-12-31,TRUE,FALSE,end,0.14437878837671403
+inkaso k 16. 12. 2019,DPFO                    závislá činnost,208480427500.19,16. 12. 2019,2019-12-16,2019,12,16,350,DPFO závislá činnost,2019 DPFO závislá činnost,2000-12-16,FALSE,TRUE,middle,0.12242992708672529
+inkaso k 31. 12. 2019,DPFO                    závislá činnost,216290103422.01,31. 12. 2019,2019-12-31,2019,12,31,365,DPFO závislá činnost,2019 DPFO závislá činnost,2000-12-31,TRUE,FALSE,end,0.11676499583051414
+inkaso k 20.1.2009,DPH,-315963321.97,20.1.2009,2009-01-20,2009,1,20,20,DPH,2009 DPH,2000-01-20,FALSE,TRUE,middle,NA
+inkaso k 18.1.2010,DPH,-4186411483.15,18.1.2010,2010-01-18,2010,1,18,18,DPH,2010 DPH,2000-01-18,FALSE,TRUE,middle,12.249675490965657
+inkaso k 19.1.2011,DPH,-6925254813.25,19.1.2011,2011-01-19,2011,1,19,19,DPH,2011 DPH,2000-01-19,FALSE,TRUE,middle,0.6542221998777817
+inkaso k 16.1.2012,DPH,-797924882.15,16.1.2012,2012-01-16,2012,1,16,16,DPH,2012 DPH,2000-01-16,FALSE,TRUE,middle,-0.8847804299383554
+inkaso k 31.1.2012,DPH,45131453581.47,31.1.2012,2012-01-31,2012,1,31,31,DPH,2012 DPH,2000-01-31,TRUE,FALSE,end,NA
+inkaso k 17.1.2013,DPH,1944913437.2,17.1.2013,2013-01-17,2013,1,17,17,DPH,2013 DPH,2000-01-17,FALSE,TRUE,middle,-3.4374643286714557
+inkaso k 31.1.2013,DPH,48156752584.59,31.1.2013,2013-01-31,2013,1,31,31,DPH,2013 DPH,2000-01-31,TRUE,FALSE,end,0.06703305041258667
+inkaso k 15.1.2014,DPH,2166399647.02,15.1.2014,2014-01-15,2014,1,15,15,DPH,2014 DPH,2000-01-15,FALSE,TRUE,middle,0.11387972625602472
+inkaso k 31.1.2014,DPH,44578657279.24,31.1.2014,2014-01-31,2014,1,31,31,DPH,2014 DPH,2000-01-31,TRUE,FALSE,end,-0.07430100896161707
+inkaso k 15. 1. 2015,DPH,1755624315.3,15. 1. 2015,2015-01-15,2015,1,15,15,DPH,2015 DPH,2000-01-15,FALSE,TRUE,middle,-0.18961198238978838
+inkaso k 30. 1. 2015,DPH,39269515866.66,30. 1. 2015,2015-01-30,2015,1,30,30,DPH,2015 DPH,2000-01-30,TRUE,FALSE,end,-0.11909603690671111
+inkaso k 15. 1. 2016,DPH,1679371635.49,15. 1. 2016,2016-01-15,2016,1,15,15,DPH,2016 DPH,2000-01-15,FALSE,TRUE,middle,-0.04343336962553401
+inkaso k 29. 1. 2016,DPH,39679208234.76,29. 1. 2016,2016-01-29,2016,1,29,29,DPH,2016 DPH,2000-01-29,TRUE,FALSE,end,0.010432834707998717
+inkaso k 13. 1. 2017,DPH,1578139971.41,13. 1. 2017,2017-01-13,2017,1,13,13,DPH,2017 DPH,2000-01-13,FALSE,TRUE,middle,-0.06027948903070701
+inkaso k 31. 1. 2017,DPH,41371964828.92,31. 1. 2017,2017-01-31,2017,1,31,31,DPH,2017 DPH,2000-01-31,TRUE,FALSE,end,0.042661047673756114
+inkaso k 15. 1. 2018,DPH,3446531662.31,15. 1. 2018,2018-01-15,2018,1,15,15,DPH,2018 DPH,2000-01-15,FALSE,TRUE,middle,1.183920136837211
+inkaso k 31. 1. 2018,DPH,46244705410.31,31. 1. 2018,2018-01-31,2018,1,31,31,DPH,2018 DPH,2000-01-31,TRUE,FALSE,end,0.11777880508067717
+inkaso k 15. 1. 2019,DPH,3908603772.25,15. 1. 2019,2019-01-15,2019,1,15,15,DPH,2019 DPH,2000-01-15,FALSE,TRUE,middle,0.1340687262482021
+inkaso k 31. 1. 2019,DPH,44877099922.62,31. 1. 2019,2019-01-31,2019,1,31,31,DPH,2019 DPH,2000-01-31,TRUE,FALSE,end,-0.029573233855763603
+inkaso k 15. 1. 2020,DPH,3142344780.3,15. 1. 2020,2020-01-15,2020,1,15,15,DPH,2020 DPH,2000-01-15,FALSE,TRUE,middle,-0.19604417244598327
+inkaso k 31. 1. 2020,DPH,47389619999.52,31. 1. 2020,2020-01-31,2020,1,31,31,DPH,2020 DPH,2000-01-31,TRUE,FALSE,end,0.05598668544162266
+inkaso k 13.2.2009,DPH,39363827726.52,13.2.2009,2009-02-13,2009,2,13,44,DPH,2009 DPH,2000-02-13,FALSE,TRUE,middle,NA
+inkaso k 15.2.2010,DPH,31959639597.76,15.2.2010,2010-02-15,2010,2,15,46,DPH,2010 DPH,2000-02-15,FALSE,TRUE,middle,-0.18809624359197386
+inkaso k 15.2.2011,DPH,26765641312.56,15.2.2011,2011-02-15,2011,2,15,46,DPH,2011 DPH,2000-02-15,FALSE,TRUE,middle,-0.16251742355580368
+inkaso k 15.2.2012,DPH,43305873465.35,15.2.2012,2012-02-15,2012,2,15,46,DPH,2012 DPH,2000-02-15,FALSE,TRUE,middle,0.6179650978520868
+inkaso k 29.2.2012,DPH,40684873494.62,29.2.2012,2012-02-29,2012,2,29,60,DPH,2012 DPH,2000-02-29,TRUE,FALSE,end,NA
+inkaso k 15.2.2013,DPH,48725530724.28,15.2.2013,2013-02-15,2013,2,15,46,DPH,2013 DPH,2000-02-15,FALSE,TRUE,middle,0.1251483188132989
+inkaso k 28.2.2013,DPH,54982981162.5,28.2.2013,2013-02-28,2013,2,28,59,DPH,2013 DPH,2000-02-28,TRUE,FALSE,end,0.351435470722816
+inkaso k 14.2.2014,DPH,47731235673.53,14.2.2014,2014-02-14,2014,2,14,45,DPH,2014 DPH,2000-02-14,FALSE,TRUE,middle,-0.02040603839445798
+inkaso k 28.2.2014,DPH,65291526109.27,28.2.2014,2014-02-28,2014,2,28,59,DPH,2014 DPH,2000-02-28,TRUE,FALSE,end,0.18748610440571611
+inkaso k 13. 2. 2015,DPH,40509658149.04,13. 2. 2015,2015-02-13,2015,2,13,44,DPH,2015 DPH,2000-02-13,FALSE,TRUE,middle,-0.1512966807288172
+inkaso k 27. 2. 2015,DPH,51187164438,27. 2. 2015,2015-02-27,2015,2,27,58,DPH,2015 DPH,2000-02-27,TRUE,FALSE,end,-0.21602132025012477
+inkaso k 15. 2. 2016,DPH,41122907630.59,15. 2. 2016,2016-02-15,2016,2,15,46,DPH,2016 DPH,2000-02-15,FALSE,TRUE,middle,0.015138352421878665
+inkaso k 29. 2. 2016,DPH,51800796809.98,29. 2. 2016,2016-02-29,2016,2,29,60,DPH,2016 DPH,2000-02-29,TRUE,FALSE,end,0.011988012594900788
+inkaso k 15. 2. 2017,DPH,42886444782.27,15. 2. 2017,2017-02-15,2017,2,15,46,DPH,2017 DPH,2000-02-15,FALSE,TRUE,middle,0.04288454424288224
+inkaso k 28. 2. 2017,DPH,58265768666,28. 2. 2017,2017-02-28,2017,2,28,59,DPH,2017 DPH,2000-02-28,TRUE,FALSE,end,0.12480448669033684
+inkaso k 15. 2. 2018,DPH,48958535939.55,15. 2. 2018,2018-02-15,2018,2,15,46,DPH,2018 DPH,2000-02-15,FALSE,TRUE,middle,0.14158532347708874
+inkaso k 28. 2. 2018,DPH,68396684453.5,28. 2. 2018,2018-02-28,2018,2,28,59,DPH,2018 DPH,2000-02-28,TRUE,FALSE,end,0.17387423215119657
+inkaso k 15. 2. 2019,DPH,47546850816.89,15. 2. 2019,2019-02-15,2019,2,15,46,DPH,2019 DPH,2000-02-15,FALSE,TRUE,middle,-0.028834300200541896
+inkaso k 28. 2. 2019,DPH,65738069386.55,28. 2. 2019,2019-02-28,2019,2,28,59,DPH,2019 DPH,2000-02-28,TRUE,FALSE,end,-0.038870525496853214
+inkaso k 14. 2. 2020,DPH,50202770653.6,14. 2. 2020,2020-02-14,2020,2,14,45,DPH,2020 DPH,2000-02-14,FALSE,TRUE,middle,0.05585900624498441
+inkaso k 28. 2. 2020,DPH,72192294413.13,28. 2. 2020,2020-02-28,2020,2,28,59,DPH,2020 DPH,2000-02-28,TRUE,FALSE,end,0.09818093361744706
+inkaso k 13.3.2009,DPH,36809059474.68,13.3.2009,2009-03-13,2009,3,13,72,DPH,2009 DPH,2000-03-13,FALSE,TRUE,middle,NA
+inkaso k 15.3.2010,DPH,39410410645.68,15.3.2010,2010-03-15,2010,3,15,74,DPH,2010 DPH,2000-03-15,FALSE,TRUE,middle,0.07067149251095106
+inkaso k 15.3.2011,DPH,33162595531.61,15.3.2011,2011-03-15,2011,3,15,74,DPH,2011 DPH,2000-03-15,FALSE,TRUE,middle,-0.15853209879595254
+inkaso k 31.3.2011,DPH,56618447251.86,31.3.2011,2011-03-31,2011,3,31,90,DPH,2011 DPH,2000-03-31,TRUE,FALSE,end,NA
+inkaso k 15.3.2012,DPH,37977439690.55,15.3.2012,2012-03-15,2012,3,15,75,DPH,2012 DPH,2000-03-15,FALSE,TRUE,middle,0.14518900230081733
+inkaso k 30.3.2012,DPH,58442643973.19,30.3.2012,2012-03-30,2012,3,30,90,DPH,2012 DPH,2000-03-30,TRUE,FALSE,end,0.03221912309278441
+inkaso k 15.3.2013,DPH,55114149625.86,15.3.2013,2013-03-15,2013,3,15,74,DPH,2013 DPH,2000-03-15,FALSE,TRUE,middle,0.45123394507224135
+inkaso k 29.3.2013,DPH,73340404450.75,29.3.2013,2013-03-29,2013,3,29,88,DPH,2013 DPH,2000-03-29,TRUE,FALSE,end,0.2549124999271799
+inkaso k 14.3.2014,DPH,66165175813.53,14.3.2014,2014-03-14,2014,3,14,73,DPH,2014 DPH,2000-03-14,FALSE,TRUE,middle,0.20051159752421843
+inkaso k 31.3.2014,DPH,84431495360.11,31.3.2014,2014-03-31,2014,3,31,90,DPH,2014 DPH,2000-03-31,TRUE,FALSE,end,0.15122756674743942
+inkaso k 13. 3. 2015,DPH,52232092151.29,13. 3. 2015,2015-03-13,2015,3,13,72,DPH,2015 DPH,2000-03-13,FALSE,TRUE,middle,-0.21058031647202013
+inkaso k 31. 3. 2015,DPH,72350126750.24,31. 3. 2015,2015-03-31,2015,3,31,90,DPH,2015 DPH,2000-03-31,TRUE,FALSE,end,-0.14309078097387207
+inkaso k 15. 3. 2016,DPH,53767173118.95,15. 3. 2016,2016-03-15,2016,3,15,75,DPH,2016 DPH,2000-03-15,FALSE,TRUE,middle,0.029389612868916615
+inkaso k 31. 3. 2016,DPH,75383834789.88,31. 3. 2016,2016-03-31,2016,3,31,91,DPH,2016 DPH,2000-03-31,TRUE,FALSE,end,0.04193092916219299
+inkaso k 15. 3. 2017,DPH,60934895352.24,15. 3. 2017,2017-03-15,2017,3,15,74,DPH,2017 DPH,2000-03-15,FALSE,TRUE,middle,0.1333103791310124
+inkaso k 31. 3. 2017,DPH,81875941917,31. 3. 2017,2017-03-31,2017,3,31,90,DPH,2017 DPH,2000-03-31,TRUE,FALSE,end,0.08612068018582053
+inkaso k 15. 3. 2018,DPH,70308069875.04,15. 3. 2018,2018-03-15,2018,3,15,74,DPH,2018 DPH,2000-03-15,FALSE,TRUE,middle,0.15382277213438145
+inkaso k 29. 3. 2018,DPH,92644832612.51,29. 3. 2018,2018-03-29,2018,3,29,88,DPH,2018 DPH,2000-03-29,TRUE,FALSE,end,0.1315269228466005
+inkaso k 15. 3. 2019,DPH,67646695992.07,15. 3. 2019,2019-03-15,2019,3,15,74,DPH,2019 DPH,2000-03-15,FALSE,TRUE,middle,-0.037853035756778786
+inkaso k 29. 3. 2019,DPH,92494337785.7,29. 3. 2019,2019-03-29,2019,3,29,88,DPH,2019 DPH,2000-03-29,TRUE,FALSE,end,-0.0016244276401193858
+inkaso k 16. 3. 2020,DPH,74709025222.78,16. 3. 2020,2020-03-16,2020,3,16,76,DPH,2020 DPH,2000-03-16,FALSE,TRUE,middle,0.10440020945794437
+inkaso k 15.4.2009,DPH,51231298165.68,15.4.2009,2009-04-15,2009,4,15,105,DPH,2009 DPH,2000-04-15,FALSE,TRUE,middle,NA
+inkaso k 15.4.2011,DPH,50234974508.62,15.4.2011,2011-04-15,2011,4,15,105,DPH,2011 DPH,2000-04-15,FALSE,TRUE,middle,-0.019447558284350408
+inkaso k 29.4.2011,DPH,96125174273,29.4.2011,2011-04-29,2011,4,29,119,DPH,2011 DPH,2000-04-29,TRUE,FALSE,end,NA
+inkaso k 16.4.2012,DPH,56706103673.69,16.4.2012,2012-04-16,2012,4,16,107,DPH,2012 DPH,2000-04-16,FALSE,TRUE,middle,0.12881720809790775
+inkaso k 30.4.2012,DPH,100573566085.38,30.4.2012,2012-04-30,2012,4,30,121,DPH,2012 DPH,2000-04-30,TRUE,FALSE,end,0.04627707409659787
+inkaso k 15.4.2013,DPH,73324658803.04,15.4.2013,2013-04-15,2013,4,15,105,DPH,2013 DPH,2000-04-15,FALSE,TRUE,middle,0.293064662403538
+inkaso k 30.4.2013,DPH,104459409327.05,30.4.2013,2013-04-30,2013,4,30,120,DPH,2013 DPH,2000-04-30,TRUE,FALSE,end,0.03863682469378871
+inkaso k 15.4.2014,DPH,84889142870.22,15.4.2014,2014-04-15,2014,4,15,105,DPH,2014 DPH,2000-04-15,FALSE,TRUE,middle,0.15771616610237205
+inkaso k 30.4.2014,DPH,117779819609.26,30.4.2014,2014-04-30,2014,4,30,120,DPH,2014 DPH,2000-04-30,TRUE,FALSE,end,0.1275175723089279
+inkaso k 15. 4. 2015,DPH,72795364550.48,15. 4. 2015,2015-04-15,2015,4,15,105,DPH,2015 DPH,2000-04-15,FALSE,TRUE,middle,-0.14246554872428363
+inkaso k 30. 4. 2015,DPH,106702935235.02,30. 4. 2015,2015-04-30,2015,4,30,120,DPH,2015 DPH,2000-04-30,TRUE,FALSE,end,-0.09404738783764544
+inkaso k 15. 4. 2016,DPH,77576062372.78,15. 4. 2016,2016-04-15,2016,4,15,106,DPH,2016 DPH,2000-04-15,FALSE,TRUE,middle,0.06567310778401048
+inkaso k 29. 4. 2016,DPH,110058402418.62,29. 4. 2016,2016-04-29,2016,4,29,120,DPH,2016 DPH,2000-04-29,TRUE,FALSE,end,0.03144681236940072
+inkaso k 13. 4. 2017,DPH,83040973735.95,13. 4. 2017,2017-04-13,2017,4,13,103,DPH,2017 DPH,2000-04-13,FALSE,TRUE,middle,0.07044584625743444
+inkaso k 28. 4. 2017,DPH,122050354632.29,28. 4. 2017,2017-04-28,2017,4,28,118,DPH,2017 DPH,2000-04-28,TRUE,FALSE,end,0.10895989720128063
+inkaso k 13. 4. 2018,DPH,94543764044.51,13. 4. 2018,2018-04-13,2018,4,13,103,DPH,2018 DPH,2000-04-13,FALSE,TRUE,middle,0.13851945360294127
+inkaso k 30. 4. 2018,DPH,131746705833.5,30. 4. 2018,2018-04-30,2018,4,30,120,DPH,2018 DPH,2000-04-30,TRUE,FALSE,end,0.07944549797026745
+inkaso k 15. 4. 2019,DPH,94290518009.82,15. 4. 2019,2019-04-15,2019,4,15,105,DPH,2019 DPH,2000-04-15,FALSE,TRUE,middle,-0.0026786117228287942
+inkaso k 30. 4. 2019,DPH,135042000428.18,30. 4. 2019,2019-04-30,2019,4,30,120,DPH,2019 DPH,2000-04-30,TRUE,FALSE,end,0.02501234906658345
+inkaso k 15.5.2009,DPH,82198529353.36,15.5.2009,2009-05-15,2009,5,15,135,DPH,2009 DPH,2000-05-15,FALSE,TRUE,middle,NA
+inkaso k 14.5.2010,DPH,87571981289.68,14.5.2010,2010-05-14,2010,5,14,134,DPH,2010 DPH,2000-05-14,FALSE,TRUE,middle,0.06537163108138189
+inkaso k 13.5.2011,DPH,79323257639.93,13.5.2011,2011-05-13,2011,5,13,133,DPH,2011 DPH,2000-05-13,FALSE,TRUE,middle,-0.09419363965814576
+inkaso k 31.5.2011,DPH,111681225826.03,31.5.2011,2011-05-31,2011,5,31,151,DPH,2011 DPH,2000-05-31,TRUE,FALSE,end,NA
+inkaso k 15.5.2012,DPH,99617200122.23,15.5.2012,2012-05-15,2012,5,15,136,DPH,2012 DPH,2000-05-15,FALSE,TRUE,middle,0.2558384903254953
+inkaso k 31.5.2012,DPH,105326230344.44,31.5.2012,2012-05-31,2012,5,31,152,DPH,2012 DPH,2000-05-31,TRUE,FALSE,end,-0.05690298825596174
+inkaso k 15.5.2013,DPH,105069014474.74,15.5.2013,2013-05-15,2013,5,15,135,DPH,2013 DPH,2000-05-15,FALSE,TRUE,middle,0.05472764086744708
+inkaso k 31.5.2013,DPH,124856726013.84,31.5.2013,2013-05-31,2013,5,31,151,DPH,2013 DPH,2000-05-31,TRUE,FALSE,end,0.1854286022155256
+inkaso k 15.5.2014,DPH,117386289593.14,15.5.2014,2014-05-15,2014,5,15,135,DPH,2014 DPH,2000-05-15,FALSE,TRUE,middle,0.11723032884601037
+inkaso k 30.5.2014,DPH,135973516506.1,30.5.2014,2014-05-30,2014,5,30,150,DPH,2014 DPH,2000-05-30,TRUE,FALSE,end,0.08903637671091702
+inkaso k 15. 5. 2015,DPH,108228772880.03,15. 5. 2015,2015-05-15,2015,5,15,135,DPH,2015 DPH,2000-05-15,FALSE,TRUE,middle,-0.07801180823458931
+inkaso k 29. 5. 2015,DPH,125935249420.88,29. 5. 2015,2015-05-29,2015,5,29,149,DPH,2015 DPH,2000-05-29,TRUE,FALSE,end,-0.07382516348152013
+inkaso k 13. 5. 2016,DPH,111192994453.77,13. 5. 2016,2016-05-13,2016,5,13,134,DPH,2016 DPH,2000-05-13,FALSE,TRUE,middle,0.02738847992876914
+inkaso k 31. 5. 2016,DPH,133726598180.15,31. 5. 2016,2016-05-31,2016,5,31,152,DPH,2016 DPH,2000-05-31,TRUE,FALSE,end,0.061867894772106524
+inkaso k 15. 5. 2017,DPH,124754973651.9,15. 5. 2017,2017-05-15,2017,5,15,135,DPH,2017 DPH,2000-05-15,FALSE,TRUE,middle,0.12196792850801907
+inkaso k 31. 5. 2017,DPH,147565833810.99,31. 5. 2017,2017-05-31,2017,5,31,151,DPH,2017 DPH,2000-05-31,TRUE,FALSE,end,0.10348902775644109
+inkaso k 15. 5. 2018,DPH,133785128376.58,15. 5. 2018,2018-05-15,2018,5,15,135,DPH,2018 DPH,2000-05-15,FALSE,TRUE,middle,0.07238312397769864
+inkaso k 31. 5. 2018,DPH,161570105028.87,31. 5. 2018,2018-05-31,2018,5,31,151,DPH,2018 DPH,2000-05-31,TRUE,FALSE,end,0.09490185401464535
+inkaso k 15. 5. 2019,DPH,137666097895.73,15. 5. 2019,2019-05-15,2019,5,15,135,DPH,2019 DPH,2000-05-15,FALSE,TRUE,middle,0.029008975558373118
+inkaso k 31. 5. 2019,DPH,167524392170.18,31. 5. 2019,2019-05-31,2019,5,31,151,DPH,2019 DPH,2000-05-31,TRUE,FALSE,end,0.03685265377679903
+inkaso k 15.6.2009,DPH,96119962642,15.6.2009,2009-06-15,2009,6,15,166,DPH,2009 DPH,2000-06-15,FALSE,TRUE,middle,NA
+inkaso k 30.6.2009,DPH,117789948824.36,30.6.2009,2009-06-30,2009,6,30,181,DPH,2009 DPH,2000-06-30,TRUE,FALSE,end,NA
+inkaso k 15.6.2010,DPH,100886152927.3,15.6.2010,2010-06-15,2010,6,15,166,DPH,2010 DPH,2000-06-15,FALSE,TRUE,middle,0.049585852452437296
+inkaso k 14.6.2011,DPH,105897500603.36,14.6.2011,2011-06-14,2011,6,14,165,DPH,2011 DPH,2000-06-14,FALSE,TRUE,middle,0.04967329539933241
+inkaso k 30.6.2011,DPH,135628405503.35,30.6.2011,2011-06-30,2011,6,30,181,DPH,2011 DPH,2000-06-30,TRUE,FALSE,end,0.151442944470495
+inkaso k 15.6.2012,DPH,104758293640.01,15.6.2012,2012-06-15,2012,6,15,167,DPH,2012 DPH,2000-06-15,FALSE,TRUE,middle,-0.010757637874919457
+inkaso k 29.6.2012,DPH,128275676592.1,29.6.2012,2012-06-29,2012,6,29,181,DPH,2012 DPH,2000-06-29,TRUE,FALSE,end,-0.05421230813679656
+inkaso k 14.6.2013,DPH,124503385342.21,14.6.2013,2013-06-14,2013,6,14,165,DPH,2013 DPH,2000-06-14,FALSE,TRUE,middle,0.18848237228884024
+inkaso k 28.6.2013,DPH,146087437579.19,28.6.2013,2013-06-28,2013,6,28,179,DPH,2013 DPH,2000-06-28,TRUE,FALSE,end,0.13885532674857037
+inkaso k 13.6.2014,DPH,136024833295.19,13.6.2014,2014-06-13,2014,6,13,164,DPH,2014 DPH,2000-06-13,FALSE,TRUE,middle,0.09253923434541278
+inkaso k 30.6.2014,DPH,156148945550.21,30.6.2014,2014-06-30,2014,6,30,181,DPH,2014 DPH,2000-06-30,TRUE,FALSE,end,0.06887319086260191
+inkaso k 15. 6. 2015,DPH,125823596816.88,15. 6. 2015,2015-06-15,2015,6,15,166,DPH,2015 DPH,2000-06-15,FALSE,TRUE,middle,-0.07499539776073172
+inkaso k 30. 6. 2015,DPH,148605970083.83,30. 6. 2015,2015-06-30,2015,6,30,181,DPH,2015 DPH,2000-06-30,TRUE,FALSE,end,-0.04830628500116607
+inkaso k 15. 6. 2016,DPH,134951556095.57,15. 6. 2016,2016-06-15,2016,6,15,167,DPH,2016 DPH,2000-06-15,FALSE,TRUE,middle,0.07254568705403153
+inkaso k 30. 6. 2016,DPH,157526952266.91,30. 6. 2016,2016-06-30,2016,6,30,182,DPH,2016 DPH,2000-06-30,TRUE,FALSE,end,0.060031115695066584
+inkaso k 15. 6. 2017,DPH,149174043459.85,15. 6. 2017,2017-06-15,2017,6,15,166,DPH,2017 DPH,2000-06-15,FALSE,TRUE,middle,0.10538957664339876
+inkaso k 30. 6. 2017,DPH,179682343761.01,30. 6. 2017,2017-06-30,2017,6,30,181,DPH,2017 DPH,2000-06-30,TRUE,FALSE,end,0.14064508438251533
+inkaso k 15. 6. 2018,DPH,162493031210.67,15. 6. 2018,2018-06-15,2018,6,15,166,DPH,2018 DPH,2000-06-15,FALSE,TRUE,middle,0.08928488791955824
+inkaso k 29. 6. 2018,DPH,194486716079.76,29. 6. 2018,2018-06-29,2018,6,29,180,DPH,2018 DPH,2000-06-29,TRUE,FALSE,end,0.08239191458032646
+inkaso k 14. 6. 2019,DPH,169328767913.18,14. 6. 2019,2019-06-14,2019,6,14,165,DPH,2019 DPH,2000-06-14,FALSE,TRUE,middle,0.04206787609031393
+inkaso k 28. 6. 2019,DPH,200149272282.86,28. 6. 2019,2019-06-28,2019,6,28,179,DPH,2019 DPH,2000-06-28,TRUE,FALSE,end,0.02911538801846869
+inkaso k 16.7.2009,DPH,114556284842.03,16.7.2009,2009-07-16,2009,7,16,197,DPH,2009 DPH,2000-07-16,FALSE,TRUE,middle,NA
+inkaso k 15.7.2010,DPH,122720032514,15.7.2010,2010-07-15,2010,7,15,196,DPH,2010 DPH,2000-07-15,FALSE,TRUE,middle,0.07126407497613596
+inkaso k 15.7.2011,DPH,129360966244.46,15.7.2011,2011-07-15,2011,7,15,196,DPH,2011 DPH,2000-07-15,FALSE,TRUE,middle,0.05411450432676834
+inkaso k 29.7.2011,DPH,175563981383.97,29.7.2011,2011-07-29,2011,7,29,210,DPH,2011 DPH,2000-07-29,TRUE,FALSE,end,NA
+inkaso k 13.7.2012,DPH,128096296097.36,13.7.2012,2012-07-13,2012,7,13,195,DPH,2012 DPH,2000-07-13,FALSE,TRUE,middle,-0.00977628865812652
+inkaso k 31.7.2012,DPH,170731702854.21,31.7.2012,2012-07-31,2012,7,31,213,DPH,2012 DPH,2000-07-31,TRUE,FALSE,end,-0.02752431615908446
+inkaso k 15.7.2013,DPH,146232549700.97,15.7.2013,2013-07-15,2013,7,15,196,DPH,2013 DPH,2000-07-15,FALSE,TRUE,middle,0.14158296653500013
+inkaso k 31.7.2013,DPH,177978579193.75,31.7.2013,2013-07-31,2013,7,31,212,DPH,2013 DPH,2000-07-31,TRUE,FALSE,end,0.04244599109825664
+inkaso k 15.7.2014,DPH,157976383310.82,15.7.2014,2014-07-15,2014,7,15,196,DPH,2014 DPH,2000-07-15,FALSE,TRUE,middle,0.08030929935821329
+inkaso k 31.7.2014,DPH,192761102369.05,31.7.2014,2014-07-31,2014,7,31,212,DPH,2014 DPH,2000-07-31,TRUE,FALSE,end,0.08305787832595035
+inkaso k 15. 7. 2015,DPH,150620594317.76,15. 7. 2015,2015-07-15,2015,7,15,196,DPH,2015 DPH,2000-07-15,FALSE,TRUE,middle,-0.046562586374619186
+inkaso k 31. 7. 2015,DPH,189419044688.34,31. 7. 2015,2015-07-31,2015,7,31,212,DPH,2015 DPH,2000-07-31,TRUE,FALSE,end,-0.01733782199642886
+inkaso k 15. 7. 2016,DPH,160995489573.62,15. 7. 2016,2016-07-15,2016,7,15,197,DPH,2016 DPH,2000-07-15,FALSE,TRUE,middle,0.06888098737661563
+inkaso k 29. 7. 2016,DPH,197624813867.33,29. 7. 2016,2016-07-29,2016,7,29,211,DPH,2016 DPH,2000-07-29,TRUE,FALSE,end,0.04332071884583377
+inkaso k 14. 7. 2017,DPH,181416337003.19,14. 7. 2017,2017-07-14,2017,7,14,195,DPH,2017 DPH,2000-07-14,FALSE,TRUE,middle,0.12684111513715401
+inkaso k 31. 7. 2017,DPH,219790433286.47,31. 7. 2017,2017-07-31,2017,7,31,212,DPH,2017 DPH,2000-07-31,TRUE,FALSE,end,0.11216010269854215
+inkaso k 13. 7. 2018,DPH,195729742820.56,13. 7. 2018,2018-07-13,2018,7,13,194,DPH,2018 DPH,2000-07-13,FALSE,TRUE,middle,0.07889810837222622
+inkaso k 31. 7. 2018,DPH,237091258199.98,31. 7. 2018,2018-07-31,2018,7,31,212,DPH,2018 DPH,2000-07-31,TRUE,FALSE,end,0.07871509535158205
+inkaso k 15. 7. 2019,DPH,203968454471.1,15. 7. 2019,2019-07-15,2019,7,15,196,DPH,2019 DPH,2000-07-15,FALSE,TRUE,middle,0.042092282612832266
+inkaso k 31. 7. 2019,DPH,244017902081.71,31. 7. 2019,2019-07-31,2019,7,31,212,DPH,2019 DPH,2000-07-31,TRUE,FALSE,end,0.02921509605338346
+inkaso k 14.8.2009,DPH,147742660709.77,14.8.2009,2009-08-14,2009,8,14,226,DPH,2009 DPH,2000-08-14,FALSE,TRUE,middle,NA
+inkaso k 13.8.2010,DPH,156322183295.78,13.8.2010,2010-08-13,2010,8,13,225,DPH,2010 DPH,2000-08-13,FALSE,TRUE,middle,0.05807071934939545
+inkaso k 15.8.2011,DPH,173571642553.99,15.8.2011,2011-08-15,2011,8,15,227,DPH,2011 DPH,2000-08-15,FALSE,TRUE,middle,0.11034556257170469
+inkaso k 31.8.2011,DPH,179897891474.56,31.8.2011,2011-08-31,2011,8,31,243,DPH,2011 DPH,2000-08-31,TRUE,FALSE,end,NA
+inkaso k 15.8.2012,DPH,171295782939.16,15.8.2012,2012-08-15,2012,8,15,228,DPH,2012 DPH,2000-08-15,FALSE,TRUE,middle,-0.013111932233527579
+inkaso k 31.8.2012,DPH,177500916082.96,31.8.2012,2012-08-31,2012,8,31,244,DPH,2012 DPH,2000-08-31,TRUE,FALSE,end,-0.01332408830338605
+inkaso k 15.8.2013,DPH,178157610676.53,15.8.2013,2013-08-15,2013,8,15,227,DPH,2013 DPH,2000-08-15,FALSE,TRUE,middle,0.04005835765266408
+inkaso k 30.8.2013,DPH,198772550570.56,30.8.2013,2013-08-30,2013,8,30,242,DPH,2013 DPH,2000-08-30,TRUE,FALSE,end,0.119839575800601
+inkaso k 15.8.2014,DPH,192360931339.23,15.8.2014,2014-08-15,2014,8,15,227,DPH,2014 DPH,2000-08-15,FALSE,TRUE,middle,0.07972334501324285
+inkaso k 29.8.2014,DPH,212856281600.25,29.8.2014,2014-08-29,2014,8,29,241,DPH,2014 DPH,2000-08-29,TRUE,FALSE,end,0.07085350059283257
+inkaso k 14. 8. 2015,DPH,190354411265.04,14. 8. 2015,2015-08-14,2015,8,14,226,DPH,2015 DPH,2000-08-14,FALSE,TRUE,middle,-0.010431016632226009
+inkaso k 31. 8. 2015,DPH,212156199214.91,31. 8. 2015,2015-08-31,2015,8,31,243,DPH,2015 DPH,2000-08-31,TRUE,FALSE,end,-0.003288990957075799
+inkaso k 15. 8. 2016,DPH,199896266923,15. 8. 2016,2016-08-15,2016,8,15,228,DPH,2016 DPH,2000-08-15,FALSE,TRUE,middle,0.050126790309442226
+inkaso k 31. 8. 2016,DPH,218368993517.7,31. 8. 2016,2016-08-31,2016,8,31,244,DPH,2016 DPH,2000-08-31,TRUE,FALSE,end,0.029284057339736602
+inkaso k 15. 8. 2017,DPH,221931052229.78,15. 8. 2017,2017-08-15,2017,8,15,227,DPH,2017 DPH,2000-08-15,FALSE,TRUE,middle,0.11023109958960764
+inkaso k 31. 8. 2017,DPH,241326938331.62,31. 8. 2017,2017-08-31,2017,8,31,243,DPH,2017 DPH,2000-08-31,TRUE,FALSE,end,0.10513372088267237
+inkaso k 15. 8. 2018,DPH,238837767426.09,15. 8. 2018,2018-08-15,2018,8,15,227,DPH,2018 DPH,2000-08-15,FALSE,TRUE,middle,0.076180034413595
+inkaso k 31. 8. 2018,DPH,263254358583.69,31. 8. 2018,2018-08-31,2018,8,31,243,DPH,2018 DPH,2000-08-31,TRUE,FALSE,end,0.09086188389767913
+inkaso k 15. 8. 2019,DPH,247316941810.35,15. 8. 2019,2019-08-15,2019,8,15,227,DPH,2019 DPH,2000-08-15,FALSE,TRUE,middle,0.03550181562840127
+inkaso k 30. 8. 2019,DPH,276296092548.54,30. 8. 2019,2019-08-30,2019,8,30,242,DPH,2019 DPH,2000-08-30,TRUE,FALSE,end,0.04954042939693215
+inkaso k 15.9.2009,DPH,160190311564.06,15.9.2009,2009-09-15,2009,9,15,258,DPH,2009 DPH,2000-09-15,FALSE,TRUE,middle,NA
+inkaso k 15.9.2010,DPH,172311169333.8,15.9.2010,2010-09-15,2010,9,15,258,DPH,2010 DPH,2000-09-15,FALSE,TRUE,middle,0.07566536110327049
+inkaso k 15.9.2011,DPH,178278318951.28,15.9.2011,2011-09-15,2011,9,15,258,DPH,2011 DPH,2000-09-15,FALSE,TRUE,middle,0.03463008022376357
+inkaso k 30.9.2011,DPH,201000122944.92,30.9.2011,2011-09-30,2011,9,30,273,DPH,2011 DPH,2000-09-30,TRUE,FALSE,end,NA
+inkaso k 14.9.2012,DPH,177156556813.75,14.9.2012,2012-09-14,2012,9,14,258,DPH,2012 DPH,2000-09-14,FALSE,TRUE,middle,-0.006292196068084732
+inkaso k 27.9.2012,DPH,199403073676.68,27.9.2012,2012-09-27,2012,9,27,271,DPH,2012 DPH,2000-09-27,TRUE,FALSE,end,-0.00794551388746001
+inkaso k 13.9.2013,DPH,198529149910.32,13.9.2013,2013-09-13,2013,9,13,256,DPH,2013 DPH,2000-09-13,FALSE,TRUE,middle,0.12064240511876534
+inkaso k 30.9.2013,DPH,221623237353.14,30.9.2013,2013-09-30,2013,9,30,273,DPH,2013 DPH,2000-09-30,TRUE,FALSE,end,0.11143340604913976
+inkaso k 15.9.2014,DPH,212514260772.72,15.9.2014,2014-09-15,2014,9,15,258,DPH,2014 DPH,2000-09-15,FALSE,TRUE,middle,0.07044361429400858
+inkaso k 30.9.2014,DPH,232815928805.99,30.9.2014,2014-09-30,2014,9,30,273,DPH,2014 DPH,2000-09-30,TRUE,FALSE,end,0.05050323958139491
+inkaso k 15. 9. 2015,DPH,212629268478.23,15. 9. 2015,2015-09-15,2015,9,15,258,DPH,2015 DPH,2000-09-15,FALSE,TRUE,middle,5.411764137230879e-4
+inkaso k 30. 9. 2015,DPH,233082983112.47,30. 9. 2015,2015-09-30,2015,9,30,273,DPH,2015 DPH,2000-09-30,TRUE,FALSE,end,0.001147062006666033
+inkaso k 15. 9. 2016,DPH,219730486969.58,15. 9. 2016,2016-09-15,2016,9,15,259,DPH,2016 DPH,2000-09-15,FALSE,TRUE,middle,0.03339718253358437
+inkaso k 30. 9. 2016,DPH,246751353112.83,30. 9. 2016,2016-09-30,2016,9,30,274,DPH,2016 DPH,2000-09-30,TRUE,FALSE,end,0.058641646926942625
+inkaso k 15. 9. 2017,DPH,243114085659.53,15. 9. 2017,2017-09-15,2017,9,15,258,DPH,2017 DPH,2000-09-15,FALSE,TRUE,middle,0.10641945508994066
+inkaso k 29. 9. 2017,DPH,272810789832.76,29. 9. 2017,2017-09-29,2017,9,29,272,DPH,2017 DPH,2000-09-29,TRUE,FALSE,end,0.1056101066566959
+inkaso k 14. 9. 2018,DPH,263749935487.35,14. 9. 2018,2018-09-14,2018,9,14,257,DPH,2018 DPH,2000-09-14,FALSE,TRUE,middle,0.0848813419092449
+inkaso k 27. 9. 2018,DPH,293035495753.26,27. 9. 2018,2018-09-27,2018,9,27,270,DPH,2018 DPH,2000-09-27,TRUE,FALSE,end,0.07413455286317028
+inkaso k 13. 9. 2019,DPH,278098156629.13,13. 9. 2019,2019-09-13,2019,9,13,256,DPH,2019 DPH,2000-09-13,FALSE,TRUE,middle,0.05440085175857101
+inkaso k 30. 9. 2019,DPH,307146399571.11,30. 9. 2019,2019-09-30,2019,9,30,273,DPH,2019 DPH,2000-09-30,TRUE,FALSE,end,0.04815424759917675
+inkaso k 15.10.2009,DPH,179506832194.39,15.10.2009,2009-10-15,2009,10,15,288,DPH,2009 DPH,2000-10-15,FALSE,TRUE,middle,NA
+inkaso k 15.10.2010,DPH,192155584355.12,15.10.2010,2010-10-15,2010,10,15,288,DPH,2010 DPH,2000-10-15,FALSE,TRUE,middle,0.07046390383087209
+inkaso k 14.10.2011,DPH,199246546341.15,14.10.2011,2011-10-14,2011,10,14,287,DPH,2011 DPH,2000-10-14,FALSE,TRUE,middle,0.036902190533923296
+inkaso k 31.10.2011,DPH,242954130235.62,31.10.2011,2011-10-31,2011,10,31,304,DPH,2011 DPH,2000-10-31,TRUE,FALSE,end,NA
+inkaso k 15.10.2012,DPH,200047294714.46,15.10.2012,2012-10-15,2012,10,15,289,DPH,2012 DPH,2000-10-15,FALSE,TRUE,middle,0.004018882073564045
+inkaso k 31.10.2012,DPH,243404600420.09,31.10.2012,2012-10-31,2012,10,31,305,DPH,2012 DPH,2000-10-31,TRUE,FALSE,end,0.001854136762495573
+inkaso k 15.10.2013,DPH,221777518274.88,15.10.2013,2013-10-15,2013,10,15,288,DPH,2013 DPH,2000-10-15,FALSE,TRUE,middle,0.108625430758446
+inkaso k 31.10.2013,DPH,256186278950.81,31.10.2013,2013-10-31,2013,10,31,304,DPH,2013 DPH,2000-10-31,TRUE,FALSE,end,0.05251206636464634
+inkaso k 15.10.2014,DPH,234480303025.06,15.10.2014,2014-10-15,2014,10,15,288,DPH,2014 DPH,2000-10-15,FALSE,TRUE,middle,0.057277152567085876
+inkaso k 31.10.2014,DPH,273686326919.49,31.10.2014,2014-10-31,2014,10,31,304,DPH,2014 DPH,2000-10-31,TRUE,FALSE,end,0.06830985656355226
+inkaso k 15. 10. 2015,DPH,235738579435.01,15. 10. 2015,2015-10-15,2015,10,15,288,DPH,2015 DPH,2000-10-15,FALSE,TRUE,middle,0.005366235004462316
+inkaso k 31. 10. 2015,DPH,275106567026.55,31. 10. 2015,2015-10-31,2015,10,31,304,DPH,2015 DPH,2000-10-31,TRUE,FALSE,end,0.005189298724001645
+inkaso k 14. 10. 2016,DPH,248883594091.86,14. 10. 2016,2016-10-14,2016,10,14,288,DPH,2016 DPH,2000-10-14,FALSE,TRUE,middle,0.05576098188236456
+inkaso k 31. 10. 2016,DPH,288156108154,31. 10. 2016,2016-10-31,2016,10,31,305,DPH,2016 DPH,2000-10-31,TRUE,FALSE,end,0.04743449517942855
+inkaso k 15. 10. 2017,DPH,275091863357.26,15. 10. 2017,2017-10-15,2017,10,15,288,DPH,2017 DPH,2000-10-15,FALSE,TRUE,middle,0.10530332206520154
+inkaso k 31. 10. 2017,DPH,314414714140.53,31. 10. 2017,2017-10-31,2017,10,31,304,DPH,2017 DPH,2000-10-31,TRUE,FALSE,end,0.09112632091941131
+inkaso k 15. 10. 2018,DPH,297346927138.16,15. 10. 2018,2018-10-15,2018,10,15,288,DPH,2018 DPH,2000-10-15,FALSE,TRUE,middle,0.08090047996802241
+inkaso k 31. 10. 2018,DPH,339982360607.21,31. 10. 2018,2018-10-31,2018,10,31,304,DPH,2018 DPH,2000-10-31,TRUE,FALSE,end,0.08131822499646857
+inkaso k 15. 10. 2019,DPH,310103185679.22,15. 10. 2019,2019-10-15,2019,10,15,288,DPH,2019 DPH,2000-10-15,FALSE,TRUE,middle,0.04290025346430726
+inkaso k 31. 10. 2019,DPH,354880167002.43,31. 10. 2019,2019-10-31,2019,10,31,304,DPH,2019 DPH,2000-10-31,TRUE,FALSE,end,0.04381935100577694
+inkaso k 13.11.2009,DPH,216533153078.39,13.11.2009,2009-11-13,2009,11,13,317,DPH,2009 DPH,2000-11-13,FALSE,TRUE,middle,NA
+inkaso k 15.11.2010,DPH,225954642061.63,15.11.2010,2010-11-15,2010,11,15,319,DPH,2010 DPH,2000-11-15,FALSE,TRUE,middle,0.04351060726404876
+inkaso k 15.11.2011,DPH,242409087894.72,15.11.2011,2011-11-15,2011,11,15,319,DPH,2011 DPH,2000-11-15,FALSE,TRUE,middle,0.07282189771787029
+inkaso k 30.11.2011,DPH,252383468004.1,30.11.2011,2011-11-30,2011,11,30,334,DPH,2011 DPH,2000-11-30,TRUE,FALSE,end,NA
+inkaso k 15.11.2012,DPH,243394105100.24,15.11.2012,2012-11-15,2012,11,15,320,DPH,2012 DPH,2000-11-15,FALSE,TRUE,middle,0.004063449988920276
+inkaso k 30.11.2012,DPH,254614397272.72,30.11.2012,2012-11-30,2012,11,30,335,DPH,2012 DPH,2000-11-30,TRUE,FALSE,end,0.00883944295663519
+inkaso k 15.11.2013,DPH,256455710777.38,15.11.2013,2013-11-15,2013,11,15,319,DPH,2013 DPH,2000-11-15,FALSE,TRUE,middle,0.053664429020418014
+inkaso k 29.11.2013,DPH,283357202278.57,29.11.2013,2013-11-29,2013,11,29,333,DPH,2013 DPH,2000-11-29,TRUE,FALSE,end,0.11288758732312898
+inkaso k 14.11.2014,DPH,272407915193.64,14.11.2014,2014-11-14,2014,11,14,318,DPH,2014 DPH,2000-11-14,FALSE,TRUE,middle,0.062202570447368766
+inkaso k 28.11.2014,DPH,298414952877.18,28.11.2014,2014-11-28,2014,11,28,332,DPH,2014 DPH,2000-11-28,TRUE,FALSE,end,0.05314052537759961
+inkaso k 13. 11. 2015,DPH,276867937898.21,13. 11. 2015,2015-11-13,2015,11,13,317,DPH,2015 DPH,2000-11-13,FALSE,TRUE,middle,0.016372588518213993
+inkaso k 30. 11. 2015,DPH,303620590320.37,30. 11. 2015,2015-11-30,2015,11,30,334,DPH,2015 DPH,2000-11-30,TRUE,FALSE,end,0.017444291557777714
+inkaso k 15. 11. 2016,DPH,287503474244.19,15. 11. 2016,2016-11-15,2016,11,15,320,DPH,2016 DPH,2000-11-15,FALSE,TRUE,middle,0.038413752154610625
+inkaso k 30. 11. 2016,DPH,315514026337.67,30. 11. 2016,2016-11-30,2016,11,30,335,DPH,2016 DPH,2000-11-30,TRUE,FALSE,end,0.03917203377001033
+inkaso k 15. 11. 2017,DPH,316217033195.96,15. 11. 2017,2017-11-15,2017,11,15,319,DPH,2017 DPH,2000-11-15,FALSE,TRUE,middle,0.09987204164142471
+inkaso k 30. 11. 2017,DPH,346331422829.91,30. 11. 2017,2017-11-30,2017,11,30,334,DPH,2017 DPH,2000-11-30,TRUE,FALSE,end,0.09767361803198749
+inkaso k 15. 11. 2018,DPH,342184064073.18,15. 11. 2018,2018-11-15,2018,11,15,319,DPH,2018 DPH,2000-11-15,FALSE,TRUE,middle,0.0821177487334408
+inkaso k 30. 11. 2018,DPH,378520534468.68,30. 11. 2018,2018-11-30,2018,11,30,334,DPH,2018 DPH,2000-11-30,TRUE,FALSE,end,0.09294308721902689
+inkaso k 15. 11. 2019,DPH,357842477756.94,15. 11. 2019,2019-11-15,2019,11,15,319,DPH,2019 DPH,2000-11-15,FALSE,TRUE,middle,0.04576020723282803
+inkaso k 29. 11. 2019,DPH,393457542397.43,29. 11. 2019,2019-11-29,2019,11,29,333,DPH,2019 DPH,2000-11-29,TRUE,FALSE,end,0.03946155246165639
+inkaso k 11.12.2009,DPH,227869720459.31,11.12.2009,2009-12-11,2009,12,11,345,DPH,2009 DPH,2000-12-11,FALSE,TRUE,middle,NA
+inkaso k 31.12.2009,DPH,253612057020.85,31.12.2009,2009-12-31,2009,12,31,365,DPH,2009 DPH,2000-12-31,TRUE,FALSE,end,NA
+inkaso k 13.12.2010,DPH,239552686905.1,13.12.2010,2010-12-13,2010,12,13,347,DPH,2010 DPH,2000-12-13,FALSE,TRUE,middle,0.051270376872543766
+inkaso k 31.12.2010,DPH,269547329663.75,31.12.2010,2010-12-31,2010,12,31,365,DPH,2010 DPH,2000-12-31,TRUE,FALSE,end,0.06283326128138267
+inkaso k 12.12.2011,DPH,250793912409.99,12.12.2011,2011-12-12,2011,12,12,346,DPH,2011 DPH,2000-12-12,FALSE,TRUE,middle,0.04692590031078736
+inkaso k 30.12.2011,DPH,275393808026.05,30.12.2011,2011-12-30,2011,12,30,364,DPH,2011 DPH,2000-12-30,TRUE,FALSE,end,0.02168998806106992
+inkaso k 12.12.2012,DPH,254010432758.33,12.12.2012,2012-12-12,2012,12,12,347,DPH,2012 DPH,2000-12-12,FALSE,TRUE,middle,0.012825352567097825
+inkaso k 31.12.2012,DPH,278231401306.08,31.12.2012,2012-12-31,2012,12,31,366,DPH,2012 DPH,2000-12-31,TRUE,FALSE,end,0.010303765725050873
+inkaso k 13.12.2013,DPH,283216390825.36,13.12.2013,2013-12-13,2013,12,13,347,DPH,2013 DPH,2000-12-13,FALSE,TRUE,middle,0.1149793642327166
+inkaso k 31.12.2013,DPH,308462350853.76,31.12.2013,2013-12-31,2013,12,31,365,DPH,2013 DPH,2000-12-31,TRUE,FALSE,end,0.10865398156271788
+inkaso k 15.12.2014,DPH,297267661174.49,15.12.2014,2014-12-15,2014,12,15,349,DPH,2014 DPH,2000-12-15,FALSE,TRUE,middle,0.0496131961437023
+inkaso k 31.12.2014,DPH,322879341841.28,31.12.2014,2014-12-31,2014,12,31,365,DPH,2014 DPH,2000-12-31,TRUE,FALSE,end,0.04673825167841961
+inkaso k 15. 12. 2015,DPH,304869998343.14,15. 12. 2015,2015-12-15,2015,12,15,349,DPH,2015 DPH,2000-12-15,FALSE,TRUE,middle,0.025574047101570185
+inkaso k 31. 12. 2015,DPH,331836265928.23,31. 12. 2015,2015-12-31,2015,12,31,365,DPH,2015 DPH,2000-12-31,TRUE,FALSE,end,0.027740777827009344
+inkaso k 15. 12. 2016,DPH,317728073766.58,15. 12. 2016,2016-12-15,2016,12,15,350,DPH,2016 DPH,2000-12-15,FALSE,TRUE,middle,0.04217560105395446
+inkaso k 30. 12. 2016,DPH,349722309097.27,30. 12. 2016,2016-12-30,2016,12,30,365,DPH,2016 DPH,2000-12-30,TRUE,FALSE,end,0.05390020623275826
+inkaso k 15. 12. 2017,DPH,349651398890.98,15. 12. 2017,2017-12-15,2017,12,15,349,DPH,2017 DPH,2000-12-15,FALSE,TRUE,middle,0.10047373134503856
+inkaso k 31. 12. 2017,DPH,381684695987.06,31. 12. 2017,2017-12-31,2017,12,31,365,DPH,2017 DPH,2000-12-31,TRUE,FALSE,end,0.0913936173311154
+inkaso k 14. 12. 2018,DPH,380283611871.98,14. 12. 2018,2018-12-14,2018,12,14,348,DPH,2018 DPH,2000-12-14,FALSE,TRUE,middle,0.08760786622950434
+inkaso k 31. 12. 2018,DPH,413300200243.19,31. 12. 2018,2018-12-31,2018,12,31,365,DPH,2018 DPH,2000-12-31,TRUE,FALSE,end,0.08283146950487597
+inkaso k 16. 12. 2019,DPH,396522272012.31,16. 12. 2019,2019-12-16,2019,12,16,350,DPH,2019 DPH,2000-12-16,FALSE,TRUE,middle,0.04270144606125359
+inkaso k 31. 12. 2019,DPH,431583308033.33,31. 12. 2019,2019-12-31,2019,12,31,365,DPH,2019 DPH,2000-12-31,TRUE,FALSE,end,0.04423687135738641
+inkaso k 20.1.2009,DPPO,815376582.91,20.1.2009,2009-01-20,2009,1,20,20,DPPO,2009 DPPO,2000-01-20,FALSE,TRUE,middle,NA
+inkaso k 18.1.2010,DPPO,603044637.38,18.1.2010,2010-01-18,2010,1,18,18,DPPO,2010 DPPO,2000-01-18,FALSE,TRUE,middle,-0.2604096683427035
+inkaso k 19.1.2011,DPPO,295143337.98,19.1.2011,2011-01-19,2011,1,19,19,DPPO,2011 DPPO,2000-01-19,FALSE,TRUE,middle,-0.510577957773929
+inkaso k 16.1.2012,DPPO,308634795.98,16.1.2012,2012-01-16,2012,1,16,16,DPPO,2012 DPPO,2000-01-16,FALSE,TRUE,middle,0.045711545082932625
+inkaso k 31.1.2012,DPPO,564503067.43,31.1.2012,2012-01-31,2012,1,31,31,DPPO,2012 DPPO,2000-01-31,TRUE,FALSE,end,NA
+inkaso k 17.1.2013,DPPO,649340869.8,17.1.2013,2013-01-17,2013,1,17,17,DPPO,2013 DPPO,2000-01-17,FALSE,TRUE,middle,1.1039133573327815
+inkaso k 31.1.2013,DPPO,973867270.7,31.1.2013,2013-01-31,2013,1,31,31,DPPO,2013 DPPO,2000-01-31,TRUE,FALSE,end,0.7251762246991909
+inkaso k 15.1.2014,DPPO,338013590.74,15.1.2014,2014-01-15,2014,1,15,15,DPPO,2014 DPPO,2000-01-15,FALSE,TRUE,middle,-0.47945123053149297
+inkaso k 31.1.2014,DPPO,928976967.65,31.1.2014,2014-01-31,2014,1,31,31,DPPO,2014 DPPO,2000-01-31,TRUE,FALSE,end,-0.046094888287737223
+inkaso k 15. 1. 2015,DPPO,295666473.11,15. 1. 2015,2015-01-15,2015,1,15,15,DPPO,2015 DPPO,2000-01-15,FALSE,TRUE,middle,-0.1252822927542384
+inkaso k 30. 1. 2015,DPPO,950376902.62,30. 1. 2015,2015-01-30,2015,1,30,30,DPPO,2015 DPPO,2000-01-30,TRUE,FALSE,end,0.023036023190257104
+inkaso k 15. 1. 2016,DPPO,409417291.04,15. 1. 2016,2016-01-15,2016,1,15,15,DPPO,2016 DPPO,2000-01-15,FALSE,TRUE,middle,0.38472680630136935
+inkaso k 29. 1. 2016,DPPO,1040581658.66,29. 1. 2016,2016-01-29,2016,1,29,29,DPPO,2016 DPPO,2000-01-29,TRUE,FALSE,end,0.0949147183515544
+inkaso k 13. 1. 2017,DPPO,551065657.78,13. 1. 2017,2017-01-13,2017,1,13,13,DPPO,2017 DPPO,2000-01-13,FALSE,TRUE,middle,0.3459755360604957
+inkaso k 31. 1. 2017,DPPO,1209727179.95,31. 1. 2017,2017-01-31,2017,1,31,31,DPPO,2017 DPPO,2000-01-31,TRUE,FALSE,end,0.1625490127394862
+inkaso k 15. 1. 2018,DPPO,822106815.93,15. 1. 2018,2018-01-15,2018,1,15,15,DPPO,2018 DPPO,2000-01-15,FALSE,TRUE,middle,0.49184911874549586
+inkaso k 31. 1. 2018,DPPO,1518319482.87,31. 1. 2018,2018-01-31,2018,1,31,31,DPPO,2018 DPPO,2000-01-31,TRUE,FALSE,end,0.25509247707632254
+inkaso k 15. 1. 2019,DPPO,410654209.55,15. 1. 2019,2019-01-15,2019,1,15,15,DPPO,2019 DPPO,2000-01-15,FALSE,TRUE,middle,-0.5004855797412997
+inkaso k 31. 1. 2019,DPPO,863113822.71,31. 1. 2019,2019-01-31,2019,1,31,31,DPPO,2019 DPPO,2000-01-31,TRUE,FALSE,end,-0.43153346021846395
+inkaso k 15. 1. 2020,DPPO,561600938.12,15. 1. 2020,2020-01-15,2020,1,15,15,DPPO,2020 DPPO,2000-01-15,FALSE,TRUE,middle,0.3675762358199355
+inkaso k 31. 1. 2020,DPPO,1533767885.09,31. 1. 2020,2020-01-31,2020,1,31,31,DPPO,2020 DPPO,2000-01-31,TRUE,FALSE,end,0.777016941142576
+inkaso k 13.2.2009,DPPO,1922873263.93,13.2.2009,2009-02-13,2009,2,13,44,DPPO,2009 DPPO,2000-02-13,FALSE,TRUE,middle,NA
+inkaso k 15.2.2010,DPPO,1452038050.17,15.2.2010,2010-02-15,2010,2,15,46,DPPO,2010 DPPO,2000-02-15,FALSE,TRUE,middle,-0.24486024252981664
+inkaso k 15.2.2011,DPPO,1249072796.36,15.2.2011,2011-02-15,2011,2,15,46,DPPO,2011 DPPO,2000-02-15,FALSE,TRUE,middle,-0.13977956967879568
+inkaso k 15.2.2012,DPPO,1071162043.12,15.2.2012,2012-02-15,2012,2,15,46,DPPO,2012 DPPO,2000-02-15,FALSE,TRUE,middle,-0.1424342550397868
+inkaso k 29.2.2012,DPPO,1462729241.91,29.2.2012,2012-02-29,2012,2,29,60,DPPO,2012 DPPO,2000-02-29,TRUE,FALSE,end,NA
+inkaso k 15.2.2013,DPPO,1461511410.67,15.2.2013,2013-02-15,2013,2,15,46,DPPO,2013 DPPO,2000-02-15,FALSE,TRUE,middle,0.36441672859600205
+inkaso k 28.2.2013,DPPO,1661985799.58,28.2.2013,2013-02-28,2013,2,28,59,DPPO,2013 DPPO,2000-02-28,TRUE,FALSE,end,0.13622244771001846
+inkaso k 14.2.2014,DPPO,1324504649.7,14.2.2014,2014-02-14,2014,2,14,45,DPPO,2014 DPPO,2000-02-14,FALSE,TRUE,middle,-0.09374320307714334
+inkaso k 28.2.2014,DPPO,1825275551.35,28.2.2014,2014-02-28,2014,2,28,59,DPPO,2014 DPPO,2000-02-28,TRUE,FALSE,end,0.09824978758017355
+inkaso k 13. 2. 2015,DPPO,1366997818.05,13. 2. 2015,2015-02-13,2015,2,13,44,DPPO,2015 DPPO,2000-02-13,FALSE,TRUE,middle,0.03208230968432213
+inkaso k 27. 2. 2015,DPPO,1902577615.39,27. 2. 2015,2015-02-27,2015,2,27,58,DPPO,2015 DPPO,2000-02-27,TRUE,FALSE,end,0.04235090092716498
+inkaso k 15. 2. 2016,DPPO,1630721717.32,15. 2. 2016,2016-02-15,2016,2,15,46,DPPO,2016 DPPO,2000-02-15,FALSE,TRUE,middle,0.1929219606555026
+inkaso k 29. 2. 2016,DPPO,2215013653.34,29. 2. 2016,2016-02-29,2016,2,29,60,DPPO,2016 DPPO,2000-02-29,TRUE,FALSE,end,0.16421723635487817
+inkaso k 15. 2. 2017,DPPO,2035982860.24,15. 2. 2017,2017-02-15,2017,2,15,46,DPPO,2017 DPPO,2000-02-15,FALSE,TRUE,middle,0.2485164320899731
+inkaso k 28. 2. 2017,DPPO,3032521792.05,28. 2. 2017,2017-02-28,2017,2,28,59,DPPO,2017 DPPO,2000-02-28,TRUE,FALSE,end,0.3690758914633716
+inkaso k 15. 2. 2018,DPPO,1746601319.96,15. 2. 2018,2018-02-15,2018,2,15,46,DPPO,2018 DPPO,2000-02-15,FALSE,TRUE,middle,-0.14213358370113582
+inkaso k 28. 2. 2018,DPPO,2398388036.99,28. 2. 2018,2018-02-28,2018,2,28,59,DPPO,2018 DPPO,2000-02-28,TRUE,FALSE,end,-0.20911102987699315
+inkaso k 15. 2. 2019,DPPO,1532137493.08,15. 2. 2019,2019-02-15,2019,2,15,46,DPPO,2019 DPPO,2000-02-15,FALSE,TRUE,middle,-0.12278922752956101
+inkaso k 28. 2. 2019,DPPO,2252304020.32,28. 2. 2019,2019-02-28,2019,2,28,59,DPPO,2019 DPPO,2000-02-28,TRUE,FALSE,end,-0.060909250053355235
+inkaso k 14. 2. 2020,DPPO,2187856639.96,14. 2. 2020,2020-02-14,2020,2,14,45,DPPO,2020 DPPO,2000-02-14,FALSE,TRUE,middle,0.42797669911584224
+inkaso k 28. 2. 2020,DPPO,2966501537.35,28. 2. 2020,2020-02-28,2020,2,28,59,DPPO,2020 DPPO,2000-02-28,TRUE,FALSE,end,0.31709640909335546
+inkaso k 13.3.2009,DPPO,10717062187.09,13.3.2009,2009-03-13,2009,3,13,72,DPPO,2009 DPPO,2000-03-13,FALSE,TRUE,middle,NA
+inkaso k 15.3.2010,DPPO,25717449883.73,15.3.2010,2010-03-15,2010,3,15,74,DPPO,2010 DPPO,2000-03-15,FALSE,TRUE,middle,1.3996734771875996
+inkaso k 15.3.2011,DPPO,24162430909.97,15.3.2011,2011-03-15,2011,3,15,74,DPPO,2011 DPPO,2000-03-15,FALSE,TRUE,middle,-0.06046551974594383
+inkaso k 31.3.2011,DPPO,28614625356.47,31.3.2011,2011-03-31,2011,3,31,90,DPPO,2011 DPPO,2000-03-31,TRUE,FALSE,end,NA
+inkaso k 15.3.2012,DPPO,23826349709.57,15.3.2012,2012-03-15,2012,3,15,75,DPPO,2012 DPPO,2000-03-15,FALSE,TRUE,middle,-0.013909246203424264
+inkaso k 30.3.2012,DPPO,28416841796.57,30.3.2012,2012-03-30,2012,3,30,90,DPPO,2012 DPPO,2000-03-30,TRUE,FALSE,end,-0.006911974468863047
+inkaso k 15.3.2013,DPPO,24212425788.43,15.3.2013,2013-03-15,2013,3,15,74,DPPO,2013 DPPO,2000-03-15,FALSE,TRUE,middle,0.016203744323660674
+inkaso k 29.3.2013,DPPO,28281145470.45,29.3.2013,2013-03-29,2013,3,29,88,DPPO,2013 DPPO,2000-03-29,TRUE,FALSE,end,-0.0047752078535475695
+inkaso k 14.3.2014,DPPO,14379728380.88,14.3.2014,2014-03-14,2014,3,14,73,DPPO,2014 DPPO,2000-03-14,FALSE,TRUE,middle,-0.40610129251273097
+inkaso k 31.3.2014,DPPO,29009842229.02,31.3.2014,2014-03-31,2014,3,31,90,DPPO,2014 DPPO,2000-03-31,TRUE,FALSE,end,0.025766168464830708
+inkaso k 13. 3. 2015,DPPO,14750385846.85,13. 3. 2015,2015-03-13,2015,3,13,72,DPPO,2015 DPPO,2000-03-13,FALSE,TRUE,middle,0.02577638854867703
+inkaso k 31. 3. 2015,DPPO,31113157964.78,31. 3. 2015,2015-03-31,2015,3,31,90,DPPO,2015 DPPO,2000-03-31,TRUE,FALSE,end,0.07250352205142119
+inkaso k 15. 3. 2016,DPPO,28084228832.45,15. 3. 2016,2016-03-15,2016,3,15,75,DPPO,2016 DPPO,2000-03-15,FALSE,TRUE,middle,0.9039657080189187
+inkaso k 31. 3. 2016,DPPO,35026632389.08,31. 3. 2016,2016-03-31,2016,3,31,91,DPPO,2016 DPPO,2000-03-31,TRUE,FALSE,end,0.12578197393945167
+inkaso k 15. 3. 2017,DPPO,31481788678.93,15. 3. 2017,2017-03-15,2017,3,15,74,DPPO,2017 DPPO,2000-03-15,FALSE,TRUE,middle,0.12097750188370071
+inkaso k 31. 3. 2017,DPPO,38619156357.04,31. 3. 2017,2017-03-31,2017,3,31,90,DPPO,2017 DPPO,2000-03-31,TRUE,FALSE,end,0.10256549724945918
+inkaso k 15. 3. 2018,DPPO,32043046812.43,15. 3. 2018,2018-03-15,2018,3,15,74,DPPO,2018 DPPO,2000-03-15,FALSE,TRUE,middle,0.017828025568179973
+inkaso k 29. 3. 2018,DPPO,39072347864.21,29. 3. 2018,2018-03-29,2018,3,29,88,DPPO,2018 DPPO,2000-03-29,TRUE,FALSE,end,0.011734888845840397
+inkaso k 15. 3. 2019,DPPO,33498136332.19,15. 3. 2019,2019-03-15,2019,3,15,74,DPPO,2019 DPPO,2000-03-15,FALSE,TRUE,middle,0.045410460755421767
+inkaso k 29. 3. 2019,DPPO,40548656567.52,29. 3. 2019,2019-03-29,2019,3,29,88,DPPO,2019 DPPO,2000-03-29,TRUE,FALSE,end,0.03778397726291449
+inkaso k 16. 3. 2020,DPPO,36217631204.81,16. 3. 2020,2020-03-16,2020,3,16,76,DPPO,2020 DPPO,2000-03-16,FALSE,TRUE,middle,0.08118346781001962
+inkaso k 15.4.2009,DPPO,32262302870.88,15.4.2009,2009-04-15,2009,4,15,105,DPPO,2009 DPPO,2000-04-15,FALSE,TRUE,middle,NA
+inkaso k 15.4.2011,DPPO,29096849024.61,15.4.2011,2011-04-15,2011,4,15,105,DPPO,2011 DPPO,2000-04-15,FALSE,TRUE,middle,-0.09811617784814564
+inkaso k 29.4.2011,DPPO,28439224379.15,29.4.2011,2011-04-29,2011,4,29,119,DPPO,2011 DPPO,2000-04-29,TRUE,FALSE,end,NA
+inkaso k 16.4.2012,DPPO,29827746487.05,16.4.2012,2012-04-16,2012,4,16,107,DPPO,2012 DPPO,2000-04-16,FALSE,TRUE,middle,0.025119471246587866
+inkaso k 30.4.2012,DPPO,29515727386.63,30.4.2012,2012-04-30,2012,4,30,121,DPPO,2012 DPPO,2000-04-30,TRUE,FALSE,end,0.037852755515696446
+inkaso k 15.4.2013,DPPO,29642072227.71,15.4.2013,2013-04-15,2013,4,15,105,DPPO,2013 DPPO,2000-04-15,FALSE,TRUE,middle,-0.006224883915404433
+inkaso k 30.4.2013,DPPO,29303158125.38,30.4.2013,2013-04-30,2013,4,30,120,DPPO,2013 DPPO,2000-04-30,TRUE,FALSE,end,-0.007201898108948113
+inkaso k 15.4.2014,DPPO,30153237106.4,15.4.2014,2014-04-15,2014,4,15,105,DPPO,2014 DPPO,2000-04-15,FALSE,TRUE,middle,0.01724457300971549
+inkaso k 30.4.2014,DPPO,29903401387.18,30.4.2014,2014-04-30,2014,4,30,120,DPPO,2014 DPPO,2000-04-30,TRUE,FALSE,end,0.0204839102745078
+inkaso k 15. 4. 2015,DPPO,32724105025.36,15. 4. 2015,2015-04-15,2015,4,15,105,DPPO,2015 DPPO,2000-04-15,FALSE,TRUE,middle,0.08526009694708159
+inkaso k 30. 4. 2015,DPPO,32542347172.39,30. 4. 2015,2015-04-30,2015,4,30,120,DPPO,2015 DPPO,2000-04-30,TRUE,FALSE,end,0.08824901726200785
+inkaso k 15. 4. 2016,DPPO,37099258745.21,15. 4. 2016,2016-04-15,2016,4,15,106,DPPO,2016 DPPO,2000-04-15,FALSE,TRUE,middle,0.13369819331833255
+inkaso k 29. 4. 2016,DPPO,37012974725.25,29. 4. 2016,2016-04-29,2016,4,29,120,DPPO,2016 DPPO,2000-04-29,TRUE,FALSE,end,0.13737876770772783
+inkaso k 13. 4. 2017,DPPO,40799181291.12,13. 4. 2017,2017-04-13,2017,4,13,103,DPPO,2017 DPPO,2000-04-13,FALSE,TRUE,middle,0.09973036311372963
+inkaso k 28. 4. 2017,DPPO,40761895169.41,28. 4. 2017,2017-04-28,2017,4,28,118,DPPO,2017 DPPO,2000-04-28,TRUE,FALSE,end,0.10128665615202537
+inkaso k 13. 4. 2018,DPPO,41887982098.08,13. 4. 2018,2018-04-13,2018,4,13,103,DPPO,2018 DPPO,2000-04-13,FALSE,TRUE,middle,0.0266868297966798
+inkaso k 30. 4. 2018,DPPO,41791948193.03,30. 4. 2018,2018-04-30,2018,4,30,120,DPPO,2018 DPPO,2000-04-30,TRUE,FALSE,end,0.02526999834867838
+inkaso k 15. 4. 2019,DPPO,43921830550.82,15. 4. 2019,2019-04-15,2019,4,15,105,DPPO,2019 DPPO,2000-04-15,FALSE,TRUE,middle,0.04855446242260553
+inkaso k 30. 4. 2019,DPPO,43970179935.07,30. 4. 2019,2019-04-30,2019,4,30,120,DPPO,2019 DPPO,2000-04-30,TRUE,FALSE,end,0.05212084710622045
+inkaso k 15.5.2009,DPPO,32164923947.89,15.5.2009,2009-05-15,2009,5,15,135,DPPO,2009 DPPO,2000-05-15,FALSE,TRUE,middle,NA
+inkaso k 14.5.2010,DPPO,30714358736.99,14.5.2010,2010-05-14,2010,5,14,134,DPPO,2010 DPPO,2000-05-14,FALSE,TRUE,middle,-0.045097734825987446
+inkaso k 13.5.2011,DPPO,28615035244.28,13.5.2011,2011-05-13,2011,5,13,133,DPPO,2011 DPPO,2000-05-13,FALSE,TRUE,middle,-0.06834990470374824
+inkaso k 31.5.2011,DPPO,29235358111.47,31.5.2011,2011-05-31,2011,5,31,151,DPPO,2011 DPPO,2000-05-31,TRUE,FALSE,end,NA
+inkaso k 15.5.2012,DPPO,29791501548.55,15.5.2012,2012-05-15,2012,5,15,136,DPPO,2012 DPPO,2000-05-15,FALSE,TRUE,middle,0.0411135717369131
+inkaso k 31.5.2012,DPPO,29963496343.87,31.5.2012,2012-05-31,2012,5,31,152,DPPO,2012 DPPO,2000-05-31,TRUE,FALSE,end,0.024906082204422253
+inkaso k 15.5.2013,DPPO,29473658262,15.5.2013,2013-05-15,2013,5,15,135,DPPO,2013 DPPO,2000-05-15,FALSE,TRUE,middle,-0.010668924694246185
+inkaso k 31.5.2013,DPPO,30029106824.58,31.5.2013,2013-05-31,2013,5,31,151,DPPO,2013 DPPO,2000-05-31,TRUE,FALSE,end,0.0021896804016807714
+inkaso k 15.5.2014,DPPO,30190968586.41,15.5.2014,2014-05-15,2014,5,15,135,DPPO,2014 DPPO,2000-05-15,FALSE,TRUE,middle,0.024337336004700116
+inkaso k 30.5.2014,DPPO,31384990277.89,30.5.2014,2014-05-30,2014,5,30,150,DPPO,2014 DPPO,2000-05-30,TRUE,FALSE,end,0.04515230710092766
+inkaso k 15. 5. 2015,DPPO,32945928560.7,15. 5. 2015,2015-05-15,2015,5,15,135,DPPO,2015 DPPO,2000-05-15,FALSE,TRUE,middle,0.09125112917146039
+inkaso k 29. 5. 2015,DPPO,33624667610.7,29. 5. 2015,2015-05-29,2015,5,29,149,DPPO,2015 DPPO,2000-05-29,TRUE,FALSE,end,0.07136141553587816
+inkaso k 13. 5. 2016,DPPO,37406494282.04,13. 5. 2016,2016-05-13,2016,5,13,134,DPPO,2016 DPPO,2000-05-13,FALSE,TRUE,middle,0.1353904994094126
+inkaso k 31. 5. 2016,DPPO,38615590763.73,31. 5. 2016,2016-05-31,2016,5,31,152,DPPO,2016 DPPO,2000-05-31,TRUE,FALSE,end,0.1484304086158994
+inkaso k 15. 5. 2017,DPPO,40900216965.29,15. 5. 2017,2017-05-15,2017,5,15,135,DPPO,2017 DPPO,2000-05-15,FALSE,TRUE,middle,0.09339882686968193
+inkaso k 31. 5. 2017,DPPO,41689811481.81,31. 5. 2017,2017-05-31,2017,5,31,151,DPPO,2017 DPPO,2000-05-31,TRUE,FALSE,end,0.07961086849323773
+inkaso k 15. 5. 2018,DPPO,41968271292.61,15. 5. 2018,2018-05-15,2018,5,15,135,DPPO,2018 DPPO,2000-05-15,FALSE,TRUE,middle,0.02611365920690356
+inkaso k 31. 5. 2018,DPPO,43196464060.23,31. 5. 2018,2018-05-31,2018,5,31,151,DPPO,2018 DPPO,2000-05-31,TRUE,FALSE,end,0.036139587224504055
+inkaso k 15. 5. 2019,DPPO,44671417418.66,15. 5. 2019,2019-05-15,2019,5,15,135,DPPO,2019 DPPO,2000-05-15,FALSE,TRUE,middle,0.06440927974381427
+inkaso k 31. 5. 2019,DPPO,45939052224.02,31. 5. 2019,2019-05-31,2019,5,31,151,DPPO,2019 DPPO,2000-05-31,TRUE,FALSE,end,0.06349103389494859
+inkaso k 15.6.2009,DPPO,47248714679.08,15.6.2009,2009-06-15,2009,6,15,166,DPPO,2009 DPPO,2000-06-15,FALSE,TRUE,middle,NA
+inkaso k 30.6.2009,DPPO,72712299404.75,30.6.2009,2009-06-30,2009,6,30,181,DPPO,2009 DPPO,2000-06-30,TRUE,FALSE,end,NA
+inkaso k 15.6.2010,DPPO,54920975158.06,15.6.2010,2010-06-15,2010,6,15,166,DPPO,2010 DPPO,2000-06-15,FALSE,TRUE,middle,0.16238030031274042
+inkaso k 14.6.2011,DPPO,40456464298.2,14.6.2011,2011-06-14,2011,6,14,165,DPPO,2011 DPPO,2000-06-14,FALSE,TRUE,middle,-0.2633695199007632
+inkaso k 30.6.2011,DPPO,69280638561.33,30.6.2011,2011-06-30,2011,6,30,181,DPPO,2011 DPPO,2000-06-30,TRUE,FALSE,end,-0.047195053264892595
+inkaso k 15.6.2012,DPPO,53241859653.76,15.6.2012,2012-06-15,2012,6,15,167,DPPO,2012 DPPO,2000-06-15,FALSE,TRUE,middle,0.316028490807311
+inkaso k 29.6.2012,DPPO,68027415349.86,29.6.2012,2012-06-29,2012,6,29,181,DPPO,2012 DPPO,2000-06-29,TRUE,FALSE,end,-0.01808908285913957
+inkaso k 14.6.2013,DPPO,43087685214.23,14.6.2013,2013-06-14,2013,6,14,165,DPPO,2013 DPPO,2000-06-14,FALSE,TRUE,middle,-0.19071787697807996
+inkaso k 28.6.2013,DPPO,66228112158.48,28.6.2013,2013-06-28,2013,6,28,179,DPPO,2013 DPPO,2000-06-28,TRUE,FALSE,end,-0.026449677414999706
+inkaso k 13.6.2014,DPPO,44235435460.92,13.6.2014,2014-06-13,2014,6,13,164,DPPO,2014 DPPO,2000-06-13,FALSE,TRUE,middle,0.026637547154910513
+inkaso k 30.6.2014,DPPO,71786972507.53,30.6.2014,2014-06-30,2014,6,30,181,DPPO,2014 DPPO,2000-06-30,TRUE,FALSE,end,0.08393505669839962
+inkaso k 15. 6. 2015,DPPO,56725371978.58,15. 6. 2015,2015-06-15,2015,6,15,166,DPPO,2015 DPPO,2000-06-15,FALSE,TRUE,middle,0.2823513861120299
+inkaso k 30. 6. 2015,DPPO,77813029707.22,30. 6. 2015,2015-06-30,2015,6,30,181,DPPO,2015 DPPO,2000-06-30,TRUE,FALSE,end,0.0839436040997259
+inkaso k 15. 6. 2016,DPPO,65608033735.59,15. 6. 2016,2016-06-15,2016,6,15,167,DPPO,2016 DPPO,2000-06-15,FALSE,TRUE,middle,0.15659063038606713
+inkaso k 30. 6. 2016,DPPO,86698384126.27,30. 6. 2016,2016-06-30,2016,6,30,182,DPPO,2016 DPPO,2000-06-30,TRUE,FALSE,end,0.11418851640248584
+inkaso k 15. 6. 2017,DPPO,71753632709.53,15. 6. 2017,2017-06-15,2017,6,15,166,DPPO,2017 DPPO,2000-06-15,FALSE,TRUE,middle,0.09367143967014258
+inkaso k 30. 6. 2017,DPPO,93268363661.08,30. 6. 2017,2017-06-30,2017,6,30,181,DPPO,2017 DPPO,2000-06-30,TRUE,FALSE,end,0.0757797230135373
+inkaso k 15. 6. 2018,DPPO,74433594515.27,15. 6. 2018,2018-06-15,2018,6,15,166,DPPO,2018 DPPO,2000-06-15,FALSE,TRUE,middle,0.03734949304363333
+inkaso k 29. 6. 2018,DPPO,93203531918.85,29. 6. 2018,2018-06-29,2018,6,29,180,DPPO,2018 DPPO,2000-06-29,TRUE,FALSE,end,-6.951096779780341e-4
+inkaso k 14. 6. 2019,DPPO,71644747828.89,14. 6. 2019,2019-06-14,2019,6,14,165,DPPO,2019 DPPO,2000-06-14,FALSE,TRUE,middle,-0.037467580392182676
+inkaso k 28. 6. 2019,DPPO,99073755176.89,28. 6. 2019,2019-06-28,2019,6,28,179,DPPO,2019 DPPO,2000-06-28,TRUE,FALSE,end,0.06298284128493159
+inkaso k 16.7.2009,DPPO,77542922523.69,16.7.2009,2009-07-16,2009,7,16,197,DPPO,2009 DPPO,2000-07-16,FALSE,TRUE,middle,NA
+inkaso k 15.7.2010,DPPO,79594304614.57,15.7.2010,2010-07-15,2010,7,15,196,DPPO,2010 DPPO,2000-07-15,FALSE,TRUE,middle,0.02645479463652256
+inkaso k 15.7.2011,DPPO,74911467829.83,15.7.2011,2011-07-15,2011,7,15,196,DPPO,2011 DPPO,2000-07-15,FALSE,TRUE,middle,-0.058833817412141776
+inkaso k 29.7.2011,DPPO,68805904551.05,29.7.2011,2011-07-29,2011,7,29,210,DPPO,2011 DPPO,2000-07-29,TRUE,FALSE,end,NA
+inkaso k 13.7.2012,DPPO,78658558637.64,13.7.2012,2012-07-13,2012,7,13,195,DPPO,2012 DPPO,2000-07-13,FALSE,TRUE,middle,0.05002025612850014
+inkaso k 31.7.2012,DPPO,73835589883.21,31.7.2012,2012-07-31,2012,7,31,213,DPPO,2012 DPPO,2000-07-31,TRUE,FALSE,end,0.07309961790311559
+inkaso k 15.7.2013,DPPO,75406159839.07,15.7.2013,2013-07-15,2013,7,15,196,DPPO,2013 DPPO,2000-07-15,FALSE,TRUE,middle,-0.0413483142190918
+inkaso k 31.7.2013,DPPO,68625695441,31.7.2013,2013-07-31,2013,7,31,212,DPPO,2013 DPPO,2000-07-31,TRUE,FALSE,end,-0.07056074787850675
+inkaso k 15.7.2014,DPPO,81316293173.41,15.7.2014,2014-07-15,2014,7,15,196,DPPO,2014 DPPO,2000-07-15,FALSE,TRUE,middle,0.07837732815135068
+inkaso k 31.7.2014,DPPO,75445799308.5,31.7.2014,2014-07-31,2014,7,31,212,DPPO,2014 DPPO,2000-07-31,TRUE,FALSE,end,0.09938119859730232
+inkaso k 15. 7. 2015,DPPO,88550840233.69,15. 7. 2015,2015-07-15,2015,7,15,196,DPPO,2015 DPPO,2000-07-15,FALSE,TRUE,middle,0.08896798879963774
+inkaso k 31. 7. 2015,DPPO,83332616240.99,31. 7. 2015,2015-07-31,2015,7,31,212,DPPO,2015 DPPO,2000-07-31,TRUE,FALSE,end,0.10453619690926175
+inkaso k 15. 7. 2016,DPPO,97930693515.12,15. 7. 2016,2016-07-15,2016,7,15,197,DPPO,2016 DPPO,2000-07-15,FALSE,TRUE,middle,0.10592619174110718
+inkaso k 29. 7. 2016,DPPO,93664593508.42,29. 7. 2016,2016-07-29,2016,7,29,211,DPPO,2016 DPPO,2000-07-29,TRUE,FALSE,end,0.12398479411171848
+inkaso k 14. 7. 2017,DPPO,103019083903.08,14. 7. 2017,2017-07-14,2017,7,14,195,DPPO,2017 DPPO,2000-07-14,FALSE,TRUE,middle,0.05195909683999522
+inkaso k 31. 7. 2017,DPPO,96967962899.61,31. 7. 2017,2017-07-31,2017,7,31,212,DPPO,2017 DPPO,2000-07-31,TRUE,FALSE,end,0.035268069474865715
+inkaso k 13. 7. 2018,DPPO,106609032599.5,13. 7. 2018,2018-07-13,2018,7,13,194,DPPO,2018 DPPO,2000-07-13,FALSE,TRUE,middle,0.03484741428876825
+inkaso k 31. 7. 2018,DPPO,99502285294.31,31. 7. 2018,2018-07-31,2018,7,31,212,DPPO,2018 DPPO,2000-07-31,TRUE,FALSE,end,0.026135667068965418
+inkaso k 15. 7. 2019,DPPO,111245783998.99,15. 7. 2019,2019-07-15,2019,7,15,196,DPPO,2019 DPPO,2000-07-15,FALSE,TRUE,middle,0.04349304450504654
+inkaso k 31. 7. 2019,DPPO,104878883547.77,31. 7. 2019,2019-07-31,2019,7,31,212,DPPO,2019 DPPO,2000-07-31,TRUE,FALSE,end,0.05403492228904083
+inkaso k 14.8.2009,DPPO,70929877233.47,14.8.2009,2009-08-14,2009,8,14,226,DPPO,2009 DPPO,2000-08-14,FALSE,TRUE,middle,NA
+inkaso k 13.8.2010,DPPO,70810099926.52,13.8.2010,2010-08-13,2010,8,13,225,DPPO,2010 DPPO,2000-08-13,FALSE,TRUE,middle,-0.0016886721311492048
+inkaso k 15.8.2011,DPPO,67147459061.4,15.8.2011,2011-08-15,2011,8,15,227,DPPO,2011 DPPO,2000-08-15,FALSE,TRUE,middle,-0.05172483683712836
+inkaso k 31.8.2011,DPPO,70264554306.66,31.8.2011,2011-08-31,2011,8,31,243,DPPO,2011 DPPO,2000-08-31,TRUE,FALSE,end,NA
+inkaso k 15.8.2012,DPPO,71945316970.54,15.8.2012,2012-08-15,2012,8,15,228,DPPO,2012 DPPO,2000-08-15,FALSE,TRUE,middle,0.07145256091898888
+inkaso k 31.8.2012,DPPO,75611814437.92,31.8.2012,2012-08-31,2012,8,31,244,DPPO,2012 DPPO,2000-08-31,TRUE,FALSE,end,0.07610181526125692
+inkaso k 15.8.2013,DPPO,67921876208.42,15.8.2013,2013-08-15,2013,8,15,227,DPPO,2013 DPPO,2000-08-15,FALSE,TRUE,middle,-0.05592359491261267
+inkaso k 30.8.2013,DPPO,67712809234.49,30.8.2013,2013-08-30,2013,8,30,242,DPPO,2013 DPPO,2000-08-30,TRUE,FALSE,end,-0.10446787002995894
+inkaso k 15.8.2014,DPPO,75317313619.99,15.8.2014,2014-08-15,2014,8,15,227,DPPO,2014 DPPO,2000-08-15,FALSE,TRUE,middle,0.10888152425113984
+inkaso k 29.8.2014,DPPO,75489395131.4,29.8.2014,2014-08-29,2014,8,29,241,DPPO,2014 DPPO,2000-08-29,TRUE,FALSE,end,0.11484659970286581
+inkaso k 14. 8. 2015,DPPO,83404540077.26,14. 8. 2015,2015-08-14,2015,8,14,226,DPPO,2015 DPPO,2000-08-14,FALSE,TRUE,middle,0.10737539708431076
+inkaso k 31. 8. 2015,DPPO,86465147818.59,31. 8. 2015,2015-08-31,2015,8,31,243,DPPO,2015 DPPO,2000-08-31,TRUE,FALSE,end,0.14539463017401522
+inkaso k 15. 8. 2016,DPPO,93169390999.19,15. 8. 2016,2016-08-15,2016,8,15,228,DPPO,2016 DPPO,2000-08-15,FALSE,TRUE,middle,0.11707816999991305
+inkaso k 31. 8. 2016,DPPO,96121450793.65,31. 8. 2016,2016-08-31,2016,8,31,244,DPPO,2016 DPPO,2000-08-31,TRUE,FALSE,end,0.11167855741505939
+inkaso k 15. 8. 2017,DPPO,95254405658.25,15. 8. 2017,2017-08-15,2017,8,15,227,DPPO,2017 DPPO,2000-08-15,FALSE,TRUE,middle,0.022378751612513126
+inkaso k 31. 8. 2017,DPPO,97714634768.62,31. 8. 2017,2017-08-31,2017,8,31,243,DPPO,2017 DPPO,2000-08-31,TRUE,FALSE,end,0.016574697549979645
+inkaso k 15. 8. 2018,DPPO,97625382572.17,15. 8. 2018,2018-08-15,2018,8,15,227,DPPO,2018 DPPO,2000-08-15,FALSE,TRUE,middle,0.024890994779039444
+inkaso k 31. 8. 2018,DPPO,100069907251.64,31. 8. 2018,2018-08-31,2018,8,31,243,DPPO,2018 DPPO,2000-08-31,TRUE,FALSE,end,0.024103579659250585
+inkaso k 15. 8. 2019,DPPO,103484350450.17,15. 8. 2019,2019-08-15,2019,8,15,227,DPPO,2019 DPPO,2000-08-15,FALSE,TRUE,middle,0.060014800696619464
+inkaso k 30. 8. 2019,DPPO,104164749155.7,30. 8. 2019,2019-08-30,2019,8,30,242,DPPO,2019 DPPO,2000-08-30,TRUE,FALSE,end,0.04091981312386883
+inkaso k 15.9.2009,DPPO,84880398550.43,15.9.2009,2009-09-15,2009,9,15,258,DPPO,2009 DPPO,2000-09-15,FALSE,TRUE,middle,NA
+inkaso k 15.9.2010,DPPO,96506664971.61,15.9.2010,2010-09-15,2010,9,15,258,DPPO,2010 DPPO,2000-09-15,FALSE,TRUE,middle,0.13697233542409082
+inkaso k 15.9.2011,DPPO,90986477393.48,15.9.2011,2011-09-15,2011,9,15,258,DPPO,2011 DPPO,2000-09-15,FALSE,TRUE,middle,-0.05720006571311853
+inkaso k 30.9.2011,DPPO,92863043355.32,30.9.2011,2011-09-30,2011,9,30,273,DPPO,2011 DPPO,2000-09-30,TRUE,FALSE,end,NA
+inkaso k 14.9.2012,DPPO,88763053562.33,14.9.2012,2012-09-14,2012,9,14,258,DPPO,2012 DPPO,2000-09-14,FALSE,TRUE,middle,-0.02443686023291769
+inkaso k 27.9.2012,DPPO,101201746621.99,27.9.2012,2012-09-27,2012,9,27,271,DPPO,2012 DPPO,2000-09-27,TRUE,FALSE,end,0.08979571383164542
+inkaso k 13.9.2013,DPPO,81350519098.07,13.9.2013,2013-09-13,2013,9,13,256,DPPO,2013 DPPO,2000-09-13,FALSE,TRUE,middle,-0.08350923235256735
+inkaso k 30.9.2013,DPPO,95252321997.63,30.9.2013,2013-09-30,2013,9,30,273,DPPO,2013 DPPO,2000-09-30,TRUE,FALSE,end,-0.05878776624856452
+inkaso k 15.9.2014,DPPO,99236484583.64,15.9.2014,2014-09-15,2014,9,15,258,DPPO,2014 DPPO,2000-09-15,FALSE,TRUE,middle,0.21986295458063432
+inkaso k 30.9.2014,DPPO,103684725949.78,30.9.2014,2014-09-30,2014,9,30,273,DPPO,2014 DPPO,2000-09-30,TRUE,FALSE,end,0.0885270172454149
+inkaso k 15. 9. 2015,DPPO,110373658302.05,15. 9. 2015,2015-09-15,2015,9,15,258,DPPO,2015 DPPO,2000-09-15,FALSE,TRUE,middle,0.11222861999936318
+inkaso k 30. 9. 2015,DPPO,115231543611.68,30. 9. 2015,2015-09-30,2015,9,30,273,DPPO,2015 DPPO,2000-09-30,TRUE,FALSE,end,0.11136469288150241
+inkaso k 15. 9. 2016,DPPO,122718162316.16,15. 9. 2016,2016-09-15,2016,9,15,259,DPPO,2016 DPPO,2000-09-15,FALSE,TRUE,middle,0.11184284551235835
+inkaso k 30. 9. 2016,DPPO,130121823004.99,30. 9. 2016,2016-09-30,2016,9,30,274,DPPO,2016 DPPO,2000-09-30,TRUE,FALSE,end,0.1292205148573633
+inkaso k 15. 9. 2017,DPPO,126136455900.12,15. 9. 2017,2017-09-15,2017,9,15,258,DPPO,2017 DPPO,2000-09-15,FALSE,TRUE,middle,0.027854830283013943
+inkaso k 29. 9. 2017,DPPO,130391734827.65,29. 9. 2017,2017-09-29,2017,9,29,272,DPPO,2017 DPPO,2000-09-29,TRUE,FALSE,end,0.002074300962180864
+inkaso k 14. 9. 2018,DPPO,120705491033.26,14. 9. 2018,2018-09-14,2018,9,14,257,DPPO,2018 DPPO,2000-09-14,FALSE,TRUE,middle,-0.04305626654962036
+inkaso k 27. 9. 2018,DPPO,133402697637.8,27. 9. 2018,2018-09-27,2018,9,27,270,DPPO,2018 DPPO,2000-09-27,TRUE,FALSE,end,0.023091669223742173
+inkaso k 13. 9. 2019,DPPO,130018867213.4,13. 9. 2019,2019-09-13,2019,9,13,256,DPPO,2019 DPPO,2000-09-13,FALSE,TRUE,middle,0.07715785007306519
+inkaso k 30. 9. 2019,DPPO,145194011460.07,30. 9. 2019,2019-09-30,2019,9,30,273,DPPO,2019 DPPO,2000-09-30,TRUE,FALSE,end,0.08838887092286885
+inkaso k 15.10.2009,DPPO,94767630036.28,15.10.2009,2009-10-15,2009,10,15,288,DPPO,2009 DPPO,2000-10-15,FALSE,TRUE,middle,NA
+inkaso k 15.10.2010,DPPO,98679300691.05,15.10.2010,2010-10-15,2010,10,15,288,DPPO,2010 DPPO,2000-10-15,FALSE,TRUE,middle,0.04127644273970432
+inkaso k 14.10.2011,DPPO,93142056610.41,14.10.2011,2011-10-14,2011,10,14,287,DPPO,2011 DPPO,2000-10-14,FALSE,TRUE,middle,-0.056113531833553165
+inkaso k 31.10.2011,DPPO,93769616282.11,31.10.2011,2011-10-31,2011,10,31,304,DPPO,2011 DPPO,2000-10-31,TRUE,FALSE,end,NA
+inkaso k 15.10.2012,DPPO,101929520090.17,15.10.2012,2012-10-15,2012,10,15,289,DPPO,2012 DPPO,2000-10-15,FALSE,TRUE,middle,0.09434474392717962
+inkaso k 31.10.2012,DPPO,102517153125.28,31.10.2012,2012-10-31,2012,10,31,305,DPPO,2012 DPPO,2000-10-31,TRUE,FALSE,end,0.09328754014362883
+inkaso k 15.10.2013,DPPO,95609299839.58,15.10.2013,2013-10-15,2013,10,15,288,DPPO,2013 DPPO,2000-10-15,FALSE,TRUE,middle,-0.06200578836237958
+inkaso k 31.10.2013,DPPO,95694998749.49,31.10.2013,2013-10-31,2013,10,31,304,DPPO,2013 DPPO,2000-10-31,TRUE,FALSE,end,-0.0665464672770717
+inkaso k 15.10.2014,DPPO,103978472466.28,15.10.2014,2014-10-15,2014,10,15,288,DPPO,2014 DPPO,2000-10-15,FALSE,TRUE,middle,0.087535131422805
+inkaso k 31.10.2014,DPPO,104720151038.43,31.10.2014,2014-10-31,2014,10,31,304,DPPO,2014 DPPO,2000-10-31,TRUE,FALSE,end,0.09431164017845894
+inkaso k 15. 10. 2015,DPPO,115962946708.24,15. 10. 2015,2015-10-15,2015,10,15,288,DPPO,2015 DPPO,2000-10-15,FALSE,TRUE,middle,0.11525918738464402
+inkaso k 31. 10. 2015,DPPO,116404495857.08,31. 10. 2015,2015-10-31,2015,10,31,304,DPPO,2015 DPPO,2000-10-31,TRUE,FALSE,end,0.11157685223698843
+inkaso k 14. 10. 2016,DPPO,131049027384.27,14. 10. 2016,2016-10-14,2016,10,14,288,DPPO,2016 DPPO,2000-10-14,FALSE,TRUE,middle,0.13009397487963303
+inkaso k 31. 10. 2016,DPPO,131793386644.5,31. 10. 2016,2016-10-31,2016,10,31,305,DPPO,2016 DPPO,2000-10-31,TRUE,FALSE,end,0.13220185933638073
+inkaso k 15. 10. 2017,DPPO,134695087103.82,15. 10. 2017,2017-10-15,2017,10,15,288,DPPO,2017 DPPO,2000-10-15,FALSE,TRUE,middle,0.02782210438585553
+inkaso k 31. 10. 2017,DPPO,136033498561.07,31. 10. 2017,2017-10-31,2017,10,31,304,DPPO,2017 DPPO,2000-10-31,TRUE,FALSE,end,0.03217241793783865
+inkaso k 15. 10. 2018,DPPO,136731216222.94,15. 10. 2018,2018-10-15,2018,10,15,288,DPPO,2018 DPPO,2000-10-15,FALSE,TRUE,middle,0.015116580440313943
+inkaso k 31. 10. 2018,DPPO,137319802048.64,31. 10. 2018,2018-10-31,2018,10,31,304,DPPO,2018 DPPO,2000-10-31,TRUE,FALSE,end,0.009455784796952305
+inkaso k 15. 10. 2019,DPPO,146279671942.5,15. 10. 2019,2019-10-15,2019,10,15,288,DPPO,2019 DPPO,2000-10-15,FALSE,TRUE,middle,0.06983376571441635
+inkaso k 31. 10. 2019,DPPO,146953702831.58,31. 10. 2019,2019-10-31,2019,10,31,304,DPPO,2019 DPPO,2000-10-31,TRUE,FALSE,end,0.07015667543365356
+inkaso k 13.11.2009,DPPO,95498144186.49,13.11.2009,2009-11-13,2009,11,13,317,DPPO,2009 DPPO,2000-11-13,FALSE,TRUE,middle,NA
+inkaso k 15.11.2010,DPPO,99835833191.99,15.11.2010,2010-11-15,2010,11,15,319,DPPO,2010 DPPO,2000-11-15,FALSE,TRUE,middle,0.04542170994474315
+inkaso k 15.11.2011,DPPO,94206918911.09,15.11.2011,2011-11-15,2011,11,15,319,DPPO,2011 DPPO,2000-11-15,FALSE,TRUE,middle,-0.05638170285087207
+inkaso k 30.11.2011,DPPO,94841017445.18,30.11.2011,2011-11-30,2011,11,30,334,DPPO,2011 DPPO,2000-11-30,TRUE,FALSE,end,NA
+inkaso k 15.11.2012,DPPO,103044812529.85,15.11.2012,2012-11-15,2012,11,15,320,DPPO,2012 DPPO,2000-11-15,FALSE,TRUE,middle,0.09381363620543604
+inkaso k 30.11.2012,DPPO,103638877672.42,30.11.2012,2012-11-30,2012,11,30,335,DPPO,2012 DPPO,2000-11-30,TRUE,FALSE,end,0.0927642961266768
+inkaso k 15.11.2013,DPPO,95858757600.02,15.11.2013,2013-11-15,2013,11,15,319,DPPO,2013 DPPO,2000-11-15,FALSE,TRUE,middle,-0.06973718281789631
+inkaso k 29.11.2013,DPPO,96327586388.82,29.11.2013,2013-11-29,2013,11,29,333,DPPO,2013 DPPO,2000-11-29,TRUE,FALSE,end,-0.07054583615532195
+inkaso k 14.11.2014,DPPO,105049463038.6,14.11.2014,2014-11-14,2014,11,14,318,DPPO,2014 DPPO,2000-11-14,FALSE,TRUE,middle,0.09587757726768298
+inkaso k 28.11.2014,DPPO,105464690215.44,28.11.2014,2014-11-28,2014,11,28,332,DPPO,2014 DPPO,2000-11-28,TRUE,FALSE,end,0.09485448737123625
+inkaso k 13. 11. 2015,DPPO,116759214339.8,13. 11. 2015,2015-11-13,2015,11,13,317,DPPO,2015 DPPO,2000-11-13,FALSE,TRUE,middle,0.11146893056366491
+inkaso k 30. 11. 2015,DPPO,117406191852.16,30. 11. 2015,2015-11-30,2015,11,30,334,DPPO,2015 DPPO,2000-11-30,TRUE,FALSE,end,0.1132274850694226
+inkaso k 15. 11. 2016,DPPO,132098739783.62,15. 11. 2016,2016-11-15,2016,11,15,320,DPPO,2016 DPPO,2000-11-15,FALSE,TRUE,middle,0.13137742944362363
+inkaso k 30. 11. 2016,DPPO,132496528394.39,30. 11. 2016,2016-11-30,2016,11,30,335,DPPO,2016 DPPO,2000-11-30,TRUE,FALSE,end,0.1285310110495026
+inkaso k 15. 11. 2017,DPPO,136460885229.19,15. 11. 2017,2017-11-15,2017,11,15,319,DPPO,2017 DPPO,2000-11-15,FALSE,TRUE,middle,0.03302185511167832
+inkaso k 30. 11. 2017,DPPO,136300635179.62,30. 11. 2017,2017-11-30,2017,11,30,334,DPPO,2017 DPPO,2000-11-30,TRUE,FALSE,end,0.028710992139406644
+inkaso k 15. 11. 2018,DPPO,137944310885.96,15. 11. 2018,2018-11-15,2018,11,15,319,DPPO,2018 DPPO,2000-11-15,FALSE,TRUE,middle,0.010870702284237144
+inkaso k 30. 11. 2018,DPPO,138433626852.55,30. 11. 2018,2018-11-30,2018,11,30,334,DPPO,2018 DPPO,2000-11-30,TRUE,FALSE,end,0.015649168986770157
+inkaso k 15. 11. 2019,DPPO,145919387495.31,15. 11. 2019,2019-11-15,2019,11,15,319,DPPO,2019 DPPO,2000-11-15,FALSE,TRUE,middle,0.05781374061843758
+inkaso k 29. 11. 2019,DPPO,146550639687.76,29. 11. 2019,2019-11-29,2019,11,29,333,DPPO,2019 DPPO,2000-11-29,TRUE,FALSE,end,0.0586346902826993
+inkaso k 11.12.2009,DPPO,101574526415.16,11.12.2009,2009-12-11,2009,12,11,345,DPPO,2009 DPPO,2000-12-11,FALSE,TRUE,middle,NA
+inkaso k 31.12.2009,DPPO,119601231136.65,31.12.2009,2009-12-31,2009,12,31,365,DPPO,2009 DPPO,2000-12-31,TRUE,FALSE,end,NA
+inkaso k 13.12.2010,DPPO,106071039989.24,13.12.2010,2010-12-13,2010,12,13,347,DPPO,2010 DPPO,2000-12-13,FALSE,TRUE,middle,0.04426812245918477
+inkaso k 31.12.2010,DPPO,123858651935.18,31.12.2010,2010-12-31,2010,12,31,365,DPPO,2010 DPPO,2000-12-31,TRUE,FALSE,end,0.03559679744153876
+inkaso k 12.12.2011,DPPO,98086679921.89,12.12.2011,2011-12-12,2011,12,12,346,DPPO,2011 DPPO,2000-12-12,FALSE,TRUE,middle,-0.0752737040021475
+inkaso k 30.12.2011,DPPO,118105925012.03,30.12.2011,2011-12-30,2011,12,30,364,DPPO,2011 DPPO,2000-12-30,TRUE,FALSE,end,-0.046445902916500525
+inkaso k 12.12.2012,DPPO,108805719984.11,12.12.2012,2012-12-12,2012,12,12,347,DPPO,2012 DPPO,2000-12-12,FALSE,TRUE,middle,0.10928130170942651
+inkaso k 31.12.2012,DPPO,128002006664.41,31.12.2012,2012-12-31,2012,12,31,366,DPPO,2012 DPPO,2000-12-31,TRUE,FALSE,end,0.08378988311866675
+inkaso k 13.12.2013,DPPO,108643300578.36,13.12.2013,2013-12-13,2013,12,13,347,DPPO,2013 DPPO,2000-12-13,FALSE,TRUE,middle,-0.0014927469417390649
+inkaso k 31.12.2013,DPPO,120717027409.05,31.12.2013,2013-12-31,2013,12,31,365,DPPO,2013 DPPO,2000-12-31,TRUE,FALSE,end,-0.05691300820353107
+inkaso k 15.12.2014,DPPO,128494983218.45,15.12.2014,2014-12-15,2014,12,15,349,DPPO,2014 DPPO,2000-12-15,FALSE,TRUE,middle,0.18272348625649304
+inkaso k 31.12.2014,DPPO,132404475305.64,31.12.2014,2014-12-31,2014,12,31,365,DPPO,2014 DPPO,2000-12-31,TRUE,FALSE,end,0.096816896070403
+inkaso k 15. 12. 2015,DPPO,142460614116.58,15. 12. 2015,2015-12-15,2015,12,15,349,DPPO,2015 DPPO,2000-12-15,FALSE,TRUE,middle,0.10868619574343596
+inkaso k 31. 12. 2015,DPPO,147511319435.84,31. 12. 2015,2015-12-31,2015,12,31,365,DPPO,2015 DPPO,2000-12-31,TRUE,FALSE,end,0.11409617458418708
+inkaso k 15. 12. 2016,DPPO,161122795762.35,15. 12. 2016,2016-12-15,2016,12,15,350,DPPO,2016 DPPO,2000-12-15,FALSE,TRUE,middle,0.1309988852813604
+inkaso k 30. 12. 2016,DPPO,164724068244.98,30. 12. 2016,2016-12-30,2016,12,30,365,DPPO,2016 DPPO,2000-12-30,TRUE,FALSE,end,0.11668764725968495
+inkaso k 15. 12. 2017,DPPO,166886832432.74,15. 12. 2017,2017-12-15,2017,12,15,349,DPPO,2017 DPPO,2000-12-15,FALSE,TRUE,middle,0.03577418479562455
+inkaso k 31. 12. 2017,DPPO,170648727457.23,31. 12. 2017,2017-12-31,2017,12,31,365,DPPO,2017 DPPO,2000-12-31,TRUE,FALSE,end,0.03596717392529891
+inkaso k 14. 12. 2018,DPPO,162576171405.12,14. 12. 2018,2018-12-14,2018,12,14,348,DPPO,2018 DPPO,2000-12-14,FALSE,TRUE,middle,-0.02582984507994246
+inkaso k 31. 12. 2018,DPPO,174008034546.8,31. 12. 2018,2018-12-31,2018,12,31,365,DPPO,2018 DPPO,2000-12-31,TRUE,FALSE,end,0.01968550917212042
+inkaso k 16. 12. 2019,DPPO,179392867241.25,16. 12. 2019,2019-12-16,2019,12,16,350,DPPO,2019 DPPO,2000-12-16,FALSE,TRUE,middle,0.10343887231927029
+inkaso k 31. 12. 2019,DPPO,182897585977.29,31. 12. 2019,2019-12-31,2019,12,31,365,DPPO,2019 DPPO,2000-12-31,TRUE,FALSE,end,0.05108701706586505
