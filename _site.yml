@@ -4,7 +4,7 @@ include: ["demo.R"]
 exclude: ["LICENSE.md", "*.csv"]
 navbar:
   title: "Veřejné finance ČR"
-  left:
+  right:
   - icon: fa-github fa-lg
     href: https://github.com/petrbouchal/czechtrack
 output:
