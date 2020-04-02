@@ -226,7 +226,7 @@ all_diffs %>%
   gghighlight::gghighlight(rok == 2020, unhighlighted_params = list(alpha = .3)) +
   facet_wrap(~ nazev) + theme_schola("scatter", multiplot = T) +
   labs(title = "Meziroční změna výnosu vybraných daní podle období",
-       subtitle = "rok 2020 zvýrazněn; extrémní hodnoty vynechány.",
+       subtitle = str_glue("rok 2020 zvýrazněn; extrémní hodnoty vynechány. Poslední data z {latest}."),
        caption = "Zdroj: https://www.financnisprava.cz/cs/dane/kraje-a-obce/danove-prijmy-kraju-a-obci/prubeh-celostatniho-inkasa-sdilenych-dani-3735\n @petrbouchal | petrbouchal.github.io/czechtrack")
 ```
 
