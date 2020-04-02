@@ -108,7 +108,7 @@ all <- map_dfr(dan_vynosy0, munge_year) %>%
 latest <- max(all$datum_parsed, na.rm = T) %>% format("%d. %B %Y")
 ```
 
-## Výběr daní {.tab}
+## Výběr daní {.tabset}
 
 ### Časové řady
 
