@@ -235,26 +235,29 @@ all_diffs %>%
 #### Komplet
 
 ```{r}
-write_csv(all, "data-web/dane_inkaso_vse.csv")
+all_pub <- all %>% select(-DATUM)
+write_csv(all_pub, "data-web/dane_inkaso_vse.csv")
 ```
 
 [Data v CSV](data-web/dane_inkaso_vse.csv)
 
 ```{r include=T}
-all
+all_pub
 ```
 
 
 #### Meziroční změny v polovině a na konci měsíce
 
 ```{r}
-write_csv(all_diffs, "data-web/dane_inkaso_mezirocni.csv")
+all_diffs_pub <- all_diffs %>% select(-DATUM)
+
+write_csv(all_diffs_pub, "data-web/dane_inkaso_mezirocni.csv")
 ```
 
 [Data v CSV](data-web/dane_inkaso_mezirocni.csv)
 
 ```{r include=T}
-all_diffs
+all_diffs_pub
 ```
 
 ## Příjmy a výdaje státního rozpočtu
