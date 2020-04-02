@@ -8,20 +8,20 @@ output:
 ```{r setup, echo = F, message=F, include=F, eval = T}
 Sys.setlocale("LC_ALL", "cs_CZ.UTF-8")
 
-knitr::opts_chunk$set(include = F, warning = F, message = F)
+knitr::opts_chunk$set(include = F, warning = F, message = F, fig.showtext=TRUE)
 
 library(tidyverse)
 library(rvest)
 library(lubridate)
 library(showtext)
 
-showtext_auto()
 ```
 
 ```{r}
 sysfonts::font_add_google(family = "rbtc", name = "Roboto Condensed")
 sysfonts::font_add_google(family = "rbt", name = "Roboto")
 sysfonts::font_families()
+showtext_auto()
 ```
 
 
@@ -126,6 +126,8 @@ ggplot(all %>%
   geom_line(aes(group = rok)) +
   gghighlight::gghighlight(calculate_per_facet = T, rok == 2020, use_group_by = T) +
   facet_wrap(~ nazev) + 
+  # theme_schola("scatter", multiplot = T, plot.caption.position = "plot",
+  #              family = "sans",title_family = "sans") + 
   theme_schola("scatter", multiplot = T, plot.caption.position = "plot") + 
   scale_color_viridis_c(labels = scales::label_number(accuracy = 1, big.mark = "")) +
   scale_x_date(labels = scales::label_date(format = "%m"), date_breaks = "months", 
