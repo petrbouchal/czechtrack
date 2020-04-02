@@ -17,6 +17,8 @@ library(showtext)
 
 ```
 
+Naposledy aktualizováno `r format(lubridate::now(tzone = "CET"), "%d. %B %Y %H:%M %Z")`.
+
 ```{r}
 sysfonts::font_add_google(family = "rbtc", name = "Roboto Condensed")
 sysfonts::font_add_google(family = "rbt", name = "Roboto")
@@ -203,11 +205,50 @@ all_diffs %>%
        subtitle = "rok 2020 zvýrazněn; extrémní hodnoty vynechány.")
 ```
 
+### Data {.tabset .tabset-pills}
+
+#### Komplet
+
+```{r}
+write_csv(all, "data-web/dane_inkaso_vse.csv")
+```
+
+[Data v CSV](data-web/dane_inkaso_vse.csv)
+
+```{r include=T}
+all
+```
 
 
-## Zdroje
+#### Meziroční změny v polovině a na konci měsíce
 
-### Nejnovější dostupné datové exporty Monitoru státní pokladny
+```{r}
+write_csv(all_diffs, "data-web/dane_inkaso_mezirocni.csv")
+```
+
+[Data v CSV](data-web/dane_inkaso_mezirocni.csv)
+
+```{r include=T}
+all_diffs
+```
+
+
+
+## Zdroje {.tabset}
+
+### Inkaso daní z Finanční správy
+
+Aktualizuje se 2x měsíčně s poměrně malou latencí
+
+https://www.financnisprava.cz/cs/dane/kraje-a-obce/danove-prijmy-kraju-a-obci/prubeh-celostatniho-inkasa-sdilenych-dani-3735
+
+### Státní pokladna
+
+Datové exporty na https://monitor.statnipokladna.cz/datovy-katalog/transakcni-data
+
+Kód pro export dat v R: balík [statnipokladna](https://cran.r-project.org/package=statnipokladna), dokumentace na https://petrbouchal.github.io/statnipokladna/.
+
+#### Nejnovější dostupné datové exporty Monitoru státní pokladny
 
 ```{r, include=T}
 library(jsonlite)
@@ -232,4 +273,4 @@ xx %>%
 ```
 
 
-Naposledy aktualizováno `r format(lubridate::now(tzone = "CET"), "%d. %B %Y %H:%M %Z")`.
+
