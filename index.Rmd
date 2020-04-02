@@ -200,10 +200,12 @@ all_diffs %>%
   gghighlight::gghighlight(rok == 2020, unhighlighted_params = list(alpha = .3)) +
   facet_wrap(~ nazev) + theme_schola("scatter", multiplot = T) +
   labs(title = "Meziroční změna výnosu vybraných daní podle období",
-       subtitle = "rok 2000 zvýrazněn; extrémní hodnoty vynechány.")
+       subtitle = "rok 2020 zvýrazněn; extrémní hodnoty vynechány.")
 ```
 
 
+
+## Zdroje
 
 ### Nejnovější dostupné datové exporty Monitoru státní pokladny
 
