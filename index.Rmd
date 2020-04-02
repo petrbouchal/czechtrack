@@ -16,9 +16,14 @@ library(lubridate)
 ```
 
 ```{r}
+suppressMessages(hrbrthemes::import_roboto_condensed())
+```
+
+
+```{r}
 theme_schola <- function(gridlines = c("y", "x", "both", "scatter"),
                          base_size = 11,
-                         family = "sans", title_family = "sans",
+                         family = "Roboto Condensed", title_family = "Roboto Condensed",
                          margin_side = 6,
                          margin_bottom = 6,
                          plot.title.position = "plot",
