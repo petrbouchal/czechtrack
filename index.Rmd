@@ -19,8 +19,8 @@ showtext_auto()
 ```
 
 ```{r}
-sysfonts::font_add_google(family = "rbtc", "Roboto Condensed")
-sysfonts::font_add_google(family = "rbt", "Roboto")
+sysfonts::font_add_google(family = "rbtc", name = "Roboto Condensed")
+sysfonts::font_add_google(family = "rbt", name = "Roboto")
 sysfonts::font_families()
 ```
 
