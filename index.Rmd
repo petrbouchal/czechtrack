@@ -13,6 +13,9 @@ knitr::opts_chunk$set(include = F, warning = F, message = F)
 library(tidyverse)
 library(rvest)
 library(lubridate)
+library(showtext)
+
+showtext_auto()
 ```
 
 ```{r}
