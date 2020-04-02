@@ -593,6 +593,20 @@
       "Repository": "CRAN",
       "Hash": "3838071b66e0c566d55cc26bd6e27bf4"
     },
+    "showtext": {
+      "Package": "showtext",
+      "Version": "0.7-1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "5108601787f5fe0a41feecf8cdb04387"
+    },
+    "showtextdb": {
+      "Package": "showtextdb",
+      "Version": "2.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "8e0df803ddce30dddcec4c4c09af8676"
+    },
     "stringi": {
       "Package": "stringi",
       "Version": "1.4.6",
