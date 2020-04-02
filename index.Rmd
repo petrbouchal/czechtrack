@@ -8,7 +8,8 @@ output:
 ```{r setup, echo = F, message=F, include=F, eval = T}
 Sys.setlocale("LC_ALL", "cs_CZ.UTF-8")
 
-knitr::opts_chunk$set(include = F, warning = F, message = F, fig.showtext=TRUE)
+knitr::opts_chunk$set(include = F, warning = F, message = F, 
+                      fig.showtext=TRUE, out.width = "90%", fig.retina = 3, fig.asp = 0.6)
 
 library(tidyverse)
 library(rvest)
@@ -61,7 +62,7 @@ theme_schola <- function(gridlines = c("y", "x", "both", "scatter"),
                          axis.title = ggplot2::element_blank(),
                          multiplot = FALSE,
                          ...) {
-  tonecol <- "#f6f0e8"
+  tonecol <- "#e3f1ff"
   grd <- match.arg(gridlines)
   grid_col <- if(grd == "scatter" | multiplot) "white" else "grey92"
   bg_col <- if(grd == "scatter" | multiplot) tonecol else "white"
@@ -93,6 +94,8 @@ theme_schola <- function(gridlines = c("y", "x", "both", "scatter"),
 
   return(thm)
 }
+
+hrbrthemes::update_geom_font_defaults(family = "rbtc")
 ```
 
 
@@ -150,7 +153,9 @@ ggplot(all %>%
          filter(TRUE), 
        aes(date_aligned, value/1e9, colour = rok, group = grp)) +
   geom_line(aes(group = rok)) +
-  gghighlight::gghighlight(calculate_per_facet = T, rok == 2020, use_group_by = T) +
+  gghighlight::gghighlight(calculate_per_facet = T, 
+                           rok == 2020, use_group_by = T, 
+                           label_params = list(family = "rbtc", size = 2, label.size = 0)) +
   facet_wrap(~ nazev) + 
   # theme_schola("scatter", multiplot = T, plot.caption.position = "plot",
   #              family = "sans",title_family = "sans") + 
@@ -159,7 +164,7 @@ ggplot(all %>%
   scale_x_date(labels = scales::label_date(format = "%m"), date_breaks = "months", 
                expand = expansion(c(0.05, 0))) +
   labs(x = "den v roce", title = "Výběr daní podle dat Finanční správy",
-       subtitle = str_glue("mld. Kč, poslední údaj z {latest}. Rok 2020 zvýrazněn"),
+       subtitle = str_glue("Po měsících, mld. Kč. Rok 2020 zvýrazněn\nPoslední údaj z {latest}."),
        caption = "Zdroj: https://www.financnisprava.cz/cs/dane/kraje-a-obce/danove-prijmy-kraju-a-obci/prubeh-celostatniho-inkasa-sdilenych-dani-3735\n @petrbouchal | petrbouchal.github.io/czechtrack")
 ```
 
@@ -225,8 +230,8 @@ all_diffs %>%
   scale_y_continuous(limits = c(-1, 1), labels = label_percent(suffix = " %")) +
   gghighlight::gghighlight(rok == 2020, unhighlighted_params = list(alpha = .3)) +
   facet_wrap(~ nazev) + theme_schola("scatter", multiplot = T) +
-  labs(title = "Meziroční změna výnosu vybraných daní podle období",
-       subtitle = str_glue("rok 2020 zvýrazněn; extrémní hodnoty vynechány. Poslední data z {latest}."),
+  labs(title = "Meziroční změna inkasa vybraných daní podle období",
+       subtitle = str_glue("rok 2020 zvýrazněn; extrémní hodnoty vynechány.\nPoslední data z {latest}."),
        caption = "Zdroj: https://www.financnisprava.cz/cs/dane/kraje-a-obce/danove-prijmy-kraju-a-obci/prubeh-celostatniho-inkasa-sdilenych-dani-3735\n @petrbouchal | petrbouchal.github.io/czechtrack")
 ```
 
