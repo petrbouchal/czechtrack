@@ -19,15 +19,16 @@ showtext_auto()
 ```
 
 ```{r}
-sysfonts::font_add_google(family = "Roboto Condensed", "Roboto Condensed")
-sysfonts::font_add_google(family = "Roboto", "Roboto")
+sysfonts::font_add_google(family = "rbtc", "Roboto Condensed")
+sysfonts::font_add_google(family = "rbt", "Roboto")
+sysfonts::font_families()
 ```
 
 
 ```{r}
 theme_schola <- function(gridlines = c("y", "x", "both", "scatter"),
                          base_size = 11,
-                         family = "Roboto Condensed", title_family = "Roboto",
+                         family = "rbtc", title_family = "rbt",
                          margin_side = 6,
                          margin_bottom = 6,
                          plot.title.position = "plot",
