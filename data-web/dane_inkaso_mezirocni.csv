@@ -1,4 +1,250 @@
 name,value,datum,datum_parsed,rok,mesic,den,denvroce,nazev,grp,date_aligned,is_end,is_middle,month_part,narust
+DPFO podávajících přiznání,201205272.57,20.1.2009,2009-01-20,2009,1,20,20,DPFO podávajících přiznání,2009 DPFO podávajících přiznání,2000-01-20,FALSE,TRUE,middle,NA
+DPFO podávajících přiznání,74420070.24,18.1.2010,2010-01-18,2010,1,18,18,DPFO podávajících přiznání,2010 DPFO podávajících přiznání,2000-01-18,FALSE,TRUE,middle,-0.6301286278961253
+DPFO podávajících přiznání,99278525.35,19.1.2011,2011-01-19,2011,1,19,19,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-01-19,FALSE,TRUE,middle,0.33402891222533193
+DPFO podávajících přiznání,102471476.76,16.1.2012,2012-01-16,2012,1,16,16,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-01-16,FALSE,TRUE,middle,0.0321615515414182
+DPFO podávajících přiznání,197948787.09,31.1.2012,2012-01-31,2012,1,31,31,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-01-31,TRUE,FALSE,end,NA
+DPFO podávajících přiznání,85317243.87,17.1.2013,2013-01-17,2013,1,17,17,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-01-17,FALSE,TRUE,middle,-0.16740495435795455
+DPFO podávajících přiznání,180819012.77,31.1.2013,2013-01-31,2013,1,31,31,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-01-31,TRUE,FALSE,end,-0.08653639444737649
+DPFO podávajících přiznání,88735359.9,15.1.2014,2014-01-15,2014,1,15,15,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-01-15,FALSE,TRUE,middle,0.04006360115439578
+DPFO podávajících přiznání,204539772.18,31.1.2014,2014-01-31,2014,1,31,31,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-01-31,TRUE,FALSE,end,0.13118509523206257
+DPFO podávajících přiznání,-139550723.92,15. 1. 2015,2015-01-15,2015,1,15,15,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-01-15,FALSE,TRUE,middle,-2.5726619475851136
+DPFO podávajících přiznání,-226254916.76,30. 1. 2015,2015-01-30,2015,1,30,30,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-01-30,TRUE,FALSE,end,-2.106165878394008
+DPFO podávajících přiznání,119096721.75,15. 1. 2016,2016-01-15,2016,1,15,15,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-01-15,FALSE,TRUE,middle,-1.8534296233266003
+DPFO podávajících přiznání,222135972.69,29. 1. 2016,2016-01-29,2016,1,29,29,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-01-29,TRUE,FALSE,end,-1.9817951179625892
+DPFO podávajících přiznání,122234621.28,13. 1. 2017,2017-01-13,2017,1,13,13,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-01-13,FALSE,TRUE,middle,0.02634748869567427
+DPFO podávajících přiznání,247386963.2,31. 1. 2017,2017-01-31,2017,1,31,31,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-01-31,TRUE,FALSE,end,0.11367357661263977
+DPFO                    podávajících přiznání,136662642.59,15. 1. 2018,2018-01-15,2018,1,15,15,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-01-15,FALSE,TRUE,middle,0.11803547275652826
+DPFO                    podávajících přiznání,301314327.21,31. 1. 2018,2018-01-31,2018,1,31,31,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-01-31,TRUE,FALSE,end,0.21798789763388782
+DPFO                    podávajících přiznání,153474355.1,15. 1. 2019,2019-01-15,2019,1,15,15,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-01-15,FALSE,TRUE,middle,0.1230161527055833
+DPFO                    podávajících přiznání,411741362.87,31. 1. 2019,2019-01-31,2019,1,31,31,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-01-31,TRUE,FALSE,end,0.3664845169577293
+DPFO                    podávajících přiznání,154308684.56,15. 1. 2020,2020-01-15,2020,1,15,15,DPFO podávajících přiznání,2020 DPFO podávajících přiznání,2000-01-15,FALSE,TRUE,middle,0.005436279301883173
+DPFO                    podávajících přiznání,364473820.72,31. 1. 2020,2020-01-31,2020,1,31,31,DPFO podávajících přiznání,2020 DPFO podávajících přiznání,2000-01-31,TRUE,FALSE,end,-0.11479911034569501
+DPFO podávajících přiznání,510395688.66,13.2.2009,2009-02-13,2009,2,13,44,DPFO podávajících přiznání,2009 DPFO podávajících přiznání,2000-02-13,FALSE,TRUE,middle,NA
+DPFO podávajících přiznání,283940637.69,15.2.2010,2010-02-15,2010,2,15,46,DPFO podávajících přiznání,2010 DPFO podávajících přiznání,2000-02-15,FALSE,TRUE,middle,-0.44368527399700075
+DPFO podávajících přiznání,294705621.36,15.2.2011,2011-02-15,2011,2,15,46,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-02-15,FALSE,TRUE,middle,0.03791279669433223
+DPFO podávajících přiznání,303796439.29,15.2.2012,2012-02-15,2012,2,15,46,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-02-15,FALSE,TRUE,middle,0.03084711410677521
+DPFO podávajících přiznání,517248722.5,29.2.2012,2012-02-29,2012,2,29,60,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-02-29,TRUE,FALSE,end,NA
+DPFO podávajících přiznání,280343993.35,15.2.2013,2013-02-15,2013,2,15,46,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-02-15,FALSE,TRUE,middle,-0.07719789604779603
+DPFO podávajících přiznání,462734770.93,28.2.2013,2013-02-28,2013,2,28,59,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-02-28,TRUE,FALSE,end,-0.10539214346730452
+DPFO podávajících přiznání,324310302.01,14.2.2014,2014-02-14,2014,2,14,45,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-02-14,FALSE,TRUE,middle,0.15682985797063087
+DPFO podávajících přiznání,604268270.94,28.2.2014,2014-02-28,2014,2,28,59,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-02-28,TRUE,FALSE,end,0.30586311835945956
+DPFO podávajících přiznání,-211966505.3,13. 2. 2015,2015-02-13,2015,2,13,44,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-02-13,FALSE,TRUE,middle,-1.653591649683284
+DPFO podávajících přiznání,-71796431.72,27. 2. 2015,2015-02-27,2015,2,27,58,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-02-27,TRUE,FALSE,end,-1.1188154916827147
+DPFO podávajících přiznání,368538957.22,15. 2. 2016,2016-02-15,2016,2,15,46,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-02-15,FALSE,TRUE,middle,-2.7386660062088595
+DPFO podávajících přiznání,591747833.13,29. 2. 2016,2016-02-29,2016,2,29,60,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-02-29,TRUE,FALSE,end,-9.242022882665902
+DPFO podávajících přiznání,431547558.38,15. 2. 2017,2017-02-15,2017,2,15,46,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-02-15,FALSE,TRUE,middle,0.17096863147194186
+DPFO podávajících přiznání,751056954.72,28. 2. 2017,2017-02-28,2017,2,28,59,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-02-28,TRUE,FALSE,end,0.2692179213354242
+DPFO                    podávajících přiznání,479976453.97,15. 2. 2018,2018-02-15,2018,2,15,46,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-02-15,FALSE,TRUE,middle,0.11222145659171101
+DPFO                    podávajících přiznání,806970513.33,28. 2. 2018,2018-02-28,2018,2,28,59,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-02-28,TRUE,FALSE,end,0.0744464960461555
+DPFO                    podávajících přiznání,628935113.51,15. 2. 2019,2019-02-15,2019,2,15,46,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-02-15,FALSE,TRUE,middle,0.31034576448058493
+DPFO                    podávajících přiznání,1050259465.19,28. 2. 2019,2019-02-28,2019,2,28,59,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-02-28,TRUE,FALSE,end,0.30148431428560785
+DPFO                    podávajících přiznání,607995373.46,14. 2. 2020,2020-02-14,2020,2,14,45,DPFO podávajících přiznání,2020 DPFO podávajících přiznání,2000-02-14,FALSE,TRUE,middle,-0.033293959265747075
+DPFO                    podávajících přiznání,1093310125.56,28. 2. 2020,2020-02-28,2020,2,28,59,DPFO podávajících přiznání,2020 DPFO podávajících přiznání,2000-02-28,TRUE,FALSE,end,0.040990499773512434
+DPFO podávajících přiznání,1890481082.89,13.3.2009,2009-03-13,2009,3,13,72,DPFO podávajících přiznání,2009 DPFO podávajících přiznání,2000-03-13,FALSE,TRUE,middle,NA
+DPFO podávajících přiznání,2116620402.12,15.3.2010,2010-03-15,2010,3,15,74,DPFO podávajících přiznání,2010 DPFO podávajících přiznání,2000-03-15,FALSE,TRUE,middle,0.11961998523904716
+DPFO podávajících přiznání,1910746578.37,15.3.2011,2011-03-15,2011,3,15,74,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-03-15,FALSE,TRUE,middle,-0.09726534977353396
+DPFO podávajících přiznání,4824581893.29,31.3.2011,2011-03-31,2011,3,31,90,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-03-31,TRUE,FALSE,end,NA
+DPFO podávajících přiznání,1911262636.89,15.3.2012,2012-03-15,2012,3,15,75,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-03-15,FALSE,TRUE,middle,2.70082137444172e-4
+DPFO podávajících přiznání,4574096885.26,30.3.2012,2012-03-30,2012,3,30,90,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-03-30,TRUE,FALSE,end,-0.05191849025889117
+DPFO podávajících přiznání,1866895089.41,15.3.2013,2013-03-15,2013,3,15,74,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-03-15,FALSE,TRUE,middle,-0.02321373662815629
+DPFO podávajících přiznání,4385469130.57,29.3.2013,2013-03-29,2013,3,29,88,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-03-29,TRUE,FALSE,end,-0.04123825083326338
+DPFO podávajících přiznání,1954524038.34,14.3.2014,2014-03-14,2014,3,14,73,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-03-14,FALSE,TRUE,middle,0.04693833597135533
+DPFO podávajících přiznání,5608134069.49,31.3.2014,2014-03-31,2014,3,31,90,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-03-31,TRUE,FALSE,end,0.27879912103293836
+DPFO podávajících přiznání,1022230478,13. 3. 2015,2015-03-13,2015,3,13,72,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-03-13,FALSE,TRUE,middle,-0.47699262943412435
+DPFO podávajících přiznání,4492945207.7,31. 3. 2015,2015-03-31,2015,3,31,90,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-03-31,TRUE,FALSE,end,-0.1988520331311221
+DPFO podávajících přiznání,2337063156.96,15. 3. 2016,2016-03-15,2016,3,15,75,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-03-15,FALSE,TRUE,middle,1.2862389717947735
+DPFO podávajících přiznání,6240335947.28,31. 3. 2016,2016-03-31,2016,3,31,91,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-03-31,TRUE,FALSE,end,0.3889187734996913
+DPFO podávajících přiznání,2760988844.37,15. 3. 2017,2017-03-15,2017,3,15,74,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-03-15,FALSE,TRUE,middle,0.18139248233301197
+DPFO podávajících přiznání,7003814295.87,31. 3. 2017,2017-03-31,2017,3,31,90,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-03-31,TRUE,FALSE,end,0.1223457126411247
+DPFO                    podávajících přiznání,3020199704.69,15. 3. 2018,2018-03-15,2018,3,15,74,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-03-15,FALSE,TRUE,middle,0.09388334213974225
+DPFO                    podávajících přiznání,6767812777.78,29. 3. 2018,2018-03-29,2018,3,29,88,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-03-29,TRUE,FALSE,end,-0.033696141576621375
+DPFO                    podávajících přiznání,3574866644.99,15. 3. 2019,2019-03-15,2019,3,15,74,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-03-15,FALSE,TRUE,middle,0.18365240531567162
+DPFO                    podávajících přiznání,8195556707.82,29. 3. 2019,2019-03-29,2019,3,29,88,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-03-29,TRUE,FALSE,end,0.2109609081869923
+DPFO                    podávajících přiznání,3693172798.25,16. 3. 2020,2020-03-16,2020,3,16,76,DPFO podávajících přiznání,2020 DPFO podávajících přiznání,2000-03-16,FALSE,TRUE,middle,0.03309386475319309
+DPFO                    podávajících přiznání,5747963712.82,31. 3. 2020,2020-03-31,2020,3,31,91,DPFO podávajících přiznání,2020 DPFO podávajících přiznání,2000-03-31,TRUE,FALSE,end,-0.29864877789992794
+DPFO podávajících přiznání,4341047839.18,15.4.2009,2009-04-15,2009,4,15,105,DPFO podávajících přiznání,2009 DPFO podávajících přiznání,2000-04-15,FALSE,TRUE,middle,NA
+DPFO podávajících přiznání,3136142757.22,15.4.2011,2011-04-15,2011,4,15,105,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-04-15,FALSE,TRUE,middle,-0.27756088543534696
+DPFO podávajících přiznání,-4493319405.48,29.4.2011,2011-04-29,2011,4,29,119,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-04-29,TRUE,FALSE,end,NA
+DPFO podávajících přiznání,3919204722.4,16.4.2012,2012-04-16,2012,4,16,107,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-04-16,FALSE,TRUE,middle,0.24968951536955464
+DPFO podávajících přiznání,-3770063580.68,30.4.2012,2012-04-30,2012,4,30,121,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-04-30,TRUE,FALSE,end,-0.16096247774372008
+DPFO podávajících přiznání,4183824735.13,15.4.2013,2013-04-15,2013,4,15,105,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-04-15,FALSE,TRUE,middle,0.06751880329638782
+DPFO podávajících přiznání,-4677965343.8,30.4.2013,2013-04-30,2013,4,30,120,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-04-30,TRUE,FALSE,end,0.24081868745466717
+DPFO podávajících přiznání,5013907023.28,15.4.2014,2014-04-15,2014,4,15,105,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-04-15,FALSE,TRUE,middle,0.1984027392878367
+DPFO podávajících přiznání,-3722893176.13,30.4.2014,2014-04-30,2014,4,30,120,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-04-30,TRUE,FALSE,end,-0.20416401094886627
+DPFO podávajících přiznání,3699766075.19,15. 4. 2015,2015-04-15,2015,4,15,105,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-04-15,FALSE,TRUE,middle,-0.2620991857224976
+DPFO podávajících přiznání,-6076643588.88,30. 4. 2015,2015-04-30,2015,4,30,120,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-04-30,TRUE,FALSE,end,0.6322368924903605
+DPFO podávajících přiznání,5915027450.4,15. 4. 2016,2016-04-15,2016,4,15,106,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-04-15,FALSE,TRUE,middle,0.5987571457733949
+DPFO podávajících přiznání,-2241536833.13,29. 4. 2016,2016-04-29,2016,4,29,120,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-04-29,TRUE,FALSE,end,-0.6311225431697332
+DPFO podávajících přiznání,7428914685.57,13. 4. 2017,2017-04-13,2017,4,13,103,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-04-13,FALSE,TRUE,middle,0.2559391732100287
+DPFO podávajících přiznání,-920304121.31,28. 4. 2017,2017-04-28,2017,4,28,118,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-04-28,TRUE,FALSE,end,-0.5894316311434772
+DPFO                    podávajících přiznání,8692729555.94,13. 4. 2018,2018-04-13,2018,4,13,103,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-04-13,FALSE,TRUE,middle,0.17012106395902582
+DPFO                    podávajících přiznání,-2038939198.57,30. 4. 2018,2018-04-30,2018,4,30,120,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-04-30,TRUE,FALSE,end,1.2155058869753699
+DPFO                    podávajících přiznání,9401331023.18,15. 4. 2019,2019-04-15,2019,4,15,105,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-04-15,FALSE,TRUE,middle,0.08151656653758321
+DPFO                    podávajících přiznání,-1828972808.39,30. 4. 2019,2019-04-30,2019,4,30,120,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-04-30,TRUE,FALSE,end,-0.10297824983072512
+DPFO podávajících přiznání,-3085833275.16,15.5.2009,2009-05-15,2009,5,15,135,DPFO podávajících přiznání,2009 DPFO podávajících přiznání,2000-05-15,FALSE,TRUE,middle,NA
+DPFO podávajících přiznání,-2116184681.21,14.5.2010,2010-05-14,2010,5,14,134,DPFO podávajících přiznání,2010 DPFO podávajících přiznání,2000-05-14,FALSE,TRUE,middle,-0.31422585327450125
+DPFO podávajících přiznání,-4684284605.39,13.5.2011,2011-05-13,2011,5,13,133,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-05-13,FALSE,TRUE,middle,1.2135518922250217
+DPFO podávajících přiznání,-4624909792.53,31.5.2011,2011-05-31,2011,5,31,151,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-05-31,TRUE,FALSE,end,NA
+DPFO podávajících přiznání,-4469333832.1,15.5.2012,2012-05-15,2012,5,15,136,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-05-15,FALSE,TRUE,middle,-0.04588764163532366
+DPFO podávajících přiznání,-4424758308.35,31.5.2012,2012-05-31,2012,5,31,152,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-05-31,TRUE,FALSE,end,-0.04327684066471471
+DPFO podávajících přiznání,-5573575163.89,15.5.2013,2013-05-15,2013,5,15,135,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-05-15,FALSE,TRUE,middle,0.24707067613947986
+DPFO podávajících přiznání,-5519098801.11,31.5.2013,2013-05-31,2013,5,31,151,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-05-31,TRUE,FALSE,end,0.2473220945638679
+DPFO podávajících přiznání,-4371998558.85,15.5.2014,2014-05-15,2014,5,15,135,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-05-15,FALSE,TRUE,middle,-0.21558453411102396
+DPFO podávajících přiznání,-4314015046.61,30.5.2014,2014-05-30,2014,5,30,150,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-05-30,TRUE,FALSE,end,-0.2183479219936476
+DPFO podávajících přiznání,-6651926148.49,15. 5. 2015,2015-05-15,2015,5,15,135,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-05-15,FALSE,TRUE,middle,0.5214840670578138
+DPFO podávajících přiznání,-6607083277.08,29. 5. 2015,2015-05-29,2015,5,29,149,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-05-29,TRUE,FALSE,end,0.5315392286987777
+DPFO podávajících přiznání,-3543395891.53,13. 5. 2016,2016-05-13,2016,5,13,134,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-05-13,FALSE,TRUE,middle,-0.467312803475072
+DPFO podávajících přiznání,-3426978161.68,31. 5. 2016,2016-05-31,2016,5,31,152,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-05-31,TRUE,FALSE,end,-0.4813175469471981
+DPFO podávajících přiznání,-3268858956.33,15. 5. 2017,2017-05-15,2017,5,15,135,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-05-15,FALSE,TRUE,middle,-0.07747848211266573
+DPFO podávajících přiznání,-3161857747.51,31. 5. 2017,2017-05-31,2017,5,31,151,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-05-31,TRUE,FALSE,end,-0.07736273815063655
+DPFO                    podávajících přiznání,-4074063018.18,15. 5. 2018,2018-05-15,2018,5,15,135,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-05-15,FALSE,TRUE,middle,0.2463257279090485
+DPFO                    podávajících přiznání,-3951892644.93,31. 5. 2018,2018-05-31,2018,5,31,151,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-05-31,TRUE,FALSE,end,0.2498641496576377
+DPFO                    podávajících přiznání,-3446562804.94,15. 5. 2019,2019-05-15,2019,5,15,135,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-05-15,FALSE,TRUE,middle,-0.15402319758920224
+DPFO                    podávajících přiznání,-3269168570.38,31. 5. 2019,2019-05-31,2019,5,31,151,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-05-31,TRUE,FALSE,end,-0.17275876039443705
+DPFO podávajících přiznání,-865551176.3,15.6.2009,2009-06-15,2009,6,15,166,DPFO podávajících přiznání,2009 DPFO podávajících přiznání,2000-06-15,FALSE,TRUE,middle,NA
+DPFO podávajících přiznání,1732957914.91,30.6.2009,2009-06-30,2009,6,30,181,DPFO podávajících přiznání,2009 DPFO podávajících přiznání,2000-06-30,TRUE,FALSE,end,NA
+DPFO podávajících přiznání,-107623144.7,15.6.2010,2010-06-15,2010,6,15,166,DPFO podávajících přiznání,2010 DPFO podávajících přiznání,2000-06-15,FALSE,TRUE,middle,-0.8756594091177137
+DPFO podávajících přiznání,-3241624833.88,14.6.2011,2011-06-14,2011,6,14,165,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-06-14,FALSE,TRUE,middle,29.120146023571824
+DPFO podávajících přiznání,-1143800012.55,30.6.2011,2011-06-30,2011,6,30,181,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-06-30,TRUE,FALSE,end,-1.66002757638197
+DPFO podávajících přiznání,-2676020901.99,15.6.2012,2012-06-15,2012,6,15,167,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-06-15,FALSE,TRUE,middle,-0.1744816136582381
+DPFO podávajících přiznání,-1196474807.96,29.6.2012,2012-06-29,2012,6,29,181,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-06-29,TRUE,FALSE,end,0.04605245220496745
+DPFO podávajících přiznání,-4098973686.1,14.6.2013,2013-06-14,2013,6,14,165,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-06-14,FALSE,TRUE,middle,0.5317420290147337
+DPFO podávajících přiznání,-2105540342.46,28.6.2013,2013-06-28,2013,6,28,179,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-06-28,TRUE,FALSE,end,0.7597866068320858
+DPFO podávajících přiznání,-2888142208.65,13.6.2014,2014-06-13,2014,6,13,164,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-06-13,FALSE,TRUE,middle,-0.2953986949357693
+DPFO podávajících přiznání,-782384999.53,30.6.2014,2014-06-30,2014,6,30,181,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-06-30,TRUE,FALSE,end,-0.628416048957816
+DPFO podávajících přiznání,-4867179546.69,15. 6. 2015,2015-06-15,2015,6,15,166,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-06-15,FALSE,TRUE,middle,0.6852284946748026
+DPFO podávajících přiznání,-2765551625.47,30. 6. 2015,2015-06-30,2015,6,30,181,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-06-30,TRUE,FALSE,end,2.534770767756721
+DPFO podávajících přiznání,-1332789229.26,15. 6. 2016,2016-06-15,2016,6,15,167,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-06-15,FALSE,TRUE,middle,-0.7261680576040421
+DPFO podávajících přiznání,928307781.57,30. 6. 2016,2016-06-30,2016,6,30,182,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-06-30,TRUE,FALSE,end,-1.3356682164312286
+DPFO podávajících přiznání,-827096670.61,15. 6. 2017,2017-06-15,2017,6,15,166,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-06-15,FALSE,TRUE,middle,-0.37942425369896926
+DPFO podávajících přiznání,1347791984.66,30. 6. 2017,2017-06-30,2017,6,30,181,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-06-30,TRUE,FALSE,end,0.45188052003673573
+DPFO                    podávajících přiznání,-1464155535.88,15. 6. 2018,2018-06-15,2018,6,15,166,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-06-15,FALSE,TRUE,middle,0.7702350739728607
+DPFO                    podávajících přiznání,715956344.44,29. 6. 2018,2018-06-29,2018,6,29,180,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-06-29,TRUE,FALSE,end,-0.4687931427188222
+DPFO                    podávajících přiznání,-735807001.05,14. 6. 2019,2019-06-14,2019,6,14,165,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-06-14,FALSE,TRUE,middle,-0.497452980220603
+DPFO                    podávajících přiznání,2014575653.76,28. 6. 2019,2019-06-28,2019,6,28,179,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-06-28,TRUE,FALSE,end,1.8138247106892273
+DPFO podávajících přiznání,2799023209.2,16.7.2009,2009-07-16,2009,7,16,197,DPFO podávajících přiznání,2009 DPFO podávajících přiznání,2000-07-16,FALSE,TRUE,middle,NA
+DPFO podávajících přiznání,3647222658.06,15.7.2010,2010-07-15,2010,7,15,196,DPFO podávajících přiznání,2010 DPFO podávajících přiznání,2000-07-15,FALSE,TRUE,middle,0.30303408920372177
+DPFO podávajících přiznání,-543005019.35,15.7.2011,2011-07-15,2011,7,15,196,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-07-15,FALSE,TRUE,middle,-1.14888178492476
+DPFO podávajících přiznání,-1053280469.6,29.7.2011,2011-07-29,2011,7,29,210,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-07-29,TRUE,FALSE,end,NA
+DPFO podávajících přiznání,-357647954.41,13.7.2012,2012-07-13,2012,7,13,195,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-07-13,FALSE,TRUE,middle,-0.34135423860700265
+DPFO podávajících přiznání,-761231528.2,31.7.2012,2012-07-31,2012,7,31,213,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-07-31,TRUE,FALSE,end,-0.27727556888139226
+DPFO podávajících přiznání,-904296196.95,15.7.2013,2013-07-15,2013,7,15,196,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-07-15,FALSE,TRUE,middle,1.528453429691182
+DPFO podávajících přiznání,-1277181337.01,31.7.2013,2013-07-31,2013,7,31,212,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-07-31,TRUE,FALSE,end,0.677783026183912
+DPFO podávajících přiznání,-4604465.99,15.7.2014,2014-07-15,2014,7,15,196,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-07-15,FALSE,TRUE,middle,-0.9949082324955807
+DPFO podávajících přiznání,-407830951.45,31.7.2014,2014-07-31,2014,7,31,212,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-07-31,TRUE,FALSE,end,-0.6806788984211356
+DPFO podávajících přiznání,-1859872908.39,15. 7. 2015,2015-07-15,2015,7,15,196,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-07-15,FALSE,TRUE,middle,402.92803691661106
+DPFO podávajících přiznání,-2194116927.42,31. 7. 2015,2015-07-31,2015,7,31,212,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-07-31,TRUE,FALSE,end,4.379966673983542
+DPFO podávajících přiznání,1961254722.75,15. 7. 2016,2016-07-15,2016,7,15,197,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-07-15,FALSE,TRUE,middle,-2.0545100764157915
+DPFO podávajících přiznání,1624701437.37,29. 7. 2016,2016-07-29,2016,7,29,211,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-07-29,TRUE,FALSE,end,-1.7404807907299817
+DPFO podávajících přiznání,2500572937.07,14. 7. 2017,2017-07-14,2017,7,14,195,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-07-14,FALSE,TRUE,middle,0.27498631772000937
+DPFO podávajících přiznání,2148619789.98,31. 7. 2017,2017-07-31,2017,7,31,212,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-07-31,TRUE,FALSE,end,0.32247054170032485
+DPFO                    podávajících přiznání,2079232847.31,13. 7. 2018,2018-07-13,2018,7,13,194,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-07-13,FALSE,TRUE,middle,-0.1684974205366302
+DPFO                    podávajících přiznání,1835880101.62,31. 7. 2018,2018-07-31,2018,7,31,212,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-07-31,TRUE,FALSE,end,-0.14555375958950434
+DPFO                    podávajících přiznání,3667389298.92,15. 7. 2019,2019-07-15,2019,7,15,196,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-07-15,FALSE,TRUE,middle,0.7638184697133232
+DPFO                    podávajících přiznání,3320629813.37,31. 7. 2019,2019-07-31,2019,7,31,212,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-07-31,TRUE,FALSE,end,0.8087400208977924
+DPFO podávajících přiznání,2168448491.3,14.8.2009,2009-08-14,2009,8,14,226,DPFO podávajících přiznání,2009 DPFO podávajících přiznání,2000-08-14,FALSE,TRUE,middle,NA
+DPFO podávajících přiznání,3392184580.81,13.8.2010,2010-08-13,2010,8,13,225,DPFO podávajících přiznání,2010 DPFO podávajících přiznání,2000-08-13,FALSE,TRUE,middle,0.564337172139312
+DPFO podávajících přiznání,-1098458695.33,15.8.2011,2011-08-15,2011,8,15,227,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-08-15,FALSE,TRUE,middle,-1.323820437585889
+DPFO podávajících přiznání,-1011886095.62,31.8.2011,2011-08-31,2011,8,31,243,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-08-31,TRUE,FALSE,end,NA
+DPFO podávajících přiznání,-762738038.17,15.8.2012,2012-08-15,2012,8,15,228,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-08-15,FALSE,TRUE,middle,-0.3056288402898413
+DPFO podávajících přiznání,-651913382.43,31.8.2012,2012-08-31,2012,8,31,244,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-08-31,TRUE,FALSE,end,-0.3557443023954574
+DPFO podávajících přiznání,-1240625864.86,15.8.2013,2013-08-15,2013,8,15,227,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-08-15,FALSE,TRUE,middle,0.6265425385582877
+DPFO podávajících přiznání,-1163694086.55,30.8.2013,2013-08-30,2013,8,30,242,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-08-30,TRUE,FALSE,end,0.7850440225852444
+DPFO podávajících přiznání,-374777969.88,15.8.2014,2014-08-15,2014,8,15,227,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-08-15,FALSE,TRUE,middle,-0.6979121744150544
+DPFO podávajících přiznání,-272942573.67,29.8.2014,2014-08-29,2014,8,29,241,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-08-29,TRUE,FALSE,end,-0.7654516106727053
+DPFO podávajících přiznání,-2164126423.8,14. 8. 2015,2015-08-14,2015,8,14,226,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-08-14,FALSE,TRUE,middle,4.774422718851193
+DPFO podávajících přiznání,-2054876709.08,31. 8. 2015,2015-08-31,2015,8,31,243,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-08-31,TRUE,FALSE,end,6.528604575863783
+DPFO podávajících přiznání,1570385176.84,15. 8. 2016,2016-08-15,2016,8,15,228,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-08-15,FALSE,TRUE,middle,-1.725643917827385
+DPFO podávajících přiznání,1728212521.94,31. 8. 2016,2016-08-31,2016,8,31,244,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-08-31,TRUE,FALSE,end,-1.8410297874823582
+DPFO podávajících přiznání,2053502719.55,15. 8. 2017,2017-08-15,2017,8,15,227,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-08-15,FALSE,TRUE,middle,0.3076427043727903
+DPFO podávajících přiznání,2201251422.27,31. 8. 2017,2017-08-31,2017,8,31,243,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-08-31,TRUE,FALSE,end,0.2737157000800987
+DPFO                    podávajících přiznání,1765020908,15. 8. 2018,2018-08-15,2018,8,15,227,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-08-15,FALSE,TRUE,middle,-0.14048279985390877
+DPFO                    podávajících přiznání,1888812351.1,31. 8. 2018,2018-08-31,2018,8,31,243,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-08-31,TRUE,FALSE,end,-0.1419370218272491
+DPFO                    podávajících přiznání,3418921690.6,15. 8. 2019,2019-08-15,2019,8,15,227,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-08-15,FALSE,TRUE,middle,0.9370431676495472
+DPFO                    podávajících přiznání,3572393731.89,30. 8. 2019,2019-08-30,2019,8,30,242,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-08-30,TRUE,FALSE,end,0.8913439070903586
+DPFO podávajících přiznání,2922855125.14,15.9.2009,2009-09-15,2009,9,15,258,DPFO podávajících přiznání,2009 DPFO podávajících přiznání,2000-09-15,FALSE,TRUE,middle,NA
+DPFO podávajících přiznání,4649343153.47,15.9.2010,2010-09-15,2010,9,15,258,DPFO podávajících přiznání,2010 DPFO podávajících přiznání,2000-09-15,FALSE,TRUE,middle,0.5906854614449304
+DPFO podávajících přiznání,5756163.01,15.9.2011,2011-09-15,2011,9,15,258,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-09-15,FALSE,TRUE,middle,-0.9987619405967693
+DPFO podávajících přiznání,292618159.26,30.9.2011,2011-09-30,2011,9,30,273,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-09-30,TRUE,FALSE,end,NA
+DPFO podávajících přiznání,189307507.79,14.9.2012,2012-09-14,2012,9,14,258,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-09-14,FALSE,TRUE,middle,31.887794779460215
+DPFO podávajících přiznání,602228568.56,27.9.2012,2012-09-27,2012,9,27,271,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-09-27,TRUE,FALSE,end,1.0580697045014964
+DPFO podávajících přiznání,-429811817.6,13.9.2013,2013-09-13,2013,9,13,256,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-09-13,FALSE,TRUE,middle,-3.27044253351427
+DPFO podávajících přiznání,78538697.73,30.9.2013,2013-09-30,2013,9,30,273,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-09-30,TRUE,FALSE,end,-0.8695865625940076
+DPFO podávajících přiznání,678221254.63,15.9.2014,2014-09-15,2014,9,15,258,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-09-15,FALSE,TRUE,middle,-2.577949295152186
+DPFO podávajících přiznání,1089406766.09,30.9.2014,2014-09-30,2014,9,30,273,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-09-30,TRUE,FALSE,end,12.870955307091515
+DPFO podávajících přiznání,-935287732.85,15. 9. 2015,2015-09-15,2015,9,15,258,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-09-15,FALSE,TRUE,middle,-2.379030407061249
+DPFO podávajících přiznání,-552873739.06,30. 9. 2015,2015-09-30,2015,9,30,273,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-09-30,TRUE,FALSE,end,-1.50749982125072
+DPFO podávajících přiznání,3000388690.95,15. 9. 2016,2016-09-15,2016,9,15,259,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-09-15,FALSE,TRUE,middle,-4.2079846506777585
+DPFO podávajících přiznání,3446784927.82,30. 9. 2016,2016-09-30,2016,9,30,274,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-09-30,TRUE,FALSE,end,-7.234307553981945
+DPFO podávajících přiznání,3629664087.95,15. 9. 2017,2017-09-15,2017,9,15,258,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-09-15,FALSE,TRUE,middle,0.20973129211494101
+DPFO podávajících přiznání,4000891536.6,29. 9. 2017,2017-09-29,2017,9,29,272,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-09-29,TRUE,FALSE,end,0.16076042468088003
+DPFO                    podávajících přiznání,3286359792.56,14. 9. 2018,2018-09-14,2018,9,14,257,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-09-14,FALSE,TRUE,middle,-0.09458293855062905
+DPFO                    podávajících přiznání,3835822629.6,27. 9. 2018,2018-09-27,2018,9,27,270,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-09-27,TRUE,FALSE,end,-0.041258030988832406
+DPFO                    podávajících přiznání,4979667719.61,13. 9. 2019,2019-09-13,2019,9,13,256,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-09-13,FALSE,TRUE,middle,0.5152533605369336
+DPFO                    podávajících přiznání,5704505308.3,30. 9. 2019,2019-09-30,2019,9,30,273,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-09-30,TRUE,FALSE,end,0.48716608121550875
+DPFO podávajících přiznání,3499369746.73,15.10.2009,2009-10-15,2009,10,15,288,DPFO podávajících přiznání,2009 DPFO podávajících přiznání,2000-10-15,FALSE,TRUE,middle,NA
+DPFO podávajících přiznání,5144816138.74,15.10.2010,2010-10-15,2010,10,15,288,DPFO podávajících přiznání,2010 DPFO podávajících přiznání,2000-10-15,FALSE,TRUE,middle,0.47021221279848846
+DPFO podávajících přiznání,386518126.51,14.10.2011,2011-10-14,2011,10,14,287,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-10-14,FALSE,TRUE,middle,-0.9248723149502752
+DPFO podávajících přiznání,509059257.79,31.10.2011,2011-10-31,2011,10,31,304,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-10-31,TRUE,FALSE,end,NA
+DPFO podávajících přiznání,715423932.51,15.10.2012,2012-10-15,2012,10,15,289,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-10-15,FALSE,TRUE,middle,0.8509453591990608
+DPFO podávajících přiznání,815696714.21,31.10.2012,2012-10-31,2012,10,31,305,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-10-31,TRUE,FALSE,end,0.6023610252197709
+DPFO podávajících přiznání,195432887.14,15.10.2013,2013-10-15,2013,10,15,288,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-10-15,FALSE,TRUE,middle,-0.726829257089092
+DPFO podávajících přiznání,362051522.36,31.10.2013,2013-10-31,2013,10,31,304,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-10-31,TRUE,FALSE,end,-0.5561444394064454
+DPFO podávajících přiznání,1182464121.89,15.10.2014,2014-10-15,2014,10,15,288,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-10-15,FALSE,TRUE,middle,5.050486891916671
+DPFO podávajících přiznání,1153586314.07,31.10.2014,2014-10-31,2014,10,31,304,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-10-31,TRUE,FALSE,end,2.1862490359119393
+DPFO podávajících přiznání,-426345367.06,15. 10. 2015,2015-10-15,2015,10,15,288,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-10-15,FALSE,TRUE,middle,-1.3605567045692242
+DPFO podávajících přiznání,-283734219.1,31. 10. 2015,2015-10-31,2015,10,31,304,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-10-31,TRUE,FALSE,end,-1.245958378353978
+DPFO podávajících přiznání,3604507308.48,14. 10. 2016,2016-10-14,2016,10,14,288,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-10-14,FALSE,TRUE,middle,-9.45443057898348
+DPFO podávajících přiznání,3761906313.67,31. 10. 2016,2016-10-31,2016,10,31,305,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-10-31,TRUE,FALSE,end,-14.25855698901141
+DPFO podávajících přiznání,4147384617.4,15. 10. 2017,2017-10-15,2017,10,15,288,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-10-15,FALSE,TRUE,middle,0.15061068336380434
+DPFO podávajících přiznání,4391417715.83,31. 10. 2017,2017-10-31,2017,10,31,304,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-10-31,TRUE,FALSE,end,0.1673384049657174
+DPFO                    podávajících přiznání,4028600251.36,15. 10. 2018,2018-10-15,2018,10,15,288,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-10-15,FALSE,TRUE,middle,-0.028640788592803834
+DPFO                    podávajících přiznání,4345654542.83,31. 10. 2018,2018-10-31,2018,10,31,304,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-10-31,TRUE,FALSE,end,-0.010421047589035948
+DPFO                    podávajících přiznání,5894151417.06,15. 10. 2019,2019-10-15,2019,10,15,288,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-10-15,FALSE,TRUE,middle,0.463076763466471
+DPFO                    podávajících přiznání,6143184613.27,31. 10. 2019,2019-10-31,2019,10,31,304,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-10-31,TRUE,FALSE,end,0.413638510084928
+DPFO podávajících přiznání,3683621426.97,13.11.2009,2009-11-13,2009,11,13,317,DPFO podávajících přiznání,2009 DPFO podávajících přiznání,2000-11-13,FALSE,TRUE,middle,NA
+DPFO podávajících přiznání,5422315985.75,15.11.2010,2010-11-15,2010,11,15,319,DPFO podávajících přiznání,2010 DPFO podávajících přiznání,2000-11-15,FALSE,TRUE,middle,0.4720068533780306
+DPFO podávajících přiznání,586365235.97,15.11.2011,2011-11-15,2011,11,15,319,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-11-15,FALSE,TRUE,middle,-0.8918607404085294
+DPFO podávajících přiznání,700042153.87,30.11.2011,2011-11-30,2011,11,30,334,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-11-30,TRUE,FALSE,end,NA
+DPFO podávajících přiznání,914041282.24,15.11.2012,2012-11-15,2012,11,15,320,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-11-15,FALSE,TRUE,middle,0.5588258412488232
+DPFO podávajících přiznání,1042308999.35,30.11.2012,2012-11-30,2012,11,30,335,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-11-30,TRUE,FALSE,end,0.4889231935360854
+DPFO podávajících přiznání,483382183.9,15.11.2013,2013-11-15,2013,11,15,319,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-11-15,FALSE,TRUE,middle,-0.4711593521078207
+DPFO podávajících přiznání,585349642.89,29.11.2013,2013-11-29,2013,11,29,333,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-11-29,TRUE,FALSE,end,-0.43841064093754056
+DPFO podávajících přiznání,861880310.98,14.11.2014,2014-11-14,2014,11,14,318,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-11-14,FALSE,TRUE,middle,0.7830204332857706
+DPFO podávajících přiznání,394138645.1,28.11.2014,2014-11-28,2014,11,28,332,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-11-28,TRUE,FALSE,end,-0.3266611675817366
+DPFO podávajících přiznání,-132668126.32,13. 11. 2015,2015-11-13,2015,11,13,317,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-11-13,FALSE,TRUE,middle,-1.1539287121771582
+DPFO podávajících přiznání,-6597114.81,30. 11. 2015,2015-11-30,2015,11,30,334,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-11-30,TRUE,FALSE,end,-1.0167380562449697
+DPFO podávajících přiznání,3909485740.44,15. 11. 2016,2016-11-15,2016,11,15,320,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-11-15,FALSE,TRUE,middle,-30.468161259850678
+DPFO podávajících přiznání,4053294010.98,30. 11. 2016,2016-11-30,2016,11,30,335,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-11-30,TRUE,FALSE,end,-615.4040429364607
+DPFO podávajících přiznání,4515167855.98,15. 11. 2017,2017-11-15,2017,11,15,319,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-11-15,FALSE,TRUE,middle,0.1549262884565048
+DPFO podávajících přiznání,4675246923.66,30. 11. 2017,2017-11-30,2017,11,30,334,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-11-30,TRUE,FALSE,end,0.15344381902600368
+DPFO                    podávajících přiznání,4529514770.79,15. 11. 2018,2018-11-15,2018,11,15,319,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-11-15,FALSE,TRUE,middle,0.003177493122652919
+DPFO                    podávajících přiznání,4709396845.27,30. 11. 2018,2018-11-30,2018,11,30,334,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-11-30,TRUE,FALSE,end,0.007304410262734651
+DPFO                    podávajících přiznání,6300876887.8,15. 11. 2019,2019-11-15,2019,11,15,319,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-11-15,FALSE,TRUE,middle,0.39107105432864153
+DPFO                    podávajících přiznání,6493491501.42,29. 11. 2019,2019-11-29,2019,11,29,333,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-11-29,TRUE,FALSE,end,0.3788371875990657
+DPFO podávajících přiznání,4492192523.15,11.12.2009,2009-12-11,2009,12,11,345,DPFO podávajících přiznání,2009 DPFO podávajících přiznání,2000-12-11,FALSE,TRUE,middle,NA
+DPFO podávajících přiznání,5564987669.14,31.12.2009,2009-12-31,2009,12,31,365,DPFO podávajících přiznání,2009 DPFO podávajících přiznání,2000-12-31,TRUE,FALSE,end,NA
+DPFO podávajících přiznání,6670035500.76,13.12.2010,2010-12-13,2010,12,13,347,DPFO podávajících přiznání,2010 DPFO podávajících přiznání,2000-12-13,FALSE,TRUE,middle,0.4848062424721862
+DPFO podávajících přiznání,7987179026.43,31.12.2010,2010-12-31,2010,12,31,365,DPFO podávajících přiznání,2010 DPFO podávajících přiznání,2000-12-31,TRUE,FALSE,end,0.4352554760762515
+DPFO podávajících přiznání,1438721158.24,12.12.2011,2011-12-12,2011,12,12,346,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-12-12,FALSE,TRUE,middle,-0.7843008244744621
+DPFO podávajících přiznání,2938769900.92,30.12.2011,2011-12-30,2011,12,30,364,DPFO podávajících přiznání,2011 DPFO podávajících přiznání,2000-12-30,TRUE,FALSE,end,-0.6320641003293586
+DPFO podávajících přiznání,1984620855.65,12.12.2012,2012-12-12,2012,12,12,347,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-12-12,FALSE,TRUE,middle,0.37943398154914454
+DPFO podávajících přiznání,3261488258.08,31.12.2012,2012-12-31,2012,12,31,366,DPFO podávajících přiznání,2012 DPFO podávajících přiznání,2000-12-31,TRUE,FALSE,end,0.10981409502627981
+DPFO podávajících přiznání,1957829593.68,13.12.2013,2013-12-13,2013,12,13,347,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-12-13,FALSE,TRUE,middle,-0.013499435871455301
+DPFO podávajících přiznání,2680353365.31,31.12.2013,2013-12-31,2013,12,31,365,DPFO podávajících přiznání,2013 DPFO podávajících přiznání,2000-12-31,TRUE,FALSE,end,-0.17818089374698753
+DPFO podávajících přiznání,1008901591.12,15.12.2014,2014-12-15,2014,12,15,349,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-12-15,FALSE,TRUE,middle,-0.4846836546056923
+DPFO podávajících přiznání,1128075815.23,31.12.2014,2014-12-31,2014,12,31,365,DPFO podávajících přiznání,2014 DPFO podávajících přiznání,2000-12-31,TRUE,FALSE,end,-0.5791316809828428
+DPFO podávajících přiznání,1968857857.22,15. 12. 2015,2015-12-15,2015,12,15,349,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-12-15,FALSE,TRUE,middle,0.9514865221238626
+DPFO podávajících přiznání,2498164300.7,31. 12. 2015,2015-12-31,2015,12,31,365,DPFO podávajících přiznání,2015 DPFO podávajících přiznání,2000-12-31,TRUE,FALSE,end,1.2145358201750445
+DPFO podávajících přiznání,6280318883.96,15. 12. 2016,2016-12-15,2016,12,15,350,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-12-15,FALSE,TRUE,middle,2.189828489105721
+DPFO podávajících přiznání,6849041717.28,30. 12. 2016,2016-12-30,2016,12,30,365,DPFO podávajících přiznání,2016 DPFO podávajících přiznání,2000-12-30,TRUE,FALSE,end,1.7416298100812901
+DPFO podávajících přiznání,7083369847.37,15. 12. 2017,2017-12-15,2017,12,15,349,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-12-15,FALSE,TRUE,middle,0.1278678643947524
+DPFO podávajících přiznání,7616820969.15,31. 12. 2017,2017-12-31,2017,12,31,365,DPFO podávajících přiznání,2017 DPFO podávajících přiznání,2000-12-31,TRUE,FALSE,end,0.11210024461274748
+DPFO                    podávajících přiznání,7108149465.45,14. 12. 2018,2018-12-14,2018,12,14,348,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-12-14,FALSE,TRUE,middle,0.0034982809896904055
+DPFO                    podávajících přiznání,7841101511.37,31. 12. 2018,2018-12-31,2018,12,31,365,DPFO podávajících přiznání,2018 DPFO podávajících přiznání,2000-12-31,TRUE,FALSE,end,0.029445426527470175
+DPFO                    podávajících přiznání,9390186592.55,16. 12. 2019,2019-12-16,2019,12,16,350,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-12-16,FALSE,TRUE,middle,0.3210451803513854
+DPFO                    podávajících přiznání,9892961198.03,31. 12. 2019,2019-12-31,2019,12,31,365,DPFO podávajících přiznání,2019 DPFO podávajících přiznání,2000-12-31,TRUE,FALSE,end,0.26168003101154835
 DPFO závislá činnost,10107029960.57,20.1.2009,2009-01-20,2009,1,20,20,DPFO závislá činnost,2009 DPFO závislá činnost,2000-01-20,FALSE,TRUE,middle,NA
 DPFO závislá činnost,9459762288.63,18.1.2010,2010-01-18,2010,1,18,18,DPFO závislá činnost,2010 DPFO závislá činnost,2000-01-18,FALSE,TRUE,middle,-0.06404133305878679
 DPFO závislá činnost,10521937469.37,19.1.2011,2011-01-19,2011,1,19,19,DPFO závislá činnost,2011 DPFO závislá činnost,2000-01-19,FALSE,TRUE,middle,0.11228349596233134
@@ -62,6 +308,7 @@ DPFO                    závislá činnost,44288560275.32,29. 3. 2018,2018-03-29
 DPFO                    závislá činnost,44496358727.46,15. 3. 2019,2019-03-15,2019,3,15,74,DPFO závislá činnost,2019 DPFO závislá činnost,2000-03-15,FALSE,TRUE,middle,0.12060585649579636
 DPFO                    závislá činnost,49823448649.2,29. 3. 2019,2019-03-29,2019,3,29,88,DPFO závislá činnost,2019 DPFO závislá činnost,2000-03-29,TRUE,FALSE,end,0.12497331905738962
 DPFO                    závislá činnost,49086187521.09,16. 3. 2020,2020-03-16,2020,3,16,76,DPFO závislá činnost,2020 DPFO závislá činnost,2000-03-16,FALSE,TRUE,middle,0.1031506605235426
+DPFO                    závislá činnost,54758309965.37,31. 3. 2020,2020-03-31,2020,3,31,91,DPFO závislá činnost,2020 DPFO závislá činnost,2000-03-31,TRUE,FALSE,end,0.0990469638285314
 DPFO závislá činnost,32274242689.17,15.4.2009,2009-04-15,2009,4,15,105,DPFO závislá činnost,2009 DPFO závislá činnost,2000-04-15,FALSE,TRUE,middle,NA
 DPFO závislá činnost,33074765951.95,15.4.2011,2011-04-15,2011,4,15,105,DPFO závislá činnost,2011 DPFO závislá činnost,2000-04-15,FALSE,TRUE,middle,0.02480378147025042
 DPFO závislá činnost,34920505753.15,29.4.2011,2011-04-29,2011,4,29,119,DPFO závislá činnost,2011 DPFO závislá činnost,2000-04-29,TRUE,FALSE,end,NA
@@ -307,6 +554,7 @@ DPH,92644832612.51,29. 3. 2018,2018-03-29,2018,3,29,88,DPH,2018 DPH,2000-03-29,T
 DPH,67646695992.07,15. 3. 2019,2019-03-15,2019,3,15,74,DPH,2019 DPH,2000-03-15,FALSE,TRUE,middle,-0.037853035756778786
 DPH,92494337785.7,29. 3. 2019,2019-03-29,2019,3,29,88,DPH,2019 DPH,2000-03-29,TRUE,FALSE,end,-0.0016244276401193858
 DPH,74709025222.78,16. 3. 2020,2020-03-16,2020,3,16,76,DPH,2020 DPH,2000-03-16,FALSE,TRUE,middle,0.10440020945794437
+DPH,97778113436.93,31. 3. 2020,2020-03-31,2020,3,31,91,DPH,2020 DPH,2000-03-31,TRUE,FALSE,end,0.057125395756354
 DPH,51231298165.68,15.4.2009,2009-04-15,2009,4,15,105,DPH,2009 DPH,2000-04-15,FALSE,TRUE,middle,NA
 DPH,50234974508.62,15.4.2011,2011-04-15,2011,4,15,105,DPH,2011 DPH,2000-04-15,FALSE,TRUE,middle,-0.019447558284350408
 DPH,96125174273,29.4.2011,2011-04-29,2011,4,29,119,DPH,2011 DPH,2000-04-29,TRUE,FALSE,end,NA
@@ -552,6 +800,7 @@ DPPO,39072347864.21,29. 3. 2018,2018-03-29,2018,3,29,88,DPPO,2018 DPPO,2000-03-2
 DPPO,33498136332.19,15. 3. 2019,2019-03-15,2019,3,15,74,DPPO,2019 DPPO,2000-03-15,FALSE,TRUE,middle,0.045410460755421767
 DPPO,40548656567.52,29. 3. 2019,2019-03-29,2019,3,29,88,DPPO,2019 DPPO,2000-03-29,TRUE,FALSE,end,0.03778397726291449
 DPPO,36217631204.81,16. 3. 2020,2020-03-16,2020,3,16,76,DPPO,2020 DPPO,2000-03-16,FALSE,TRUE,middle,0.08118346781001962
+DPPO,41348053117.17,31. 3. 2020,2020-03-31,2020,3,31,91,DPPO,2020 DPPO,2000-03-31,TRUE,FALSE,end,0.019714501473529156
 DPPO,32262302870.88,15.4.2009,2009-04-15,2009,4,15,105,DPPO,2009 DPPO,2000-04-15,FALSE,TRUE,middle,NA
 DPPO,29096849024.61,15.4.2011,2011-04-15,2011,4,15,105,DPPO,2011 DPPO,2000-04-15,FALSE,TRUE,middle,-0.09811617784814564
 DPPO,28439224379.15,29.4.2011,2011-04-29,2011,4,29,119,DPPO,2011 DPPO,2000-04-29,TRUE,FALSE,end,NA
