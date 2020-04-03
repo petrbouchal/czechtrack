@@ -141,7 +141,8 @@ all %>%
 
 ```{r}
 all_diffs <- all %>% 
-  filter(nazev %in% c("DPH", "DPFO závislá činnost", "DPPO")) %>% 
+  filter(nazev %in% c("DPH", "DPFO závislá činnost", "DPPO",
+                      "DPFO podávajících přiznání")) %>% 
   mutate(is_end = between(den, 25, 31),
          is_middle = between(den, 10, 20)) %>% 
   filter(is_middle | is_end) %>% 
@@ -179,7 +180,7 @@ all_diffs %>%
   scale_x_continuous(trans = rev_date, labels = label_date("%b"), n.breaks = 12) +
   scale_y_continuous(limits = c(-1, 1), labels = label_percent(suffix = " %")) +
   gghighlight::gghighlight(rok == 2020, unhighlighted_params = list(alpha = .3)) +
-  facet_wrap(~ nazev) + theme_schola("scatter", multiplot = T) +
+  facet_wrap(~ nazev, nrow = 1) + theme_schola("scatter", multiplot = T) +
   labs(title = "Meziroční změna inkasa vybraných daní podle období",
        subtitle = str_glue("rok 2020 zvýrazněn; extrémní hodnoty vynechány.\nPoslední data z {latest}."),
        caption = "Zdroj: https://www.financnisprava.cz/cs/dane/kraje-a-obce/danove-prijmy-kraju-a-obci/prubeh-celostatniho-inkasa-sdilenych-dani-3735\n @petrbouchal | petrbouchal.github.io/czechtrack")
