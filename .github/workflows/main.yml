@@ -34,10 +34,9 @@ jobs:
 
       - name: Install packages
         run: |
+          R -e 'Sys.setenv("GITHUB_PAT", ${{ secrets.GH_PAT }})'
           R -e 'install.packages("renv")'
           R -e 'renv::restore()'
-        with:
-          repo-token: ${{ secrets.GH_PAT}}
 
       - name: Render Site
         run: |-
