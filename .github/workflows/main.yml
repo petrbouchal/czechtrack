@@ -33,11 +33,11 @@ jobs:
           restore-keys: r-
 
       - name: Install packages
-        with:
-          repo-token: ${{ secrets.GH_PAT}}
         run: |
           R -e 'install.packages("renv")'
           R -e 'renv::restore()'
+        with:
+          repo-token: ${{ secrets.GH_PAT}}
 
       - name: Render Site
         run: |-
