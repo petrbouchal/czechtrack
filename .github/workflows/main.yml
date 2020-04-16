@@ -33,8 +33,8 @@ jobs:
           restore-keys: r-
 
       - name: Install packages
+        env: GITHUB_PAT: ${{ secrets.GH_PAT }}
         run: |
-          R -e 'Sys.setenv("GITHUB_PAT" = ${{ secrets.GH_PAT }})'
           R -e 'install.packages("renv")'
           R -e 'renv::restore()'
 
