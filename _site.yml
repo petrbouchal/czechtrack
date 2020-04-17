@@ -1,7 +1,7 @@
 name: czechtrack
 output_dir: docs
 include: ["demo.R"]
-exclude: ["LICENSE.md", "*.csv"]
+exclude: ["LICENSE.md", "*.csv", "*.rds"]
 navbar:
   title: "Veřejné finance ČR"
   right:
