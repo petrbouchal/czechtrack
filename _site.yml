@@ -16,4 +16,4 @@ output:
     df_print: paged
     code_download: T
     includes:
-      in_header: gaheader.html
+      in_header: matomo.html
