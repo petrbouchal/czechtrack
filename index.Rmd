@@ -8,8 +8,13 @@ output:
 ```{r setup, echo = F, message=F, include=F, eval = T}
 Sys.setlocale("LC_ALL", "cs_CZ.UTF-8")
 
+ragg_png = function(..., res = 192) {
+  ragg::agg_png(..., res = res, units = "in")
+}
+
 knitr::opts_chunk$set(include = F, warning = F, message = F, 
-                      fig.showtext=TRUE, out.width = "90%", fig.retina = 3, fig.asp = 0.6)
+                      fig.showtext=TRUE, out.width = "90%", fig.retina = 3,
+                      fig.asp = 0.6)
 
 library(tidyverse)
 library(rvest)
