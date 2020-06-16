@@ -198,6 +198,8 @@ all_diffs %>%
 ```{r}
 all_pub <- all %>% select(-DATUM)
 write_csv(all_pub, "data-web/dane_inkaso_vse.csv")
+# write_excel_csv2(all_pub, "data-web/dane_inkaso_vse_proexcel.csv")
+writexl::write_xlsx(all_pub, "data-web/dane_inkaso_vse.xlsx")
 ```
 
 [Data v CSV](data-web/dane_inkaso_vse.csv)
